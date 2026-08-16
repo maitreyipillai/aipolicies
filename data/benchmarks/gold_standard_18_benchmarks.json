@@ -1,1 +1,560 @@
-
+[
+  {
+    "benchmark_id": 1,
+    "unit_id": "USA_AIAP_2025_PIL02_P14_15",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Action Plan / Executive Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar II: Build American AI Infrastructure — Create Streamlined Permitting for Data Centers (Pages 14–15)"
+    },
+    "text_excerpt": "America’s environmental permitting system and other regulations make it almost impossible to build this infrastructure in the United States with the speed that is required. Establish new Categorical Exclusions under NEPA to cover data center-related actions that normally do not have a significant effect on the environment. Ensure that the domestic AI computing stack is built on American products and that the infrastructure that supports AI development is free from foreign adversary information and communications technology and services.",
+    "evaluation_output": {
+      "primary_theme": "Theme 2: Executive Power & Emergency Bypass",
+      "primary_score": 3,
+      "secondary_theme": "Theme 6: International Competitiveness & Geopolitical Control",
+      "secondary_score": 3,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 3,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 2,
+        "theme_6": 3
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The excerpt directs federal agencies to bypass standard statutory environmental review processes via NEPA categorical exclusions under executive authority (Score 3 under Theme 2). This deregulatory mandate is directly paired with mandatory supply-chain exclusions prohibiting foreign adversary technology (Score 3 under Theme 6). Domestic compute buildout serves as the supporting baseline (Score 2 under Theme 5)."
+    }
+  },
+  {
+    "benchmark_id": 2,
+    "unit_id": "USA_AIAP_2025_PIL03_SEMI",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar III: Protect American AI Advantage — Plug Loopholes in Existing Semiconductor Manufacturing Export Controls"
+    },
+    "text_excerpt": "Semiconductors are among the most complex inventions ever conceived by man. America and its close allies hold near-monopolies on many critical components and processes in the semiconductor manufacturing pipeline. We must continue to lead the world with pathbreaking research and new inventions in semiconductor manufacturing, but the United States must also prevent our adversaries from using our innovations to their own ends in ways that undermine our national security. This requires new measures to address gaps in semiconductor manufacturing export controls, coupled with enhanced enforcement. Recommended Policy Actions: Led by DOC, develop new export controls on semiconductor manufacturing sub-systems. Currently, the United States and its allies impose export controls on major systems necessary for semiconductor manufacturing, but do not control many of the component sub-systems.",
+    "evaluation_output": {
+      "primary_theme": "Theme 6: International Competitiveness & Geopolitical Control",
+      "primary_score": 3,
+      "secondary_theme": "Theme 5: Economic & Industrial Strategy",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 1,
+        "theme_6": 3
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The core operative mechanism is the expansion and enforcement of mandatory national security export controls on semiconductor manufacturing subsystems to restrict foreign adversaries (Score 3 under Theme 6). Research and technological leadership in semiconductor manufacturing are mentioned as context without dedicated domestic funding or commercial market programs in this chunk (Score 1 under Theme 5)."
+    }
+  },
+  {
+    "benchmark_id": 3,
+    "unit_id": "USA_AIAP_2025_PIL01_P08_09",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar I: Accelerate AI Innovation — Build World-Class Scientific Datasets; Advance the Science of AI; Invest in AI Interpretability, Control, and Robustness Breakthroughs"
+    },
+    "text_excerpt": "The United States must lead the creation of the world’s largest and highest quality AI-ready scientific datasets, while maintaining respect for individual rights and ensuring civil liberties, privacy, and confidentiality protections... Direct the National Science and Technology Council (NSTC) Machine Learning and AI Subcommittee to make recommendations on minimum data quality standards for the use of biological, materials science, chemical, physical, and other scientific data modalities in AI model training... Promulgate the OMB regulations required in the Confidential Information Protection and Statistical Efficiency Act of 2018 on presumption of accessibility and expanding secure access... Establish secure compute environments within NSF and DOE... Explore the creation of a whole-genome sequencing program for life on Federal lands... to train future biological foundation models. Advance the Science of AI... Prioritize investment in theoretical, computational, and experimental research... Invest in AI Interpretability, Control, and Robustness Breakthroughs... Launch a technology development program led by DARPA in collaboration with CAISI at DOC and NSF, to advance AI interpretability, AI control systems, and adversarial robustness... Prioritize fundamental advancements in AI interpretability... coordinate an AI hackathon initiative... to test AI systems for transparency, effectiveness, use control, and security vulnerabilities.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational substance is the funding and coordination of basic scientific research, data access portals (NSF/DOE), data quality standards, and DARPA-led interpretability/robustness testing programs (Score 2 under Theme 5). The clauses regarding 'maintaining respect for individual rights and ensuring civil liberties' represent non-binding preamble rhetoric lacking statutory enforcement mechanisms or private cause of action (Score 1 under Theme 4). References to foreign adversaries racing ahead and national leadership provide contextual geopolitical framing without active sanctions or export restrictions (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 4,
+    "unit_id": "USA_AIAP_2025_PIL01_EVALS",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar I: Accelerate AI Innovation — Build an AI Evaluations Ecosystem"
+    },
+    "text_excerpt": "Evaluations are how the AI industry assesses the performance and reliability of AI systems. Rigorous evaluations can be a critical tool in defining and measuring AI reliability and performance in regulated industries. Over time, regulators should explore the use of evaluations in their application of existing law to AI systems. Recommended Policy Actions: Publish guidelines and resources through NIST at DOC, including CAISI, for Federal agencies to conduct their own evaluations of AI systems for their distinct missions and operations and for compliance with existing law... Support the development of the science of measuring and evaluating AI models, led by NIST at DOC, DOE, NSF, and other Federal science agencies... Convene meetings at least twice per year under the auspices of CAISI at DOC for Federal agencies and the research community to share learnings and best practices on building AI evaluations... Invest, via DOE and NSF, in the development of AI testbeds for piloting AI systems in secure, real-world settings, allowing researchers to prototype new AI systems and translate them to the market. Such testbeds would encourage participation by broad multistakeholder teams and span a wide variety of economic verticals touched by AI, including agriculture, transportation, and healthcare delivery... Led by DOC, convene the NIST AI Consortium to empower the collaborative establishment of new measurement science that will enable the identification of proven, scalable, and interoperable techniques and metrics to promote the development of AI.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 2,
+        "theme_6": 0
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational mechanism is the development of measurement science, technical testbeds across economic verticals (agriculture, transportation, healthcare), and voluntary inter-agency guidelines via NIST/CAISI/NSF to promote AI development (Score 2 under Theme 5). References to 'evaluations for compliance with existing law' and exploring evaluations in regulated industries represent voluntary guidance without establishing mandatory audits, binding statutory civil rights oversight, or legal liability mechanisms (Score 1 under Theme 4)."
+    }
+  },
+  {
+    "benchmark_id": 5,
+    "unit_id": "USA_AIAP_2025_PIL01_P11",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar I: Accelerate AI Innovation — Drive Adoption of AI within the Department of Defense"
+    },
+    "text_excerpt": "AI has the potential to transform both the warfighting and back-office operations of the DOD. The United States must aggressively adopt AI within its Armed Forces if it is to maintain its global military preeminence while also ensuring, as outlined throughout this Action Plan, that its use of AI is secure and reliable. Because the DOD has unique operational needs within the Federal government, it merits specific policy actions to drive AI adoption. Recommended Policy Actions: Identify the talent and skills DOD’s workforce requires to leverage AI at scale... Establish an AI & Autonomous Systems Virtual Proving Ground at DOD... Develop a streamlined process within DOD for classifying, evaluating, and optimizing workflows... aiming to develop a list of priority workflows for automation with AI... Prioritize DOD-led agreements with cloud service providers, operators of computing infrastructure, and other relevant private sector entities to codify priority access to computing resources in the event of a national emergency so that DOD is prepared to fully leverage these technologies during a significant conflict. Grow our Senior Military Colleges into hubs of AI research, development, and talent building...",
+    "evaluation_output": {
+      "primary_theme": "Theme 6: International Competitiveness & Geopolitical Control",
+      "primary_score": 3,
+      "secondary_theme": "Theme 2: Executive Power & Emergency Bypass",
+      "secondary_score": 2,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 2,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 1,
+        "theme_6": 3
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary directive mandates aggressive AI adoption across warfighting functions and autonomous systems to preserve global military preeminence (Score 3 under Theme 6). The requirement to establish formal defense agreements codifying priority government commandeering/access to commercial cloud and computing infrastructure during national emergencies/conflicts represents an executive emergency mobilization mechanism (Score 2 under Theme 2). General internal workflow automation and military college curriculum building serve as organizational support (Score 1 under Theme 5)."
+    }
+  },
+  {
+    "benchmark_id": 6,
+    "unit_id": "SGP_NAIS_2019_PROJ_LOGISTICS",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "National AI Projects — Logistics: Optimise Freight Movement"
+    },
+    "text_excerpt": "How can we optimise the movement of freight to improve productivity for businesses, and traffic efficiency?... We aim to create a freight movement ecosystem where key parties leverage AI to share information and collaborate in an integrated manner, to enable more efficient freight and truck movement across Singapore. Intelligent routing and scheduling of trucks... Pooling and dynamic assignment of trucking jobs... We will explore building a common and trusted data exchange platform to facilitate planning and optimisation of truck trips. We will focus our initial efforts on piloting and deploying AI applications that facilitate planning and optimisation of truck trips to and from the sea gateway... AI-enabled planning and modelling for better urban planning. Data collected from the ecosystem will also enable Government to conduct data-driven policy reviews and do better urban planning to improve the overall efficiency of Singapore’s logistics ecosystem.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "None",
+      "secondary_score": 0,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The operational mechanism focuses on deploying AI applications, intelligent routing algorithms, and a shared commercial data exchange platform to optimize domestic port and logistics efficiency (Score 2 under Theme 5). Tracking commercial freight vehicles and aggregated traffic flow constitutes civil municipal utility and urban management rather than population surveillance or law enforcement monitoring (Theme 1 = 0). References to business competitiveness represent standard economic baseline framing (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 7,
+    "unit_id": "SGP_NAIS_2019_PROJ05_BORDER",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "National AI Projects — Project 5: Border Clearance Operations"
+    },
+    "text_excerpt": "We aim to deploy AI to achieve 100% automated immigration clearance for all travellers, including first-time social visitors. Singaporeans and departing visitors will experience 'Breeze-Through' immigration clearance, without the need to present their passports... Even though our border security will be enhanced, for most travellers, these security measures will work quietly in the background... Singapore will explore using AI to assist immigration officers in evaluating the risk profile of travellers before they arrive at our checkpoints, and to tier the level of security screening accordingly. To enable this, we will collect and analyse data from various sources, including the Singapore Arrival Cards submitted by travellers and advance passenger information from airlines.",
+    "evaluation_output": {
+      "primary_theme": "Theme 1: State Surveillance & Domestic Control",
+      "primary_score": 2,
+      "secondary_theme": "Theme 5: Economic & Industrial Strategy",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 2,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 1,
+        "theme_6": 0
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational mechanism is the automated predictive risk-profiling of individuals using aggregated state data sources (arrival cards, airline passenger information) paired with passport-free automated biometric tracking at national border checkpoints (Score 2 under Theme 1). The explicit framing around improving traveler throughput, easing labor force constraints, and maintaining commercial tourism convenience serves as the supporting administrative efficiency baseline (Score 1 under Theme 5)."
+    }
+  },
+  {
+    "benchmark_id": 8,
+    "unit_id": "SGP_NAIS_2019_ENAB02_P54_55",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "Ecosystem Enabler 2: AI Talent and Education — Key Thrust 2.1: Train More Singaporeans for High-Quality AI Jobs (Pages 54–55)"
+    },
+    "text_excerpt": "Talent is both the foundation of, and critical bottleneck for, realising Singapore’s AI vision. We need a range of multidisciplinary talent... to develop and deploy AI solutions to the key sectors: Research and Development... Data Engineering... Product Development... and Implementation... Singapore will track the supply and demand of AI talent and manpower to identify shortfalls... We will establish more local talent pipelines to increase the quantity and quality of our AI workforce in the longer-term. We will do so by creating AI conversion programmes and corporate-backed AI academies to upskill the latent pool of STEM and digital workers into higher-value AI-related job roles. Post-graduate Scholarships... with companies such as Alibaba, Nvidia, Sensetime, and Grab... AI Apprenticeship Programme (AIAP)... TechSkills Accelerator (TeSA)... to support ICT and non-ICT professionals to upgrade and acquire new skills for the digital economy.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "None",
+      "secondary_score": 0,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational focus is workforce development, public-private post-graduate scholarships (Alibaba, Nvidia, SenseTime, Grab), apprenticeship programs (AIAP), and funded professional reskilling initiatives (TeSA, SkillsFuture) to expand domestic human capital (Score 2 under Theme 5). Tracking domestic manpower supply and demand constitutes standard civil labor administration rather than population surveillance or law enforcement profiling (Theme 1 = 0). References to attracting global talent and realizing the national AI vision represent baseline economic competitiveness (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 9,
+    "unit_id": "SGP_NAIS_2019_ENAB03_DATA",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "Ecosystem Enabler 3: Data Architecture — Key Thrust 3.1: Establish Frameworks for Public-Private Data Collaboration"
+    },
+    "text_excerpt": "Data is the foundation that anchors AI collaboration between Government, industry, and research. Despite Singapore’s small size, we have natural comparative advantages in data. We can leverage our unique common identifiers to curate rich, cross-sectoral datasets... Singapore’s key value proposition to global companies and talent lies in our ability to provide timely and secure access to rich, high quality datasets. We must manage our data as strategic national assets and establish an ecosystem to acquire, clean, fuse, and distribute data across the public and private sectors. At the same time, we must proactively build institutional capabilities to manage and govern data, to protect against cyberattacks, safeguard our citizens’ data privacy, and ensure that data is used for the public good... We will begin by consolidating the data assets required for each of the National AI Projects, and put in place the necessary data sharing frameworks and legislation to enable companies to share and exploit data securely. Key Thrust 3.1 Establish frameworks for public-private data collaboration... Private Sector Data Sharing Framework. IMDA has published the Trusted Data Sharing Framework to guide companies in establishing data sharing partnerships with each other.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational mechanism is commercial and industrial infrastructure building: establishing public-private data consolidation pipelines, IMDA's Trusted Data Sharing Framework, and facilitating business data exchange to attract global companies (Score 2 under Theme 5). Statements regarding safeguarding citizen data privacy and protecting against cyberattacks constitute voluntary governance frameworks and advisory best practices without independent statutory enforcement bodies or judicial penalty schemes (Score 1 under Theme 4). Leveraged demographic advantages and exportable solutions represent economic positioning rather than coercive international control (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 10,
+    "unit_id": "SGP_NAIS2_2023_ENAB09_P55",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2023,
+      "issuing_authority": "Smart Nation Group / Ministry of Communications and Information (MCI)",
+      "structural_location": "System 3: Infrastructure & Environment — Enabler 9: Trusted Environment (Page 55)"
+    },
+    "text_excerpt": "Trust and safety underwrite confidence in Singapore’s AI landscape. They lie at the heart of our interventions to deliver AI for the Public Good. We will endeavour for AI to be developed and deployed in a safe, trustworthy, and responsible manner. The Government will institutionalise appropriate governance and security frameworks for AI systems... We must retain agility in our regulatory approaches... The Government must therefore take a pragmatic approach – supporting experimentation and innovation, while still ensuring that AI is developed and used responsibly, in line with the rule of law and the safeguards we have put in place... There is a range of potential risks around AI, spanning from concerns around model quality and fair use, to fears around the loss of control and existential risks... We must ensure that AI systems are well-developed, reliable, and resilient... ensure that the output of models is not biased, inaccurate, or erroneous. AI models should also be aligned with the appropriate set of human and cultural values... We must prevent AI models from being used in malicious or harmful ways... If AI is used carelessly, it can potentially amplify negative outcomes like discrimination, anti-competitive behaviours, or intellectual property infringement... The Government will take differentiated approaches to managing risks to and from AI, ranging from regulatory moves to voluntary guidelines...",
+    "evaluation_output": {
+      "primary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "primary_score": 1,
+      "secondary_theme": "Theme 5: Economic & Industrial Strategy",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 1,
+        "theme_6": 0
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The text focuses on AI safety, ethical principles, mitigating bias and discrimination, and establishing a 'trusted environment' for the public. However, because these commitments are framed around 'agile regulatory approaches,' 'voluntary guidelines,' and aspirational governance goals without creating legally binding statutory mandates, private causes of action, or an independent enforcement body with punitive fine powers, Theme 4 is restricted to Score 1. The simultaneous emphasis on 'supporting experimentation and innovation' and pragmatic ecosystem growth provides the supporting industrial baseline (Score 1 under Theme 5)."
+    }
+  },
+  {
+    "benchmark_id": 11,
+    "unit_id": "SGP_NAIS2_2023_ACT13_P57",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2023,
+      "issuing_authority": "Smart Nation Group / Infocomm Media Development Authority (IMDA)",
+      "structural_location": "System 3: Infrastructure & Environment — Action 13: Ensure Fit-for-Purpose Regulatory Environment for AI (Page 57)"
+    },
+    "text_excerpt": "The Government will continue to maintain a regulatory environment for AI that is pro-innovation while ensuring appropriate guardrails... Update AI governance frameworks to address novel risks... like the Model AI Governance Framework and AI Verify... AI Verify is an AI governance testing framework and software toolkit developed by IMDA. The testing framework consists of 11 AI ethics principles... AI Verify helps organisations validate the performance of their AI systems against these principles through standardised tests... Continue working with partners on R&D, particularly around alignment and evaluations... supported by policy measures including regulatory sandboxes, pilots for solutions such as watermarking and model cards, and capability development to nurture a domestic Testing, Inspection, and Certification (TIC) sector. Design interventions that are risk-based, tiered, and adapted for specific vertical sectors and horizontal applications... Consider updates to broader standards and laws to support effective AI use. Contribute actively to international discourse on AI governance, to raise capacity, share best practices, and shape rules around AI...",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational mechanism is technical capacity and ecosystem building: deploying voluntary open-source evaluation toolkits (AI Verify), setting up regulatory sandboxes, developing model cards/watermarking pilots, and cultivating a domestic Testing, Inspection, and Certification (TIC) industrial sector (Score 2 under Theme 5). References to 11 AI ethics principles, mitigating high-risk deployment (e.g., hiring tools), and ensuring guardrails represent non-binding voluntary testing toolkits and adaptive guidance rather than statutory civil rights mandates with judicial penalties (Score 1 under Theme 4). Active participation in global standards-setting bodies (UN HLAB) constitutes international best-practice engagement (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 12,
+    "unit_id": "SGP_NAIS2_2023_ACT15_P62",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "Electoral Autocracy / Dominant Party",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2023,
+      "issuing_authority": "Smart Nation Group / Ministry of Communications and Information (MCI)",
+      "structural_location": "System 3: Infrastructure & Environment — Action 15: Establish Singapore as an Ambitious and Pragmatic International Partner on AI Innovation and Governance (Page 62)"
+    },
+    "text_excerpt": "Action 15: Establish Singapore as an ambitious and pragmatic international partner on AI innovation and governance. Singapore is committed to being a serious and reliable international partner on AI. This is important for sustaining our international position as a trusted hub. We will: Continue to grow Singapore’s international networks with key partner countries and leading AI companies. Increase international mindshare in practical and risk-based approaches to AI... We have developed governance frameworks and open-source testing toolkits such as AI Verify. These demonstrate Singapore’s commitment to developing and deploying AI well, and we will leverage these gains to be a global pace-setter at the forefront of AI. We will contribute to international AI developments by: Anchoring key bilateral relationships with selected partners from government and industry... Demonstrating alignment with key international fora and supporting worthwhile platforms... Sharing Singapore’s experience and curating meaningful partnerships for capacity building... We are the convenor of the Forum of Small States (FOSS), which now has a digital pillar of engagement. Together with government and industry partners, we will develop AI-related capacity building initiatives to benefit the 108 members of FOSS.",
+    "evaluation_output": {
+      "primary_theme": "Theme 6: International Competitiveness & Geopolitical Control",
+      "primary_score": 2,
+      "secondary_theme": "Theme 5: Economic & Industrial Strategy",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 1,
+        "theme_6": 2
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational focus is international diplomacy, multilateral standards-setting, and establishing Singapore as a global hub and 'pace-setter' through bilateral partnerships, multilateral platforms, and the Forum of Small States (FOSS) (Score 2 under Theme 6). Growing business networks with leading AI companies and promoting tools like Pair represents general commercial ecosystem support (Score 1 under Theme 5). Mentions of promoting governance frameworks and risk-based approaches (e.g., AI Verify) reflect voluntary international standards engagement rather than binding domestic civil liberties oversight or statutory penalties (Score 1 under Theme 4)."
+    }
+  },
+  {
+    "benchmark_id": 13,
+    "unit_id": "IND_NAIS_2018_SEC_AGRI_P30_33",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "regime_type": "Electoral Democracy / Flawed Democracy",
+      "document_hierarchy": "National Strategy Roadmap / Discussion Paper",
+      "year": 2018,
+      "issuing_authority": "NITI Aayog",
+      "structural_location": "Focus Sectors: Agriculture — Soil Health, Crop Monitoring, Farm Mechanisation & Price Realisation (Pages 30–33)"
+    },
+    "text_excerpt": "Agriculture and allied sector is critical to India’s growth story... The Government of India has recently prioritised Doubling Farmers’ Income as a National Agenda; putting considerable focus on supply chain perspectives in agriculture and market development in addition to productivity augmentation... AI will have significant global impact on agricultural productivity at all levels of the value chain... digital farming and connected farm services can impact 70 million Indian farmers in 2020, adding USD9 billion to farmer incomes... Use of AI and related technologies have the potential to impact productivity and efficiency: Soil health monitoring and restoration... Crop health monitoring and providing real time action advisories to farmers... Increasing efficiency of farm mechanisation... Increasing the share of price realisation to producers... Predictive analytics using AI tools can bring more accurate supply and demand information to farmers, thus reducing information asymmetry between farmers and intermediaries. Data from e-NAM, Agricultural Census, AGMARKET and over 110 million Soil Health Samples provide the volumes required for any predictive modelling... NITI Aayog and IBM have partnered to develop a crop yield prediction model using AI to provide real time advisory to farmers... implemented in 10 Aspirational Districts across the States of Assam, Bihar, Jharkhand, Madhya Pradesh, Maharashtra, Rajasthan and Uttar Pradesh.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "None",
+      "secondary_score": 0,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational mechanism is domestic developmental capacity building, digital agtech ecosystem support, public-private pilots (NITI Aayog-IBM, Microsoft-ICRISAT), and agricultural data aggregation (e-NAM, Soil Health Samples) to augment farmer incomes and crop yields (Score 2 under Theme 5). Aggregating soil, climate, satellite, and farm holding data constitutes agricultural resource optimization and civil economic planning rather than individual biometric tracking or population surveillance (Theme 1 = 0). Comparative references to the higher agricultural yields of the USA and China serve as economic benchmarking rather than coercive geopolitical rivalry or export control enforcement (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 14,
+    "unit_id": "IND_NAIS_2018_SEC_EDU_P35_37",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "regime_type": "Electoral Democracy / Flawed Democracy",
+      "document_hierarchy": "National Strategy Roadmap / Discussion Paper",
+      "year": 2018,
+      "issuing_authority": "NITI Aayog",
+      "structural_location": "Focus Sectors: Education — Adaptive Learning Tools, Dropout Prediction & Teacher Rationalisation (Pages 35–37)"
+    },
+    "text_excerpt": "An effective education sector has the ability to transform a country through development of human resources and increased productivity... School education in India has seen substantial progress... However, low retention rates and poor learning outcomes mar the impact of gains in enrolment... AI has the potential to bring about changes in the sector by supplementing pedagogy and establishing systems to inform and support decision making across stakeholders and administrative levels... Adaptive learning tools for customised learning... Intelligent and interactive tutoring systems... Predictive tools to inform pre-emptive action for students predicted to drop out of school: Analysis of test results and attendance records using AI can be used to predict probable student activities and inform pre-emptive action. For instance, in a recent preliminary experiment conducted in Andhra Pradesh, AI applications processed data on all students based on parameters such as gender, socio-economic factors, academic performance, school infrastructure, teacher skills, etc., with the objective of helping the government identify students likely to drop out... Automated rationalisation of teachers... Customised professional development courses.",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "None",
+      "secondary_score": 0,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 0,
+        "theme_5": 2,
+        "theme_6": 0
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational substance focuses on human capital development, educational capacity building, adaptive learning tools, and automated teacher deployment/training systems (Score 2 under Theme 5). The machine learning pilot predicting student dropouts in Andhra Pradesh (processing demographic and attendance parameters) functions strictly as a social welfare and educational intervention program rather than punitive law enforcement surveillance, criminal profiling, or state coercion (Theme 1 = 0). No coercive security overrides or binding civil rights legal mechanisms are present."
+    }
+  },
+  {
+    "benchmark_id": 15,
+    "unit_id": "IND_NAIS_2018_CH_ETHICS_P85_88",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "regime_type": "Electoral Democracy / Flawed Democracy",
+      "document_hierarchy": "National Strategy Roadmap / Discussion Paper",
+      "year": 2018,
+      "issuing_authority": "NITI Aayog",
+      "structural_location": "Chapter: Ethics, Privacy, Security and Artificial Intelligence — Towards a 'Responsible AI' (Pages 85–88)"
+    },
+    "text_excerpt": "Any strategy document on promoting AI, necessarily needs to be conscious of the probable factors of the AI ecosystem that may undermine ethical conduct, impinge on one’s privacy and undermine the security protocol... Presently, most AI solutions suffer from what is commonly known as the 'Black Box Phenomenon'... Opening the Black Box... should rather aim at 'explainability'... Dealing with privacy issues: Establish a data protection framework with legal backing: The work being done by Justice Srikrishna Committee on data protection law is very opportune and timely. The 7-core principles of data protection and privacy – informed consent, technology agnosticism, data controller accountability, data minimisation, holistic application, deterrent penalties and structured enforcement – are quite comprehensive and should provide a strong privacy protection regime in the country once enacted. Establish sectoral regulatory frameworks... Benchmark national data protection and privacy laws with international standards: European Union’s General Data Protection Regulation (GDPR) guidelines... Encourage self-regulation: Data Privacy Impact Assessment Tools... Invest and collaborate in privacy preserving AI research... Differential Privacy, Privacy by Design... Spread awareness: Privacy has been termed as a fundamental right by the Supreme Court of India... Security in AI: Negligence test for damages caused by AI software, as opposed to strict liability... safe harbours need to be formulated to insulate or limit liability so long as appropriate steps to design, test, monitor, and improve the AI product have been taken... establish a new Centre for Data Ethics and Innovation...",
+    "evaluation_output": {
+      "primary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "primary_score": 2,
+      "secondary_theme": "Theme 5: Economic & Industrial Strategy",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 2,
+        "theme_5": 1,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational focus is civil liberties, privacy, algorithmic fairness, and accountability: endorsing the Justice Srikrishna Committee's proposed data protection legal framework (encompassing deterrent penalties, structured enforcement, and informed consent), recognizing the Supreme Court's fundamental right to privacy, and proposing liability apportionment regimes (Score 2 under Theme 4; capped at 2 because it refers to the Srikrishna Committee's draft work rather than an already-enacted statute with existing enforcement). Promoting R&D into technical privacy-preserving mechanisms (Differential Privacy, XAI, Privacy by Design) and establishing Centres of Excellence/Data Trusts represents supporting industrial and technological capacity building (Score 1 under Theme 5). Benchmarking against EU GDPR and UK institutions reflects international standard-alignment (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 16,
+    "unit_id": "DEU_AI_STRAT_2018_SEC_GOALS_P08",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2018,
+      "issuing_authority": "Federal Government of Germany (BMWi, BMBF, BMAS)",
+      "structural_location": "Section: Goals — Pillar I: Leading Centre for AI & Competitiveness; Pillar II: Responsible Development Serving the Good of Society; Pillar III: Ethical, Legal, Cultural and Institutional Integration (Page 8)"
+    },
+    "text_excerpt": "We want to make Germany and Europe a leading centre for AI and thus help safeguard Germany’s competitiveness in the future... Germany is to become a leading centre for AI, especially through the pursuit of a speedy and comprehensive transfer of research findings to applications and the modernisation of administration in the context of the needs of a state based on the rule of law. ‘Artificial Intelligence (AI) made in Germany’ is to become a globally recognised quality mark... We want to broaden the strong scientific basis for AI that we have in Germany and link it up with other promising technological developments and applications in order to develop new applications in a range of industries, in public administration and in different areas of society. We want Germany to build on its strong position in Industrie 4.0 and to become a world leader in AI applications in this field... whilst strictly observing data security and people’s right to control their personal data... We want a responsible development and use of AI which serves the good of society... adhering to ethical and legal principles consistent with our liberal democratic constitutional system... raise awareness... regarding ethical and legal limits of the use of artificial intelligence and to examine whether the regulatory framework needs to be further developed in order for it to guarantee a high level of legal certainty..",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 2,
+        "theme_6": 1
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational focus is industrial baseline capacity: expanding the domestic research base, integrating AI into Industrie 4.0 and SMEs, establishing 'AI made in Germany' as a commercial export quality mark, and expanding smart gigabit infrastructure (Score 2 under Theme 5). Extensive commitments to ethical principles, democratic constitutional consistency, workers' self-determination, data security/control rights, and media freedom are presented as high-level guiding principles and awareness-raising goals without defining statutory enforcement mechanisms, independent audit mandates, or specific legal penalties in this goals section (Score 1 under Theme 4). Safeguarding European competitiveness and global excellence serves as standard multilateral positioning rather than coercive international control (Score 1 under Theme 6)."
+    }
+  },
+  {
+    "benchmark_id": 17,
+    "unit_id": "DEU_AI_STRAT_2018_SEC03_CLUSTER",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2018,
+      "issuing_authority": "Federal Government of Germany (BMWi, BMBF, BMAS)",
+      "structural_location": "Section 3: European and International Cooperation — European Innovation Cluster & Franco-German Partnerships"
+    },
+    "text_excerpt": "We will form a European innovation cluster providing funding for cooperative research projects over the next five years. Many of the systemic developments described in the above will depend on cross-border innovation partnerships for their success. For this reason, we will work with other European partners from science and the business community on specific research and development projects, for instance as part of a EUREKA cluster. The representatives from SMEs and the industrial sector that take part in the Franco-German cooperation (cf. 3.1) should act as a nucleus for this kind of European cooperation, which is needed to highlight Europe’s role in research and also to make us more competitive. This can be achieved by pooling financing and sharing infrastructure and data (including data infrastructure or high-performance computing. This is the only way for us to reach the scale that is competitive at an international level (cf. also 3.11). Our goal for the medium term is to set up an integrated pan-European network of scientists and businesses, rooted in shared values and a joint regulatory framework (“European AI”).",
+    "evaluation_output": {
+      "primary_theme": "Theme 5: Economic & Industrial Strategy",
+      "primary_score": 2,
+      "secondary_theme": "Theme 6: International Competitiveness & Geopolitical Control",
+      "secondary_score": 2,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 1,
+        "theme_5": 2,
+        "theme_6": 2
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operative mechanism is direct state-backed industrial and scientific investment: funding collaborative research projects over five years, pooling financing, and sharing compute/data infrastructure across SMEs and industrial sectors (Score 2 under Theme 5). The strategic objective is positioning Europe to achieve international scale and competitiveness through multilateral cross-border alliances, EUREKA clusters, and Franco-German bilateral cooperation (Score 2 under Theme 6). The phrase 'rooted in shared values and a joint regulatory framework' represents aspirational multilateral normative alignment rather than enforceable statutory civil rights mandates or judicial penalty mechanisms (Score 1 under Theme 4)."
+    }
+  },
+  {
+    "benchmark_id": 18,
+    "unit_id": "DEU_AI_STRAT_2018_SEC_WORK_CODET",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "regime_type": "Liberal Democracy",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2018,
+      "issuing_authority": "Federal Government of Germany (BMWi, BMBF, BMAS)",
+      "structural_location": "Section 3: AI in the World of Work — Safeguarding Co-Determination and Employee Data Protection"
+    },
+    "text_excerpt": "The Federal Government will safeguard the right to co-determination, including where the introduction of AI application is concerned; the Federal Government will look into the question of whether a dedicated Workforce Data Protection Act could improve the level of legal certainty where this type of application is introduced in companies.",
+    "evaluation_output": {
+      "primary_theme": "Theme 4: Civil Rights, Privacy & Judicial Guardrails",
+      "primary_score": 2,
+      "secondary_theme": "Theme 5: Economic & Industrial Strategy",
+      "secondary_score": 1,
+      "scores_full_breakdown": {
+        "theme_1": 0,
+        "theme_2": 0,
+        "theme_3": 0,
+        "theme_4": 2,
+        "theme_5": 1,
+        "theme_6": 0
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The primary operational focus is institutional worker protections, employee privacy, and statutory legal certainty in corporate settings (Score 2 under Theme 4). Safeguarding institutional co-determination (Mitbestimmung) ties directly to structural labor governance and rights protections, while exploring a dedicated 'Workforce Data Protection Act' targets statutory data privacy for employees. Facilitating the smooth, legally certain introduction of AI applications inside private enterprises provides the supporting economic baseline (Score 1 under Theme 5)."
+    }
+  }
+]
