@@ -1,4 +1,4 @@
-# Methodological Decisions & Operational Coding Harness (Codebook v2.0 Architecture)
+# Methodological Decisions (Codebook v2.0 Architecture)
 
 **Target Audience:** Claude / Automated Coding Pipeline & Project PI  
 **Document Purpose:** Definitive PI methodological decisions resolving all 7 blocking questions raised in `CODING_READINESS.md` (Part 1). This document provides direct operational instructions to amend `codebook/codebook_detailed.md` to v2.0.0, balance the few-shot benchmark suite, and execute the R extraction and scoring pipeline.
