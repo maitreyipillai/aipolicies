@@ -1,0 +1,932 @@
+{"page":1,"col":1,"y":47,"x":258,"x_end":351,"height":9,"n_words":3,"text":"THE WHITE HOUSE","line_no":1}
+{"page":1,"col":1,"y":344,"x":169,"x_end":442,"height":61,"n_words":3,"text":"Winning the Race","line_no":2}
+{"page":1,"col":1,"y":402,"x":129,"x_end":482,"height":124,"n_words":1,"text":"AMERICA’S","line_no":3}
+{"page":1,"col":1,"y":501,"x":47,"x_end":564,"height":124,"n_words":3,"text":"AI ACTION PLAN","line_no":4}
+{"page":1,"col":1,"y":696,"x":264,"x_end":344,"height":31,"n_words":2,"text":"JULY 2025","line_no":5}
+{"page":2,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":6}
+{"page":2,"col":1,"y":234,"x":108,"x_end":503,"height":23,"n_words":10,"text":"“Today, a new frontier of scientific discovery lies before us,","line_no":7}
+{"page":2,"col":1,"y":257,"x":108,"x_end":503,"height":23,"n_words":7,"text":"defined by transformative technologies such as artificial","line_no":8}
+{"page":2,"col":1,"y":280,"x":108,"x_end":504,"height":23,"n_words":8,"text":"intelligence… Breakthroughs in these fields have the potential","line_no":9}
+{"page":2,"col":1,"y":304,"x":108,"x_end":503,"height":23,"n_words":10,"text":"to reshape the global balance of power, spark entirely new","line_no":10}
+{"page":2,"col":1,"y":327,"x":108,"x_end":503,"height":23,"n_words":11,"text":"industries, and revolutionize the way we live and work. As our","line_no":11}
+{"page":2,"col":1,"y":351,"x":108,"x_end":503,"height":23,"n_words":10,"text":"global competitors race to exploit these technologies, it is a","line_no":12}
+{"page":2,"col":1,"y":374,"x":108,"x_end":503,"height":23,"n_words":9,"text":"national security imperative for the United States to achieve","line_no":13}
+{"page":2,"col":1,"y":397,"x":108,"x_end":503,"height":23,"n_words":6,"text":"and maintain unquestioned and unchallenged global","line_no":14}
+{"page":2,"col":1,"y":421,"x":108,"x_end":503,"height":23,"n_words":8,"text":"technological dominance. To secure our future, we must","line_no":15}
+{"page":2,"col":1,"y":444,"x":108,"x_end":417,"height":23,"n_words":7,"text":"harness the full power of American innovation.”","line_no":16}
+{"page":2,"col":1,"y":492,"x":254,"x_end":356,"height":23,"n_words":3,"text":"Donald J. Trump","line_no":17}
+{"page":2,"col":1,"y":518,"x":192,"x_end":418,"height":20,"n_words":10,"text":"45 th and 47 th President of the United States","line_no":18}
+{"page":2,"col":1,"y":735,"x":304,"x_end":306,"height":14,"n_words":1,"text":"i","line_no":19}
+{"page":3,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":20}
+{"page":3,"col":1,"y":72,"x":226,"x_end":384,"height":33,"n_words":3,"text":"Table of Contents","line_no":21}
+{"page":3,"col":1,"y":117,"x":72,"x_end":539,"height":14,"n_words":3,"text":"Introduction .............................................................................................................................. 1","line_no":22}
+{"page":3,"col":1,"y":142,"x":72,"x_end":539,"height":14,"n_words":7,"text":"Pillar I: Accelerate AI Innovation .............................................................................................. 3","line_no":23}
+{"page":3,"col":1,"y":159,"x":82,"x_end":539,"height":14,"n_words":8,"text":"Remove Red Tape and Onerous Regulation .................................................................................... 3","line_no":24}
+{"page":3,"col":1,"y":172,"x":82,"x_end":539,"height":14,"n_words":12,"text":"Ensure that Frontier AI Protects Free Speech and American Values ......................................... 4","line_no":25}
+{"page":3,"col":1,"y":186,"x":82,"x_end":539,"height":14,"n_words":7,"text":"Encourage Open-Source and Open-Weight AI ............................................................................. 4","line_no":26}
+{"page":3,"col":1,"y":199,"x":82,"x_end":539,"height":14,"n_words":5,"text":"Enable AI Adoption ............................................................................................................................... 5","line_no":27}
+{"page":3,"col":1,"y":213,"x":82,"x_end":539,"height":14,"n_words":10,"text":"Empower American Workers in the Age of AI ................................................................................. 6","line_no":28}
+{"page":3,"col":1,"y":226,"x":82,"x_end":539,"height":14,"n_words":5,"text":"Support Next-Generation Manufacturing ....................................................................................... 7","line_no":29}
+{"page":3,"col":1,"y":239,"x":82,"x_end":539,"height":14,"n_words":6,"text":"Invest in AI-Enabled Science .............................................................................................................. 8","line_no":30}
+{"page":3,"col":1,"y":253,"x":82,"x_end":539,"height":14,"n_words":6,"text":"Build World-Class Scientific Datasets .............................................................................................. 8","line_no":31}
+{"page":3,"col":1,"y":266,"x":82,"x_end":539,"height":14,"n_words":7,"text":"Advance the Science of AI ................................................................................................................... 9","line_no":32}
+{"page":3,"col":1,"y":280,"x":82,"x_end":539,"height":14,"n_words":10,"text":"Invest in AI Interpretability, Control, and Robustness Breakthroughs ........................................ 9","line_no":33}
+{"page":3,"col":1,"y":293,"x":82,"x_end":539,"height":14,"n_words":7,"text":"Build an AI Evaluations Ecosystem .................................................................................................. 10","line_no":34}
+{"page":3,"col":1,"y":306,"x":82,"x_end":539,"height":14,"n_words":7,"text":"Accelerate AI Adoption in Government ......................................................................................... 10","line_no":35}
+{"page":3,"col":1,"y":320,"x":82,"x_end":539,"height":14,"n_words":11,"text":"Drive Adoption of AI within the Department of Defense ............................................................. 11","line_no":36}
+{"page":3,"col":1,"y":333,"x":82,"x_end":539,"height":14,"n_words":8,"text":"Protect Commercial and Government AI Innovations ................................................................. 12","line_no":37}
+{"page":3,"col":1,"y":347,"x":82,"x_end":539,"height":14,"n_words":9,"text":"Combat Synthetic Media in the Legal System .............................................................................. 12","line_no":38}
+{"page":3,"col":1,"y":372,"x":72,"x_end":538,"height":14,"n_words":8,"text":"Pillar II: Build American AI Infrastructure .............................................................................. 14","line_no":39}
+{"page":3,"col":1,"y":389,"x":82,"x_end":484,"height":14,"n_words":8,"text":"Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing","line_no":40}
+{"page":3,"col":1,"y":402,"x":99,"x_end":539,"height":14,"n_words":9,"text":"Facilities, and Energy Infrastructure while Guaranteeing Security ..................................... 14","line_no":41}
+{"page":3,"col":1,"y":415,"x":82,"x_end":539,"height":14,"n_words":12,"text":"Develop a Grid to Match the Pace of AI Innovation ...................................................................... 15","line_no":42}
+{"page":3,"col":1,"y":429,"x":82,"x_end":539,"height":14,"n_words":6,"text":"Restore American Semiconductor Manufacturing ...................................................................... 16","line_no":43}
+{"page":3,"col":1,"y":442,"x":82,"x_end":539,"height":14,"n_words":12,"text":"Build High-Security Data Centers for Military and Intelligence Community Usage .............. 16","line_no":44}
+{"page":3,"col":1,"y":456,"x":82,"x_end":539,"height":14,"n_words":9,"text":"Train a Skilled Workforce for AI Infrastructure .............................................................................. 17","line_no":45}
+{"page":3,"col":1,"y":469,"x":82,"x_end":539,"height":14,"n_words":6,"text":"Bolster Critical Infrastructure Cybersecurity ................................................................................. 18","line_no":46}
+{"page":3,"col":1,"y":483,"x":82,"x_end":539,"height":14,"n_words":8,"text":"Promote Secure-By-Design AI Technologies and Applications ............................................... 18","line_no":47}
+{"page":3,"col":1,"y":496,"x":82,"x_end":539,"height":14,"n_words":10,"text":"Promote Mature Federal Capacity for AI Incident Response ..................................................... 19","line_no":48}
+{"page":3,"col":1,"y":521,"x":72,"x_end":539,"height":14,"n_words":11,"text":"Pillar III: Lead in International AI Diplomacy and Security ................................................... 20","line_no":49}
+{"page":3,"col":1,"y":538,"x":82,"x_end":539,"height":14,"n_words":9,"text":"Export American AI to Allies and Partners .................................................................................... 20","line_no":50}
+{"page":3,"col":1,"y":551,"x":82,"x_end":539,"height":14,"n_words":9,"text":"Counter Chinese Influence in International Governance Bodies .............................................. 20","line_no":51}
+{"page":3,"col":1,"y":565,"x":82,"x_end":539,"height":14,"n_words":8,"text":"Strengthen AI Compute Export Control Enforcement ............................................................... 21","line_no":52}
+{"page":3,"col":1,"y":578,"x":82,"x_end":539,"height":14,"n_words":10,"text":"Plug Loopholes in Existing Semiconductor Manufacturing Export Controls ......................... 21","line_no":53}
+{"page":3,"col":1,"y":591,"x":82,"x_end":539,"height":14,"n_words":6,"text":"Align Protection Measures Globally ................................................................................................ 21","line_no":54}
+{"page":3,"col":1,"y":605,"x":82,"x_end":498,"height":14,"n_words":13,"text":"Ensure that the U.S. Government is at the Forefront of Evaluating National Security","line_no":55}
+{"page":3,"col":1,"y":618,"x":99,"x_end":540,"height":14,"n_words":6,"text":"Risks in Frontier Models ............................................................................................................... 22","line_no":56}
+{"page":3,"col":1,"y":632,"x":82,"x_end":539,"height":14,"n_words":5,"text":"Invest in Biosecurity ............................................................................................................................ 23","line_no":57}
+{"page":3,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"ii","line_no":58}
+{"page":4,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":59}
+{"page":4,"col":1,"y":72,"x":249,"x_end":361,"height":33,"n_words":1,"text":"Introduction","line_no":60}
+{"page":4,"col":1,"y":117,"x":72,"x_end":539,"height":14,"n_words":15,"text":"The United States is in a race to achieve global dominance in artificial intelligence (AI).","line_no":61}
+{"page":4,"col":1,"y":130,"x":72,"x_end":539,"height":14,"n_words":15,"text":"Whoever has the largest AI ecosystem will set global AI standards and reap broad economic","line_no":62}
+{"page":4,"col":1,"y":144,"x":72,"x_end":539,"height":14,"n_words":17,"text":"and military benefits. Just like we won the space race, it is imperative that the United States","line_no":63}
+{"page":4,"col":1,"y":157,"x":72,"x_end":539,"height":14,"n_words":15,"text":"and its allies win this race. President Trump took decisive steps toward achieving this goal","line_no":64}
+{"page":4,"col":1,"y":171,"x":72,"x_end":539,"height":14,"n_words":15,"text":"during his first days in office by signing Executive Order 14179, “Removing Barriers to American","line_no":65}
+{"page":4,"col":1,"y":184,"x":72,"x_end":539,"height":14,"n_words":14,"text":"Leadership in Artificial Intelligence,” calling for America to retain dominance in this global race","line_no":66}
+{"page":4,"col":1,"y":198,"x":72,"x_end":307,"height":14,"n_words":10,"text":"and directing the creation of an AI Action Plan. 1","line_no":67}
+{"page":4,"col":1,"y":217,"x":72,"x_end":539,"height":14,"n_words":15,"text":"Winning the AI race will usher in a new golden age of human flourishing, economic","line_no":68}
+{"page":4,"col":1,"y":230,"x":72,"x_end":539,"height":14,"n_words":13,"text":"competitiveness, and national security for the American people. AI will enable Americans to","line_no":69}
+{"page":4,"col":1,"y":244,"x":72,"x_end":539,"height":14,"n_words":12,"text":"discover new materials, synthesize new chemicals, manufacture new drugs, and develop new","line_no":70}
+{"page":4,"col":1,"y":257,"x":72,"x_end":539,"height":14,"n_words":13,"text":"methods to harness energy—an industrial revolution. It will enable radically new forms of","line_no":71}
+{"page":4,"col":1,"y":271,"x":72,"x_end":539,"height":14,"n_words":10,"text":"education, media, and communication—an information revolution. And it will enable","line_no":72}
+{"page":4,"col":1,"y":284,"x":72,"x_end":539,"height":14,"n_words":9,"text":"altogether new intellectual achievements: unraveling ancient scrolls once thought","line_no":73}
+{"page":4,"col":1,"y":297,"x":72,"x_end":539,"height":14,"n_words":11,"text":"unreadable, making breakthroughs in scientific and mathematical theory, and creating new","line_no":74}
+{"page":4,"col":1,"y":311,"x":72,"x_end":306,"height":14,"n_words":7,"text":"kinds of digital and physical art—a renaissance.","line_no":75}
+{"page":4,"col":1,"y":330,"x":72,"x_end":540,"height":14,"n_words":14,"text":"An industrial revolution, an information revolution, and a renaissance—all at once. This is the","line_no":76}
+{"page":4,"col":1,"y":344,"x":72,"x_end":540,"height":14,"n_words":14,"text":"potential that AI presents. The opportunity that stands before us is both inspiring and","line_no":77}
+{"page":4,"col":1,"y":357,"x":72,"x_end":284,"height":14,"n_words":10,"text":"humbling. And it is ours to seize, or to lose.","line_no":78}
+{"page":4,"col":1,"y":377,"x":72,"x_end":539,"height":14,"n_words":11,"text":"America’s AI Action Plan has three pillars: innovation, infrastructure, and international","line_no":79}
+{"page":4,"col":1,"y":390,"x":71,"x_end":539,"height":14,"n_words":12,"text":"diplomacy and security. The United States needs to innovate faster and more","line_no":80}
+{"page":4,"col":1,"y":403,"x":72,"x_end":539,"height":14,"n_words":12,"text":"comprehensively than our competitors in the development and distribution of new AI","line_no":81}
+{"page":4,"col":1,"y":417,"x":72,"x_end":539,"height":14,"n_words":12,"text":"technology across every field, and dismantle unnecessary regulatory barriers that hinder the","line_no":82}
+{"page":4,"col":1,"y":430,"x":72,"x_end":539,"height":14,"n_words":17,"text":"private sector in doing so. As Vice President Vance remarked at the Paris AI Action Summit in","line_no":83}
+{"page":4,"col":1,"y":444,"x":72,"x_end":539,"height":14,"n_words":12,"text":"February, restricting AI development with onerous regulation “would not only unfairly benefit","line_no":84}
+{"page":4,"col":1,"y":457,"x":72,"x_end":539,"height":14,"n_words":14,"text":"incumbents… it would mean paralyzing one of the most promising technologies we have seen","line_no":85}
+{"page":4,"col":1,"y":470,"x":72,"x_end":539,"height":14,"n_words":12,"text":"in generations.” 2 That is why President Trump rescinded the Biden Administration’s","line_no":86}
+{"page":4,"col":1,"y":484,"x":72,"x_end":225,"height":14,"n_words":5,"text":"dangerous actions on day one.","line_no":87}
+{"page":4,"col":1,"y":503,"x":72,"x_end":539,"height":14,"n_words":19,"text":"We need to build and maintain vast AI infrastructure and the energy to power it. To do that, we","line_no":88}
+{"page":4,"col":1,"y":517,"x":72,"x_end":539,"height":14,"n_words":14,"text":"will continue to reject radical climate dogma and bureaucratic red tape, as the Administration","line_no":89}
+{"page":4,"col":1,"y":530,"x":71,"x_end":454,"height":14,"n_words":13,"text":"has done since Inauguration Day. Simply put, we need to “Build, Baby, Build!”","line_no":90}
+{"page":4,"col":1,"y":550,"x":71,"x_end":539,"height":14,"n_words":14,"text":"We need to establish American AI—from our advanced semiconductors to our models to our","line_no":91}
+{"page":4,"col":1,"y":563,"x":71,"x_end":540,"height":14,"n_words":14,"text":"applications—as the gold standard for AI worldwide and ensure our allies are building on","line_no":92}
+{"page":4,"col":1,"y":576,"x":71,"x_end":183,"height":14,"n_words":2,"text":"American technology.","line_no":93}
+{"page":4,"col":1,"y":596,"x":71,"x_end":539,"height":14,"n_words":15,"text":"Several principles cut across each of these three pillars. First, American workers are central to","line_no":94}
+{"page":4,"col":1,"y":609,"x":71,"x_end":539,"height":14,"n_words":13,"text":"the Trump Administration’s AI policy. The Administration will ensure that our Nation’s workers","line_no":95}
+{"page":4,"col":1,"y":623,"x":71,"x_end":539,"height":14,"n_words":14,"text":"and their families gain from the opportunities created in this technological revolution. The AI","line_no":96}
+{"page":4,"col":1,"y":636,"x":71,"x_end":539,"height":14,"n_words":11,"text":"infrastructure buildout will create high-paying jobs for American workers. And the","line_no":97}
+{"page":4,"col":1,"y":680,"x":72,"x_end":539,"height":10,"n_words":17,"text":"1 Executive Order 14179 of January 23, 2025, “Removing Barriers to American Leadership in Artificial Intelligence,” Federal","line_no":98}
+{"page":4,"col":1,"y":690,"x":81,"x_end":418,"height":10,"n_words":5,"text":"Register 90 (20) 8741, www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02172.pdf.","line_no":99}
+{"page":4,"col":1,"y":700,"x":72,"x_end":539,"height":10,"n_words":20,"text":"2 J.D. Vance, “Remarks by the Vice President at the Artificial Intelligence Action Summit in Paris, France,” February 11, 2025,","line_no":100}
+{"page":4,"col":1,"y":710,"x":81,"x_end":539,"height":10,"n_words":1,"text":"www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-artificial-intelligence-action-summit-paris-france.","line_no":101}
+{"page":4,"col":1,"y":735,"x":304,"x_end":306,"height":14,"n_words":1,"text":"1","line_no":102}
+{"page":5,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":103}
+{"page":5,"col":1,"y":71,"x":72,"x_end":539,"height":14,"n_words":13,"text":"breakthroughs in medicine, manufacturing, and many other fields that AI will make possible","line_no":104}
+{"page":5,"col":1,"y":85,"x":72,"x_end":539,"height":14,"n_words":17,"text":"will increase the standard of living for all Americans. AI will improve the lives of Americans by","line_no":105}
+{"page":5,"col":1,"y":98,"x":72,"x_end":293,"height":14,"n_words":5,"text":"complementing their work—not replacing it.","line_no":106}
+{"page":5,"col":1,"y":117,"x":71,"x_end":539,"height":14,"n_words":16,"text":"Second, our AI systems must be free from ideological bias and be designed to pursue objective","line_no":107}
+{"page":5,"col":1,"y":131,"x":71,"x_end":539,"height":14,"n_words":13,"text":"truth rather than social engineering agendas when users seek factual information or analysis.","line_no":108}
+{"page":5,"col":1,"y":144,"x":71,"x_end":539,"height":14,"n_words":11,"text":"AI systems are becoming essential tools, profoundly shaping how Americans consume","line_no":109}
+{"page":5,"col":1,"y":158,"x":71,"x_end":341,"height":14,"n_words":8,"text":"information, but these tools must also be trustworthy.","line_no":110}
+{"page":5,"col":1,"y":177,"x":71,"x_end":539,"height":14,"n_words":14,"text":"Finally, we must prevent our advanced technologies from being misused or stolen by malicious","line_no":111}
+{"page":5,"col":1,"y":191,"x":71,"x_end":539,"height":14,"n_words":16,"text":"actors as well as monitor for emerging and unforeseen risks from AI. Doing so will require","line_no":112}
+{"page":5,"col":1,"y":204,"x":71,"x_end":166,"height":14,"n_words":2,"text":"constant vigilance.","line_no":113}
+{"page":5,"col":1,"y":223,"x":71,"x_end":539,"height":14,"n_words":14,"text":"This Action Plan sets forth clear policy goals for near-term execution by the Federal","line_no":114}
+{"page":5,"col":1,"y":237,"x":71,"x_end":539,"height":14,"n_words":12,"text":"government. The Action Plan’s objective is to articulate policy recommendations that this","line_no":115}
+{"page":5,"col":1,"y":250,"x":71,"x_end":539,"height":14,"n_words":14,"text":"Administration can deliver for the American people to achieve the President’s vision of global","line_no":116}
+{"page":5,"col":1,"y":264,"x":71,"x_end":534,"height":14,"n_words":18,"text":"AI dominance. The AI race is America’s to win, and this Action Plan is our roadmap to victory.","line_no":117}
+{"page":5,"col":1,"y":303,"x":72,"x_end":164,"height":14,"n_words":3,"text":"Michael J. Kratsios","line_no":118}
+{"page":5,"col":1,"y":316,"x":72,"x_end":344,"height":14,"n_words":8,"text":"Assistant to the President for Science and Technology","line_no":119}
+{"page":5,"col":1,"y":355,"x":72,"x_end":146,"height":14,"n_words":3,"text":"David O. Sacks","line_no":120}
+{"page":5,"col":1,"y":368,"x":72,"x_end":237,"height":14,"n_words":6,"text":"Special Advisor for AI and Crypto","line_no":121}
+{"page":5,"col":1,"y":407,"x":72,"x_end":148,"height":14,"n_words":3,"text":"Marco A. Rubio","line_no":122}
+{"page":5,"col":1,"y":420,"x":72,"x_end":342,"height":14,"n_words":8,"text":"Assistant to the President for National Security Affairs","line_no":123}
+{"page":5,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"2","line_no":124}
+{"page":6,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":125}
+{"page":6,"col":1,"y":72,"x":165,"x_end":446,"height":33,"n_words":5,"text":"Pillar I: Accelerate AI Innovation","line_no":126}
+{"page":6,"col":1,"y":117,"x":72,"x_end":539,"height":14,"n_words":18,"text":"America must have the most powerful AI systems in the world, but we must also lead the world","line_no":127}
+{"page":6,"col":1,"y":130,"x":72,"x_end":539,"height":14,"n_words":12,"text":"in creative and transformative application of these systems. Achieving these goals requires","line_no":128}
+{"page":6,"col":1,"y":144,"x":71,"x_end":539,"height":14,"n_words":11,"text":"the Federal government to create the conditions where private-sector-led innovation can","line_no":129}
+{"page":6,"col":1,"y":157,"x":71,"x_end":111,"height":14,"n_words":1,"text":"flourish.","line_no":130}
+{"page":6,"col":1,"y":189,"x":72,"x_end":314,"height":20,"n_words":6,"text":"Remove Red Tape and Onerous Regulation","line_no":131}
+{"page":6,"col":1,"y":216,"x":72,"x_end":539,"height":14,"n_words":13,"text":"To maintain global leadership in AI, America’s private sector must be unencumbered by","line_no":132}
+{"page":6,"col":1,"y":229,"x":71,"x_end":539,"height":14,"n_words":13,"text":"bureaucratic red tape. President Trump has already taken multiple steps toward this goal,","line_no":133}
+{"page":6,"col":1,"y":242,"x":71,"x_end":539,"height":14,"n_words":12,"text":"including rescinding Biden Executive Order 14110 on AI that foreshadowed an onerous","line_no":134}
+{"page":6,"col":1,"y":256,"x":72,"x_end":539,"height":14,"n_words":16,"text":"regulatory regime. 3 AI is far too important to smother in bureaucracy at this early stage,","line_no":135}
+{"page":6,"col":1,"y":269,"x":72,"x_end":539,"height":14,"n_words":14,"text":"whether at the state or Federal level. The Federal government should not allow AI-related","line_no":136}
+{"page":6,"col":1,"y":283,"x":72,"x_end":539,"height":14,"n_words":14,"text":"Federal funding to be directed toward states with burdensome AI regulations that waste these","line_no":137}
+{"page":6,"col":1,"y":296,"x":72,"x_end":539,"height":14,"n_words":17,"text":"funds, but should also not interfere with states’ rights to pass prudent laws that are not unduly","line_no":138}
+{"page":6,"col":1,"y":309,"x":72,"x_end":194,"height":14,"n_words":3,"text":"restrictive to innovation.","line_no":139}
+{"page":6,"col":1,"y":329,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":140}
+{"page":6,"col":1,"y":349,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by the Office of Science and Technology Policy (OSTP), launch a Request for","line_no":141}
+{"page":6,"col":1,"y":362,"x":95,"x_end":529,"height":14,"n_words":12,"text":"Information from businesses and the public at large about current Federal regulations","line_no":142}
+{"page":6,"col":1,"y":376,"x":95,"x_end":530,"height":14,"n_words":14,"text":"that hinder AI innovation and adoption, and work with relevant Federal agencies to take","line_no":143}
+{"page":6,"col":1,"y":389,"x":95,"x_end":190,"height":14,"n_words":2,"text":"appropriate action.","line_no":144}
+{"page":6,"col":1,"y":409,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by the Office of Management and Budget (OMB) and consistent with Executive","line_no":145}
+{"page":6,"col":1,"y":422,"x":95,"x_end":529,"height":14,"n_words":11,"text":"Order 14192 of January 31, 2025, “Unleashing Prosperity Through Deregulation,” work","line_no":146}
+{"page":6,"col":1,"y":436,"x":95,"x_end":529,"height":14,"n_words":12,"text":"with all Federal agencies to identify, revise, or repeal regulations, rules, memoranda,","line_no":147}
+{"page":6,"col":1,"y":449,"x":95,"x_end":530,"height":14,"n_words":8,"text":"administrative orders, guidance documents, policy statements, and interagency","line_no":148}
+{"page":6,"col":1,"y":462,"x":95,"x_end":451,"height":14,"n_words":9,"text":"agreements that unnecessarily hinder AI development or deployment. 4","line_no":149}
+{"page":6,"col":1,"y":482,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by OMB, work with Federal agencies that have AI-related discretionary funding","line_no":150}
+{"page":6,"col":1,"y":496,"x":95,"x_end":529,"height":14,"n_words":13,"text":"programs to ensure, consistent with applicable law, that they consider a state’s AI","line_no":151}
+{"page":6,"col":1,"y":509,"x":95,"x_end":529,"height":14,"n_words":13,"text":"regulatory climate when making funding decisions and limit funding if the state’s AI","line_no":152}
+{"page":6,"col":1,"y":523,"x":95,"x_end":464,"height":14,"n_words":11,"text":"regulatory regimes may hinder the effectiveness of that funding or award.","line_no":153}
+{"page":6,"col":1,"y":542,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Led by the Federal Communications Commission (FCC), evaluate whether state AI","line_no":154}
+{"page":6,"col":1,"y":556,"x":95,"x_end":530,"height":14,"n_words":13,"text":"regulations interfere with the agency’s ability to carry out its obligations and authorities","line_no":155}
+{"page":6,"col":1,"y":569,"x":95,"x_end":298,"height":14,"n_words":7,"text":"under the Communications Act of 1934. 5","line_no":156}
+{"page":6,"col":1,"y":589,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Review all Federal Trade Commission (FTC) investigations commenced under the","line_no":157}
+{"page":6,"col":1,"y":602,"x":95,"x_end":529,"height":14,"n_words":13,"text":"previous administration to ensure that they do not advance theories of liability that","line_no":158}
+{"page":6,"col":1,"y":616,"x":95,"x_end":530,"height":14,"n_words":12,"text":"unduly burden AI innovation. Furthermore, review all FTC final orders, consent decrees,","line_no":159}
+{"page":6,"col":1,"y":670,"x":72,"x_end":539,"height":10,"n_words":18,"text":"3 Executive Order 14110 of October 30, 2023, “Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence,”","line_no":160}
+{"page":6,"col":1,"y":680,"x":81,"x_end":453,"height":10,"n_words":6,"text":"Federal Register 88 (210) 75191, www.govinfo.gov/content/pkg/FR-2023-11-01/pdf/2023-24283.pdf.","line_no":161}
+{"page":6,"col":1,"y":690,"x":72,"x_end":539,"height":10,"n_words":17,"text":"4 Executive Order 14192 of January 31, 2025, “Unleashing Prosperity Through Deregulation,” Federal Register 90 (24) 9065,","line_no":162}
+{"page":6,"col":1,"y":700,"x":81,"x_end":342,"height":10,"n_words":1,"text":"www.govinfo.gov/content/pkg/FR-2025-02-06/pdf/2025-02345.pdf.","line_no":163}
+{"page":6,"col":1,"y":710,"x":72,"x_end":266,"height":10,"n_words":9,"text":"5 Communications Act of 1934, 47 U.S.C. §§ 151-646.","line_no":164}
+{"page":6,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"3","line_no":165}
+{"page":7,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":166}
+{"page":7,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":13,"text":"and injunctions, and, where appropriate, seek to modify or set-aside any that unduly","line_no":167}
+{"page":7,"col":1,"y":85,"x":95,"x_end":203,"height":14,"n_words":3,"text":"burden AI innovation.","line_no":168}
+{"page":7,"col":1,"y":116,"x":72,"x_end":443,"height":20,"n_words":10,"text":"Ensure that Frontier AI Protects Free Speech and American Values","line_no":169}
+{"page":7,"col":1,"y":143,"x":72,"x_end":539,"height":14,"n_words":18,"text":"AI systems will play a profound role in how we educate our children, do our jobs, and consume","line_no":170}
+{"page":7,"col":1,"y":156,"x":72,"x_end":539,"height":14,"n_words":17,"text":"media. It is essential that these systems be built from the ground up with freedom of speech","line_no":171}
+{"page":7,"col":1,"y":170,"x":72,"x_end":539,"height":14,"n_words":15,"text":"and expression in mind, and that U.S. government policy does not interfere with that objective.","line_no":172}
+{"page":7,"col":1,"y":183,"x":72,"x_end":539,"height":14,"n_words":19,"text":"We must ensure that free speech flourishes in the era of AI and that AI procured by the Federal","line_no":173}
+{"page":7,"col":1,"y":197,"x":72,"x_end":460,"height":14,"n_words":9,"text":"government objectively reflects truth rather than social engineering agendas.","line_no":174}
+{"page":7,"col":1,"y":216,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":175}
+{"page":7,"col":1,"y":236,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by the Department of Commerce (DOC) through the National Institute of","line_no":176}
+{"page":7,"col":1,"y":249,"x":95,"x_end":530,"height":14,"n_words":12,"text":"Standards and Technology (NIST), revise the NIST AI Risk Management Framework to","line_no":177}
+{"page":7,"col":1,"y":263,"x":95,"x_end":530,"height":14,"n_words":10,"text":"eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate","line_no":178}
+{"page":7,"col":1,"y":276,"x":95,"x_end":140,"height":11,"n_words":2,"text":"change. 6","line_no":179}
+{"page":7,"col":1,"y":296,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Update Federal procurement guidelines to ensure that the government only contracts","line_no":180}
+{"page":7,"col":1,"y":309,"x":95,"x_end":530,"height":14,"n_words":13,"text":"with frontier large language model (LLM) developers who ensure that their systems are","line_no":181}
+{"page":7,"col":1,"y":323,"x":95,"x_end":347,"height":14,"n_words":7,"text":"objective and free from top-down ideological bias.","line_no":182}
+{"page":7,"col":1,"y":342,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by DOC through NIST’s Center for AI Standards and Innovation (CAISI), conduct","line_no":183}
+{"page":7,"col":1,"y":356,"x":95,"x_end":530,"height":14,"n_words":12,"text":"research and, as appropriate, publish evaluations of frontier models from the People’s","line_no":184}
+{"page":7,"col":1,"y":369,"x":95,"x_end":530,"height":14,"n_words":12,"text":"Republic of China for alignment with Chinese Communist Party talking points and","line_no":185}
+{"page":7,"col":1,"y":383,"x":95,"x_end":153,"height":14,"n_words":1,"text":"censorship.","line_no":186}
+{"page":7,"col":1,"y":415,"x":72,"x_end":329,"height":20,"n_words":5,"text":"Encourage Open-Source and Open-Weight AI","line_no":187}
+{"page":7,"col":1,"y":441,"x":72,"x_end":539,"height":14,"n_words":13,"text":"Open-source and open-weight AI models are made freely available by developers for anyone","line_no":188}
+{"page":7,"col":1,"y":454,"x":72,"x_end":539,"height":14,"n_words":15,"text":"in the world to download and modify. Models distributed this way have unique value for","line_no":189}
+{"page":7,"col":1,"y":468,"x":72,"x_end":539,"height":14,"n_words":14,"text":"innovation because startups can use them flexibly without being dependent on a closed model","line_no":190}
+{"page":7,"col":1,"y":481,"x":72,"x_end":539,"height":14,"n_words":12,"text":"provider. They also benefit commercial and government adoption of AI because many","line_no":191}
+{"page":7,"col":1,"y":495,"x":72,"x_end":539,"height":14,"n_words":13,"text":"businesses and governments have sensitive data that they cannot send to closed model","line_no":192}
+{"page":7,"col":1,"y":508,"x":72,"x_end":539,"height":14,"n_words":15,"text":"vendors. And they are essential for academic research, which often relies on access to the","line_no":193}
+{"page":7,"col":1,"y":522,"x":72,"x_end":489,"height":14,"n_words":12,"text":"weights and training data of a model to perform scientifically rigorous experiments.","line_no":194}
+{"page":7,"col":1,"y":541,"x":72,"x_end":539,"height":14,"n_words":14,"text":"We need to ensure America has leading open models founded on American values. Open-","line_no":195}
+{"page":7,"col":1,"y":554,"x":72,"x_end":539,"height":14,"n_words":14,"text":"source and open-weight models could become global standards in some areas of business and","line_no":196}
+{"page":7,"col":1,"y":568,"x":72,"x_end":540,"height":14,"n_words":14,"text":"in academic research worldwide. For that reason, they also have geostrategic value. While the","line_no":197}
+{"page":7,"col":1,"y":581,"x":72,"x_end":539,"height":14,"n_words":17,"text":"decision of whether and how to release an open or closed model is fundamentally up to the","line_no":198}
+{"page":7,"col":1,"y":595,"x":72,"x_end":540,"height":14,"n_words":12,"text":"developer, the Federal government should create a supportive environment for open models.","line_no":199}
+{"page":7,"col":1,"y":614,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":200}
+{"page":7,"col":1,"y":634,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Ensure access to large-scale computing power for startups and academics by","line_no":201}
+{"page":7,"col":1,"y":647,"x":95,"x_end":530,"height":14,"n_words":13,"text":"improving the financial market for compute. Currently, a company seeking to use large-","line_no":202}
+{"page":7,"col":1,"y":661,"x":95,"x_end":529,"height":14,"n_words":11,"text":"scale compute must often sign long-term contracts with hyperscalers—far beyond the","line_no":203}
+{"page":7,"col":1,"y":700,"x":72,"x_end":500,"height":10,"n_words":15,"text":"6 National Institute of Standards and Technology, “Artificial Intelligence Risk Management Framework (AI RMF 1.0),”","line_no":204}
+{"page":7,"col":1,"y":710,"x":81,"x_end":491,"height":10,"n_words":10,"text":"(Gaithersburg, MD: National Institute of Standards and Technology, 2023), www.doi.org/10.6028/NIST.AI.100-1.","line_no":205}
+{"page":7,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"4","line_no":206}
+{"page":8,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":207}
+{"page":8,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":12,"text":"budgetary reach of most academics and many startups. America has solved this","line_no":208}
+{"page":8,"col":1,"y":85,"x":95,"x_end":530,"height":14,"n_words":13,"text":"problem before with other goods through financial markets, such as spot and forward","line_no":209}
+{"page":8,"col":1,"y":98,"x":95,"x_end":530,"height":14,"n_words":12,"text":"markets for commodities. Through collaboration with industry, NIST at DOC, OSTP, and","line_no":210}
+{"page":8,"col":1,"y":111,"x":95,"x_end":530,"height":14,"n_words":11,"text":"the National Science Foundation’s (NSF) National AI Research Resource (NAIRR) pilot,","line_no":211}
+{"page":8,"col":1,"y":125,"x":95,"x_end":530,"height":14,"n_words":13,"text":"the Federal government can accelerate the maturation of a healthy financial market for","line_no":212}
+{"page":8,"col":1,"y":138,"x":95,"x_end":143,"height":14,"n_words":1,"text":"compute.","line_no":213}
+{"page":8,"col":1,"y":158,"x":81,"x_end":530,"height":14,"n_words":11,"text":"• Partner with leading technology companies to increase the research community’s","line_no":214}
+{"page":8,"col":1,"y":172,"x":95,"x_end":529,"height":14,"n_words":11,"text":"access to world-class private sector computing, models, data, and software resources","line_no":215}
+{"page":8,"col":1,"y":185,"x":95,"x_end":223,"height":14,"n_words":6,"text":"as part of the NAIRR pilot.","line_no":216}
+{"page":8,"col":1,"y":205,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Build the foundations for a lean and sustainable NAIRR operations capability that can","line_no":217}
+{"page":8,"col":1,"y":218,"x":95,"x_end":530,"height":14,"n_words":12,"text":"connect an increasing number of researchers and educators across the country to","line_no":218}
+{"page":8,"col":1,"y":232,"x":95,"x_end":196,"height":14,"n_words":3,"text":"critical AI resources.","line_no":219}
+{"page":8,"col":1,"y":251,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Continue to foster the next generation of AI breakthroughs by publishing a new National","line_no":220}
+{"page":8,"col":1,"y":265,"x":95,"x_end":530,"height":14,"n_words":14,"text":"AI Research and Development (R&D) Strategic Plan, led by OSTP, to guide Federal AI","line_no":221}
+{"page":8,"col":1,"y":278,"x":95,"x_end":206,"height":14,"n_words":2,"text":"research investments.","line_no":222}
+{"page":8,"col":1,"y":298,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Led by DOC through the National Telecommunications and Information Administration","line_no":223}
+{"page":8,"col":1,"y":311,"x":95,"x_end":530,"height":14,"n_words":11,"text":"(NTIA), convene stakeholders to help drive adoption of open-source and open-weight","line_no":224}
+{"page":8,"col":1,"y":325,"x":95,"x_end":333,"height":14,"n_words":6,"text":"models by small and medium-sized businesses.","line_no":225}
+{"page":8,"col":1,"y":357,"x":72,"x_end":180,"height":20,"n_words":3,"text":"Enable AI Adoption","line_no":226}
+{"page":8,"col":1,"y":383,"x":72,"x_end":539,"height":14,"n_words":14,"text":"Today, the bottleneck to harnessing AI’s full potential is not necessarily the availability of","line_no":227}
+{"page":8,"col":1,"y":397,"x":72,"x_end":539,"height":14,"n_words":15,"text":"models, tools, or applications. Rather, it is the limited and slow adoption of AI, particularly","line_no":228}
+{"page":8,"col":1,"y":410,"x":72,"x_end":539,"height":14,"n_words":12,"text":"within large, established organizations. Many of America’s most critical sectors, such as","line_no":229}
+{"page":8,"col":1,"y":423,"x":72,"x_end":539,"height":14,"n_words":17,"text":"healthcare, are especially slow to adopt due to a variety of factors, including distrust or lack of","line_no":230}
+{"page":8,"col":1,"y":437,"x":72,"x_end":539,"height":14,"n_words":13,"text":"understanding of the technology, a complex regulatory landscape, and a lack of clear","line_no":231}
+{"page":8,"col":1,"y":450,"x":72,"x_end":539,"height":14,"n_words":13,"text":"governance and risk mitigation standards. A coordinated Federal effort would be beneficial in","line_no":232}
+{"page":8,"col":1,"y":464,"x":72,"x_end":441,"height":14,"n_words":10,"text":"establishing a dynamic, “try-first” culture for AI across American industry.","line_no":233}
+{"page":8,"col":1,"y":483,"x":71,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":234}
+{"page":8,"col":1,"y":503,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Establish regulatory sandboxes or AI Centers of Excellence around the country where","line_no":235}
+{"page":8,"col":1,"y":516,"x":95,"x_end":529,"height":14,"n_words":12,"text":"researchers, startups, and established enterprises can rapidly deploy and test AI tools","line_no":236}
+{"page":8,"col":1,"y":530,"x":95,"x_end":529,"height":14,"n_words":14,"text":"while committing to open sharing of data and results. These efforts would be enabled","line_no":237}
+{"page":8,"col":1,"y":543,"x":95,"x_end":529,"height":14,"n_words":13,"text":"by regulatory agencies such as the Food and Drug Administration (FDA) and the","line_no":238}
+{"page":8,"col":1,"y":557,"x":95,"x_end":529,"height":14,"n_words":12,"text":"Securities and Exchange Commission (SEC), with support from DOC through its AI","line_no":239}
+{"page":8,"col":1,"y":570,"x":95,"x_end":239,"height":14,"n_words":4,"text":"evaluation initiatives at NIST.","line_no":240}
+{"page":8,"col":1,"y":590,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Launch several domain-specific efforts (e.g., in healthcare, energy, and agriculture), led","line_no":241}
+{"page":8,"col":1,"y":603,"x":95,"x_end":530,"height":14,"n_words":15,"text":"by NIST at DOC, to convene a broad range of public, private, and academic stakeholders","line_no":242}
+{"page":8,"col":1,"y":617,"x":95,"x_end":530,"height":14,"n_words":14,"text":"to accelerate the development and adoption of national standards for AI systems and to","line_no":243}
+{"page":8,"col":1,"y":630,"x":95,"x_end":493,"height":14,"n_words":12,"text":"measure how much AI increases productivity at realistic tasks in those domains.","line_no":244}
+{"page":8,"col":1,"y":650,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by the Department of Defense (DOD) in coordination with the Office of the Director","line_no":245}
+{"page":8,"col":1,"y":663,"x":95,"x_end":530,"height":14,"n_words":9,"text":"of National Intelligence (ODNI), regularly update joint DOD-Intelligence Community","line_no":246}
+{"page":8,"col":1,"y":677,"x":95,"x_end":530,"height":14,"n_words":15,"text":"(IC) assessments of the comparative level of adoption of AI tools by the United States,","line_no":247}
+{"page":8,"col":1,"y":690,"x":95,"x_end":530,"height":14,"n_words":11,"text":"its competitors, and its adversaries’ national security establishments, and establish an","line_no":248}
+{"page":8,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"5","line_no":249}
+{"page":9,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":250}
+{"page":9,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":12,"text":"approach for continuous adaptation of the DOD and IC’s respective AI adoption","line_no":251}
+{"page":9,"col":1,"y":85,"x":95,"x_end":324,"height":14,"n_words":7,"text":"initiatives based on these AI net assessments.","line_no":252}
+{"page":9,"col":1,"y":104,"x":81,"x_end":529,"height":14,"n_words":13,"text":"• Prioritize, collect, and distribute intelligence on foreign frontier AI projects that may","line_no":253}
+{"page":9,"col":1,"y":118,"x":95,"x_end":530,"height":14,"n_words":12,"text":"have national security implications, via collaboration between the IC, the Department of","line_no":254}
+{"page":9,"col":1,"y":131,"x":95,"x_end":483,"height":14,"n_words":12,"text":"Energy (DOE), CAISI at DOC, the National Security Council (NSC), and OSTP.","line_no":255}
+{"page":9,"col":1,"y":163,"x":72,"x_end":320,"height":20,"n_words":8,"text":"Empower American Workers in the Age of AI","line_no":256}
+{"page":9,"col":1,"y":190,"x":72,"x_end":540,"height":14,"n_words":12,"text":"The Trump Administration supports a worker-first AI agenda. By accelerating productivity and","line_no":257}
+{"page":9,"col":1,"y":203,"x":72,"x_end":539,"height":14,"n_words":14,"text":"creating entirely new industries, AI can help America build an economy that delivers more","line_no":258}
+{"page":9,"col":1,"y":216,"x":72,"x_end":539,"height":14,"n_words":14,"text":"pathways to economic opportunity for American workers. But it will also transform how work","line_no":259}
+{"page":9,"col":1,"y":230,"x":72,"x_end":539,"height":14,"n_words":13,"text":"gets done across all industries and occupations, demanding a serious workforce response to","line_no":260}
+{"page":9,"col":1,"y":243,"x":72,"x_end":539,"height":14,"n_words":12,"text":"help workers navigate that transition. The Trump Administration has already taken significant","line_no":261}
+{"page":9,"col":1,"y":257,"x":72,"x_end":539,"height":14,"n_words":15,"text":"steps to lead on this front, including the April 2025 Executive Orders 14277 and 14278,","line_no":262}
+{"page":9,"col":1,"y":270,"x":72,"x_end":539,"height":14,"n_words":10,"text":"“Advancing Artificial Intelligence Education for American Youth” and “Preparing Americans","line_no":263}
+{"page":9,"col":1,"y":283,"x":72,"x_end":540,"height":14,"n_words":17,"text":"for High-Paying Skilled Trade Jobs of the Future.” 7, 8 To continue delivering on this vision, the","line_no":264}
+{"page":9,"col":1,"y":297,"x":71,"x_end":539,"height":14,"n_words":15,"text":"Trump Administration will advance a priority set of actions to expand AI literacy and skills","line_no":265}
+{"page":9,"col":1,"y":310,"x":71,"x_end":539,"height":14,"n_words":12,"text":"development, continuously evaluate AI’s impact on the labor market, and pilot new","line_no":266}
+{"page":9,"col":1,"y":324,"x":71,"x_end":464,"height":14,"n_words":12,"text":"innovations to rapidly retrain and help workers thrive in an AI-driven economy.","line_no":267}
+{"page":9,"col":1,"y":343,"x":71,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":268}
+{"page":9,"col":1,"y":363,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by the Department of Labor (DOL), the Department of Education (ED), NSF, and","line_no":269}
+{"page":9,"col":1,"y":376,"x":95,"x_end":530,"height":14,"n_words":13,"text":"DOC, prioritize AI skill development as a core objective of relevant education and","line_no":270}
+{"page":9,"col":1,"y":390,"x":95,"x_end":530,"height":14,"n_words":12,"text":"workforce funding streams. This should include promoting the integration of AI skill","line_no":271}
+{"page":9,"col":1,"y":403,"x":95,"x_end":530,"height":14,"n_words":10,"text":"development into relevant programs, including career and technical education (CTE),","line_no":272}
+{"page":9,"col":1,"y":417,"x":95,"x_end":508,"height":14,"n_words":9,"text":"workforce training, apprenticeships, and other federally supported skills initiatives.","line_no":273}
+{"page":9,"col":1,"y":436,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by the Department of the Treasury, issue guidance clarifying that many AI literacy","line_no":274}
+{"page":9,"col":1,"y":450,"x":95,"x_end":530,"height":14,"n_words":12,"text":"and AI skill development programs may qualify as eligible educational assistance under","line_no":275}
+{"page":9,"col":1,"y":463,"x":95,"x_end":530,"height":14,"n_words":13,"text":"Section 132 of the Internal Revenue Code, given AI’s widespread impact reshaping the","line_no":276}
+{"page":9,"col":1,"y":477,"x":95,"x_end":530,"height":14,"n_words":13,"text":"tasks and skills required across industries and occupations. 9 In applicable situations, this","line_no":277}
+{"page":9,"col":1,"y":490,"x":95,"x_end":530,"height":14,"n_words":12,"text":"will enable employers to offer tax-free reimbursement for AI-related training and help","line_no":278}
+{"page":9,"col":1,"y":504,"x":95,"x_end":530,"height":14,"n_words":11,"text":"scale private-sector investment in AI skill development, preserving jobs for American","line_no":279}
+{"page":9,"col":1,"y":517,"x":95,"x_end":138,"height":14,"n_words":1,"text":"workers.","line_no":280}
+{"page":9,"col":1,"y":537,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by the Bureau of Labor Statistics (BLS) and DOC through the Census Bureau and","line_no":281}
+{"page":9,"col":1,"y":550,"x":95,"x_end":530,"height":14,"n_words":15,"text":"the Bureau of Economic Analysis (BEA), study AI’s impact on the labor market by using","line_no":282}
+{"page":9,"col":1,"y":564,"x":95,"x_end":529,"height":14,"n_words":15,"text":"data they already collect on these topics, such as the firm-level AI adoption trends the","line_no":283}
+{"page":9,"col":1,"y":577,"x":95,"x_end":530,"height":14,"n_words":13,"text":"Census Bureau tracks in its Business Trends and Outlook Survey. These agencies could","line_no":284}
+{"page":9,"col":1,"y":591,"x":95,"x_end":506,"height":14,"n_words":12,"text":"then provide analysis of AI adoption, job creation, displacement, and wage effects.","line_no":285}
+{"page":9,"col":1,"y":610,"x":81,"x_end":529,"height":14,"n_words":15,"text":"• Establish the AI Workforce Research Hub under DOL to lead a sustained Federal effort","line_no":286}
+{"page":9,"col":1,"y":624,"x":95,"x_end":530,"height":14,"n_words":16,"text":"to evaluate the impact of AI on the labor market and the experience of the American","line_no":287}
+{"page":9,"col":1,"y":670,"x":72,"x_end":527,"height":10,"n_words":17,"text":"7 Executive Order 14277 of April 23, 2025: “Advancing Artificial Intelligence Education for American Youth,” Federal Register","line_no":288}
+{"page":9,"col":1,"y":680,"x":81,"x_end":395,"height":10,"n_words":4,"text":"90 (80) 17519, www.govinfo.gov/content/pkg/FR-2025-04-28/pdf/2025-07368.pdf.","line_no":289}
+{"page":9,"col":1,"y":690,"x":72,"x_end":521,"height":10,"n_words":19,"text":"8 Executive Order 14278 of April 23, 2025: “Preparing Americans for High-Paying Skilled Trade Jobs of the Future,” Federal","line_no":290}
+{"page":9,"col":1,"y":700,"x":81,"x_end":428,"height":10,"n_words":5,"text":"Register 90 (80) 17525, www.govinfo.gov/content/pkg/FR-2025-04-28/pdf/2025-07369.pdf.","line_no":291}
+{"page":9,"col":1,"y":710,"x":72,"x_end":214,"height":10,"n_words":9,"text":"9 Revenue Act of 1978, 26 U.S.C. § 132.","line_no":292}
+{"page":9,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"6","line_no":293}
+{"page":10,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":294}
+{"page":10,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":14,"text":"worker, in collaboration with BLS and DOC through the Census Bureau and BEA. The","line_no":295}
+{"page":10,"col":1,"y":85,"x":95,"x_end":530,"height":14,"n_words":12,"text":"Hub would produce recurring analyses, conduct scenario planning for a range of","line_no":296}
+{"page":10,"col":1,"y":98,"x":95,"x_end":530,"height":14,"n_words":12,"text":"potential AI impact levels, and generate actionable insights to inform workforce and","line_no":297}
+{"page":10,"col":1,"y":111,"x":95,"x_end":180,"height":14,"n_words":2,"text":"education policy.","line_no":298}
+{"page":10,"col":1,"y":131,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by DOL, leverage available discretionary funding, where appropriate, to fund rapid","line_no":299}
+{"page":10,"col":1,"y":145,"x":95,"x_end":530,"height":14,"n_words":10,"text":"retraining for individuals impacted by AI-related job displacement. Issue clarifying","line_no":300}
+{"page":10,"col":1,"y":158,"x":95,"x_end":530,"height":14,"n_words":11,"text":"guidance to help states identify eligible dislocated workers in sectors undergoing","line_no":301}
+{"page":10,"col":1,"y":172,"x":95,"x_end":530,"height":14,"n_words":14,"text":"significant structural change tied to AI adoption, as well as guidance clarifying how state","line_no":302}
+{"page":10,"col":1,"y":185,"x":95,"x_end":530,"height":14,"n_words":14,"text":"Rapid Response funds can be used to proactively upskill workers at risk of future","line_no":303}
+{"page":10,"col":1,"y":198,"x":95,"x_end":166,"height":14,"n_words":1,"text":"displacement.","line_no":304}
+{"page":10,"col":1,"y":218,"x":81,"x_end":529,"height":14,"n_words":15,"text":"• At DOL and DOC, rapidly pilot new approaches to workforce challenges created by AI,","line_no":305}
+{"page":10,"col":1,"y":232,"x":95,"x_end":529,"height":14,"n_words":13,"text":"which may include areas such as rapid retraining needs driven by worker displacement","line_no":306}
+{"page":10,"col":1,"y":245,"x":95,"x_end":530,"height":14,"n_words":13,"text":"and shifting skill requirements for entry-level roles. These pilots should be carried out","line_no":307}
+{"page":10,"col":1,"y":258,"x":95,"x_end":529,"height":14,"n_words":11,"text":"by states and workforce intermediaries using existing authorities under the Workforce","line_no":308}
+{"page":10,"col":1,"y":272,"x":95,"x_end":529,"height":14,"n_words":12,"text":"Innovation and Opportunity Act and the Public Works and Economic Development Act,","line_no":309}
+{"page":10,"col":1,"y":285,"x":95,"x_end":530,"height":14,"n_words":11,"text":"and should be designed to identify surface scalable, performance-driven strategies that","line_no":310}
+{"page":10,"col":1,"y":299,"x":95,"x_end":530,"height":14,"n_words":14,"text":"help the workforce system adapt to the speed and complexity of AI-driven labor market","line_no":311}
+{"page":10,"col":1,"y":312,"x":95,"x_end":152,"height":8,"n_words":3,"text":"change. 10, 11","line_no":312}
+{"page":10,"col":1,"y":344,"x":72,"x_end":310,"height":20,"n_words":3,"text":"Support Next-Generation Manufacturing","line_no":313}
+{"page":10,"col":1,"y":370,"x":72,"x_end":539,"height":14,"n_words":16,"text":"AI will enable a wide range of new innovations in the physical world: autonomous drones, self-","line_no":314}
+{"page":10,"col":1,"y":384,"x":72,"x_end":539,"height":14,"n_words":16,"text":"driving cars, robotics, and other inventions for which terminology does not yet exist. It is crucial","line_no":315}
+{"page":10,"col":1,"y":397,"x":71,"x_end":540,"height":14,"n_words":12,"text":"that America and our trusted allies be world-class manufacturers of these next-generation","line_no":316}
+{"page":10,"col":1,"y":411,"x":71,"x_end":540,"height":14,"n_words":11,"text":"technologies. AI, robotics, and related technologies create opportunities for novel capabilities","line_no":317}
+{"page":10,"col":1,"y":424,"x":71,"x_end":539,"height":14,"n_words":12,"text":"in manufacturing and logistics, including ones with applications to defense and national","line_no":318}
+{"page":10,"col":1,"y":438,"x":72,"x_end":539,"height":14,"n_words":10,"text":"security. The Federal government should prioritize investment in these emerging","line_no":319}
+{"page":10,"col":1,"y":451,"x":71,"x_end":347,"height":14,"n_words":8,"text":"technologies and usher in a new industrial renaissance.","line_no":320}
+{"page":10,"col":1,"y":470,"x":71,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":321}
+{"page":10,"col":1,"y":490,"x":81,"x_end":530,"height":14,"n_words":10,"text":"• Invest in developing and scaling foundational and translational manufacturing","line_no":322}
+{"page":10,"col":1,"y":504,"x":95,"x_end":529,"height":14,"n_words":13,"text":"technologies via DOD, DOC, DOE, NSF, and other Federal agencies using the Small","line_no":323}
+{"page":10,"col":1,"y":517,"x":95,"x_end":530,"height":14,"n_words":9,"text":"Business Innovation Research program, the Small Business Technology Transfer","line_no":324}
+{"page":10,"col":1,"y":530,"x":95,"x_end":530,"height":14,"n_words":8,"text":"program, research grants, CHIPS R&D programs, Stevenson-Wydler Technology","line_no":325}
+{"page":10,"col":1,"y":544,"x":95,"x_end":530,"height":14,"n_words":12,"text":"Innovation Act authorities, Title III of the Defense Production Act, Other Transaction","line_no":326}
+{"page":10,"col":1,"y":557,"x":95,"x_end":294,"height":11,"n_words":8,"text":"Authority, and other authorities. 12, 13, 14, 15","line_no":327}
+{"page":10,"col":1,"y":577,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by DOC through NTIA, convene industry and government stakeholders to identify","line_no":328}
+{"page":10,"col":1,"y":591,"x":95,"x_end":456,"height":14,"n_words":9,"text":"supply chain challenges to American robotics and drone manufacturing.","line_no":329}
+{"page":10,"col":1,"y":651,"x":72,"x_end":354,"height":10,"n_words":12,"text":"10 Workforce Innovation and Opportunity Act of 2014, 29 U.S.C. §§ 3101-3361.","line_no":330}
+{"page":10,"col":1,"y":661,"x":72,"x_end":366,"height":10,"n_words":13,"text":"11 Public Works and Economic Development Act of 1965, 42 U.S.C. §§ 3121-3233.","line_no":331}
+{"page":10,"col":1,"y":670,"x":72,"x_end":455,"height":10,"n_words":17,"text":"12 William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, 15 U.S.C. § 4656.","line_no":332}
+{"page":10,"col":1,"y":680,"x":72,"x_end":529,"height":10,"n_words":19,"text":"13 Stevenson-Wydler Technology Innovation Act of 1980, Pub. L. No. 96-480, 94 Stat. 2311 (codified as amended in scattered","line_no":333}
+{"page":10,"col":1,"y":690,"x":81,"x_end":159,"height":10,"n_words":4,"text":"sections of 15 U.S.C.).","line_no":334}
+{"page":10,"col":1,"y":700,"x":72,"x_end":289,"height":10,"n_words":10,"text":"14 Defense Production Act of 1950, 50 U.S.C. §§ 4551-4568.","line_no":335}
+{"page":10,"col":1,"y":710,"x":72,"x_end":410,"height":10,"n_words":15,"text":"15 National Defense Authorization Act for Fiscal years 1990 and 1991, 10 U.S.C. §§ 4021-4022.","line_no":336}
+{"page":10,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"7","line_no":337}
+{"page":11,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":338}
+{"page":11,"col":1,"y":72,"x":72,"x_end":234,"height":20,"n_words":4,"text":"Invest in AI-Enabled Science","line_no":339}
+{"page":11,"col":1,"y":98,"x":72,"x_end":540,"height":14,"n_words":15,"text":"Like many other domains, science itself will be transformed by AI. AI systems can already","line_no":340}
+{"page":11,"col":1,"y":111,"x":72,"x_end":539,"height":14,"n_words":12,"text":"generate models of protein structures, novel materials, and much else. Increasingly powerful","line_no":341}
+{"page":11,"col":1,"y":125,"x":72,"x_end":539,"height":14,"n_words":9,"text":"general-purpose models show promise in formulating hypotheses and designing","line_no":342}
+{"page":11,"col":1,"y":138,"x":72,"x_end":539,"height":14,"n_words":10,"text":"experiments. These nascent capabilities promise to accelerate scientific advancement. They","line_no":343}
+{"page":11,"col":1,"y":152,"x":72,"x_end":540,"height":14,"n_words":16,"text":"will only do so, however, with critical changes in the way science is conducted, including the","line_no":344}
+{"page":11,"col":1,"y":165,"x":72,"x_end":539,"height":14,"n_words":12,"text":"enabling scientific infrastructure. AI-enabled predictions are of little use if scientists cannot","line_no":345}
+{"page":11,"col":1,"y":179,"x":72,"x_end":539,"height":14,"n_words":13,"text":"also increase the scale of experimentation. Basic science today is often a labor-intensive","line_no":346}
+{"page":11,"col":1,"y":192,"x":72,"x_end":539,"height":14,"n_words":14,"text":"process; the AI era will require more scientific and engineering research to transform theories","line_no":347}
+{"page":11,"col":1,"y":205,"x":72,"x_end":539,"height":14,"n_words":12,"text":"into industrial-scale enterprises. This, in turn, will necessitate new infrastructure and support","line_no":348}
+{"page":11,"col":1,"y":219,"x":72,"x_end":268,"height":14,"n_words":6,"text":"of new kinds of scientific organizations.","line_no":349}
+{"page":11,"col":1,"y":238,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":350}
+{"page":11,"col":1,"y":258,"x":81,"x_end":529,"height":14,"n_words":14,"text":"• Through NSF, DOE, NIST at DOC, and other Federal partners, invest in automated","line_no":351}
+{"page":11,"col":1,"y":271,"x":95,"x_end":529,"height":14,"n_words":11,"text":"cloud-enabled labs for a range of scientific fields, including engineering, materials","line_no":352}
+{"page":11,"col":1,"y":285,"x":95,"x_end":530,"height":14,"n_words":11,"text":"science, chemistry, biology, and neuroscience, built by, as appropriate, the private","line_no":353}
+{"page":11,"col":1,"y":298,"x":95,"x_end":530,"height":14,"n_words":10,"text":"sector, Federal agencies, and research institutions in coordination and collaboration","line_no":354}
+{"page":11,"col":1,"y":312,"x":95,"x_end":255,"height":14,"n_words":4,"text":"with DOE National Laboratories.","line_no":355}
+{"page":11,"col":1,"y":331,"x":81,"x_end":530,"height":14,"n_words":10,"text":"• Use long-term agreements to support Focused-Research Organizations or other","line_no":356}
+{"page":11,"col":1,"y":345,"x":95,"x_end":530,"height":14,"n_words":11,"text":"similar entities using AI and other emerging technologies to make fundamental","line_no":357}
+{"page":11,"col":1,"y":358,"x":95,"x_end":220,"height":14,"n_words":2,"text":"scientific advancements.","line_no":358}
+{"page":11,"col":1,"y":378,"x":81,"x_end":530,"height":14,"n_words":11,"text":"• Incentivize researchers to release more high-quality datasets publicly by considering","line_no":359}
+{"page":11,"col":1,"y":392,"x":95,"x_end":530,"height":14,"n_words":12,"text":"the impact of scientific and engineering datasets from a researchers’ prior funded","line_no":360}
+{"page":11,"col":1,"y":405,"x":95,"x_end":345,"height":14,"n_words":9,"text":"efforts in the review of proposals for new projects.","line_no":361}
+{"page":11,"col":1,"y":425,"x":81,"x_end":529,"height":14,"n_words":9,"text":"• Require federally funded researchers to disclose non-proprietary, non-sensitive","line_no":362}
+{"page":11,"col":1,"y":438,"x":95,"x_end":530,"height":14,"n_words":14,"text":"datasets that are used by AI models during the course of research and experimentation.","line_no":363}
+{"page":11,"col":1,"y":470,"x":72,"x_end":283,"height":20,"n_words":4,"text":"Build World-Class Scientific Datasets","line_no":364}
+{"page":11,"col":1,"y":496,"x":72,"x_end":539,"height":14,"n_words":13,"text":"High-quality data has become a national strategic asset as governments pursue AI innovation","line_no":365}
+{"page":11,"col":1,"y":510,"x":72,"x_end":539,"height":14,"n_words":12,"text":"goals and capitalize on the technology’s economic benefits. Other countries, including our","line_no":366}
+{"page":11,"col":1,"y":523,"x":72,"x_end":539,"height":14,"n_words":15,"text":"adversaries, have raced ahead of us in amassing vast troves of scientific data. The United","line_no":367}
+{"page":11,"col":1,"y":537,"x":72,"x_end":539,"height":14,"n_words":14,"text":"States must lead the creation of the world’s largest and highest quality AI-ready scientific","line_no":368}
+{"page":11,"col":1,"y":550,"x":72,"x_end":539,"height":14,"n_words":12,"text":"datasets, while maintaining respect for individual rights and ensuring civil liberties, privacy,","line_no":369}
+{"page":11,"col":1,"y":564,"x":72,"x_end":229,"height":14,"n_words":3,"text":"and confidentiality protections.","line_no":370}
+{"page":11,"col":1,"y":583,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":371}
+{"page":11,"col":1,"y":603,"x":81,"x_end":529,"height":14,"n_words":13,"text":"• Direct the National Science and Technology Council (NSTC) Machine Learning and AI","line_no":372}
+{"page":11,"col":1,"y":616,"x":95,"x_end":529,"height":14,"n_words":11,"text":"Subcommittee to make recommendations on minimum data quality standards for the","line_no":373}
+{"page":11,"col":1,"y":630,"x":95,"x_end":530,"height":14,"n_words":11,"text":"use of biological, materials science, chemical, physical, and other scientific data","line_no":374}
+{"page":11,"col":1,"y":643,"x":95,"x_end":250,"height":14,"n_words":5,"text":"modalities in AI model training.","line_no":375}
+{"page":11,"col":1,"y":663,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Promulgate the OMB regulations required in the Confidential Information Protection","line_no":376}
+{"page":11,"col":1,"y":676,"x":95,"x_end":529,"height":14,"n_words":12,"text":"and Statistical Efficiency Act of 2018 on presumption of accessibility and expanding","line_no":377}
+{"page":11,"col":1,"y":690,"x":95,"x_end":530,"height":14,"n_words":14,"text":"secure access, which will lower barriers and break down silos to accessing Federal data,","line_no":378}
+{"page":11,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"8","line_no":379}
+{"page":12,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":380}
+{"page":12,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":12,"text":"ultimately facilitating the improved use of AI for evidence building by statistical","line_no":381}
+{"page":12,"col":1,"y":85,"x":95,"x_end":496,"height":14,"n_words":11,"text":"agencies while protecting confidential data from inappropriate access and use. 16","line_no":382}
+{"page":12,"col":1,"y":104,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Establish secure compute environments within NSF and DOE to enable secure AI use-","line_no":383}
+{"page":12,"col":1,"y":118,"x":95,"x_end":362,"height":14,"n_words":8,"text":"cases for controlled access to restricted Federal data.","line_no":384}
+{"page":12,"col":1,"y":138,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Create an online portal for NSF’s National Secure Data Service (NSDS) demonstration","line_no":385}
+{"page":12,"col":1,"y":151,"x":95,"x_end":530,"height":14,"n_words":15,"text":"project to provide the public and Federal agencies with a front door to AI use-cases","line_no":386}
+{"page":12,"col":1,"y":165,"x":95,"x_end":363,"height":14,"n_words":7,"text":"involving controlled access to restricted Federal data.","line_no":387}
+{"page":12,"col":1,"y":184,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Explore the creation of a whole-genome sequencing program for life on Federal lands,","line_no":388}
+{"page":12,"col":1,"y":198,"x":95,"x_end":530,"height":14,"n_words":14,"text":"led by the NSTC and including members of the U.S. Department of Agriculture, DOE,","line_no":389}
+{"page":12,"col":1,"y":211,"x":95,"x_end":530,"height":14,"n_words":12,"text":"NIH, NSF, the Department of Interior, and Cooperative Ecosystem Studies Units to","line_no":390}
+{"page":12,"col":1,"y":225,"x":95,"x_end":530,"height":14,"n_words":13,"text":"collaborate on the development of an initiative to establish a whole genome sequencing","line_no":391}
+{"page":12,"col":1,"y":238,"x":95,"x_end":530,"height":14,"n_words":15,"text":"program for life on Federal lands (to include all biological domains). This new data would","line_no":392}
+{"page":12,"col":1,"y":251,"x":95,"x_end":444,"height":14,"n_words":10,"text":"be a valuable resource in training future biological foundation models.","line_no":393}
+{"page":12,"col":1,"y":283,"x":72,"x_end":213,"height":20,"n_words":5,"text":"Advance the Science of AI","line_no":394}
+{"page":12,"col":1,"y":310,"x":72,"x_end":539,"height":14,"n_words":16,"text":"Just as LLMs and generative AI systems represented a paradigm shift in the science of AI,","line_no":395}
+{"page":12,"col":1,"y":323,"x":72,"x_end":539,"height":14,"n_words":15,"text":"future breakthroughs may similarly transform what is possible with AI. It is imperative that the","line_no":396}
+{"page":12,"col":1,"y":336,"x":72,"x_end":539,"height":14,"n_words":13,"text":"United States remain the leading pioneer of such breakthroughs, and this begins with","line_no":397}
+{"page":12,"col":1,"y":350,"x":72,"x_end":443,"height":14,"n_words":11,"text":"strategic, targeted investment in the most promising paths at the frontier.","line_no":398}
+{"page":12,"col":1,"y":369,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":399}
+{"page":12,"col":1,"y":389,"x":81,"x_end":530,"height":14,"n_words":10,"text":"• Prioritize investment in theoretical, computational, and experimental research to","line_no":400}
+{"page":12,"col":1,"y":403,"x":95,"x_end":530,"height":14,"n_words":10,"text":"preserve America’s leadership in discovering new and transformative paradigms that","line_no":401}
+{"page":12,"col":1,"y":416,"x":95,"x_end":529,"height":14,"n_words":14,"text":"advance the capabilities of AI, reflecting this priority in the forthcoming National AI R&D","line_no":402}
+{"page":12,"col":1,"y":429,"x":95,"x_end":168,"height":14,"n_words":2,"text":"Strategic Plan.","line_no":403}
+{"page":12,"col":1,"y":461,"x":72,"x_end":460,"height":20,"n_words":8,"text":"Invest in AI Interpretability, Control, and Robustness Breakthroughs","line_no":404}
+{"page":12,"col":1,"y":488,"x":72,"x_end":539,"height":14,"n_words":13,"text":"Today, the inner workings of frontier AI systems are poorly understood. Technologists know","line_no":405}
+{"page":12,"col":1,"y":501,"x":72,"x_end":540,"height":14,"n_words":17,"text":"how LLMs work at a high level, but often cannot explain why a model produced a specific","line_no":406}
+{"page":12,"col":1,"y":514,"x":72,"x_end":539,"height":14,"n_words":18,"text":"output. This can make it hard to predict the behavior of any specific AI system. This lack of","line_no":407}
+{"page":12,"col":1,"y":528,"x":72,"x_end":539,"height":14,"n_words":15,"text":"predictability, in turn, can make it challenging to use advanced AI in defense, national security,","line_no":408}
+{"page":12,"col":1,"y":541,"x":72,"x_end":539,"height":14,"n_words":18,"text":"or other applications where lives are at stake. The United States will be better able to use AI","line_no":409}
+{"page":12,"col":1,"y":555,"x":72,"x_end":540,"height":14,"n_words":13,"text":"systems to their fullest potential in high-stakes national security domains if we make","line_no":410}
+{"page":12,"col":1,"y":568,"x":72,"x_end":359,"height":14,"n_words":6,"text":"fundamental breakthroughs on these research problems.","line_no":411}
+{"page":12,"col":1,"y":588,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":412}
+{"page":12,"col":1,"y":607,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Launch a technology development program led by the Defense Advanced Research","line_no":413}
+{"page":12,"col":1,"y":621,"x":95,"x_end":529,"height":14,"n_words":13,"text":"Projects Agency in collaboration with CAISI at DOC and NSF, to advance AI","line_no":414}
+{"page":12,"col":1,"y":634,"x":95,"x_end":411,"height":14,"n_words":7,"text":"interpretability, AI control systems, and adversarial robustness.","line_no":415}
+{"page":12,"col":1,"y":710,"x":72,"x_end":436,"height":10,"n_words":14,"text":"16 Confidential Information Protection and Statistical Efficiency Act of 2018, 44 U.S.C. §§ 3561-3583.","line_no":416}
+{"page":12,"col":1,"y":735,"x":303,"x_end":307,"height":14,"n_words":1,"text":"9","line_no":417}
+{"page":13,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":418}
+{"page":13,"col":1,"y":71,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Prioritize fundamental advancements in AI interpretability, control, and robustness as","line_no":419}
+{"page":13,"col":1,"y":85,"x":95,"x_end":372,"height":14,"n_words":9,"text":"part of the forthcoming National AI R&D Strategic Plan.","line_no":420}
+{"page":13,"col":1,"y":105,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• The DOD, DOE, CAISI at DOC, the Department of Homeland Security (DHS), NSF, and","line_no":421}
+{"page":13,"col":1,"y":118,"x":95,"x_end":529,"height":14,"n_words":13,"text":"academic partners should coordinate an AI hackathon initiative to solicit the best and","line_no":422}
+{"page":13,"col":1,"y":132,"x":95,"x_end":529,"height":14,"n_words":12,"text":"brightest from U.S. academia to test AI systems for transparency, effectiveness, use","line_no":423}
+{"page":13,"col":1,"y":145,"x":95,"x_end":273,"height":14,"n_words":4,"text":"control, and security vulnerabilities.","line_no":424}
+{"page":13,"col":1,"y":177,"x":72,"x_end":268,"height":20,"n_words":5,"text":"Build an AI Evaluations Ecosystem","line_no":425}
+{"page":13,"col":1,"y":203,"x":72,"x_end":539,"height":14,"n_words":14,"text":"Evaluations are how the AI industry assesses the performance and reliability of AI systems.","line_no":426}
+{"page":13,"col":1,"y":217,"x":72,"x_end":540,"height":14,"n_words":14,"text":"Rigorous evaluations can be a critical tool in defining and measuring AI reliability and","line_no":427}
+{"page":13,"col":1,"y":230,"x":72,"x_end":539,"height":14,"n_words":12,"text":"performance in regulated industries. Over time, regulators should explore the use of","line_no":428}
+{"page":13,"col":1,"y":244,"x":72,"x_end":371,"height":14,"n_words":10,"text":"evaluations in their application of existing law to AI systems.","line_no":429}
+{"page":13,"col":1,"y":263,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":430}
+{"page":13,"col":1,"y":283,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Publish guidelines and resources through NIST at DOC, including CAISI, for Federal","line_no":431}
+{"page":13,"col":1,"y":296,"x":95,"x_end":530,"height":14,"n_words":14,"text":"agencies to conduct their own evaluations of AI systems for their distinct missions and","line_no":432}
+{"page":13,"col":1,"y":310,"x":95,"x_end":336,"height":14,"n_words":7,"text":"operations and for compliance with existing law.","line_no":433}
+{"page":13,"col":1,"y":329,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Support the development of the science of measuring and evaluating AI models, led by","line_no":434}
+{"page":13,"col":1,"y":343,"x":95,"x_end":400,"height":14,"n_words":10,"text":"NIST at DOC, DOE, NSF, and other Federal science agencies.","line_no":435}
+{"page":13,"col":1,"y":363,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Convene meetings at least twice per year under the auspices of CAISI at DOC for","line_no":436}
+{"page":13,"col":1,"y":376,"x":95,"x_end":529,"height":14,"n_words":13,"text":"Federal agencies and the research community to share learnings and best practices on","line_no":437}
+{"page":13,"col":1,"y":390,"x":95,"x_end":211,"height":14,"n_words":3,"text":"building AI evaluations.","line_no":438}
+{"page":13,"col":1,"y":409,"x":81,"x_end":530,"height":14,"n_words":17,"text":"• Invest, via DOE and NSF, in the development of AI testbeds for piloting AI systems in","line_no":439}
+{"page":13,"col":1,"y":423,"x":95,"x_end":530,"height":14,"n_words":11,"text":"secure, real-world settings, allowing researchers to prototype new AI systems and","line_no":440}
+{"page":13,"col":1,"y":436,"x":95,"x_end":530,"height":14,"n_words":12,"text":"translate them to the market. Such testbeds would encourage participation by broad","line_no":441}
+{"page":13,"col":1,"y":450,"x":95,"x_end":530,"height":14,"n_words":13,"text":"multistakeholder teams and span a wide variety of economic verticals touched by AI,","line_no":442}
+{"page":13,"col":1,"y":463,"x":95,"x_end":401,"height":14,"n_words":6,"text":"including agriculture, transportation, and healthcare delivery.","line_no":443}
+{"page":13,"col":1,"y":483,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by DOC, convene the NIST AI Consortium to empower the collaborative","line_no":444}
+{"page":13,"col":1,"y":496,"x":95,"x_end":530,"height":14,"n_words":11,"text":"establishment of new measurement science that will enable the identification of","line_no":445}
+{"page":13,"col":1,"y":510,"x":95,"x_end":529,"height":14,"n_words":10,"text":"proven, scalable, and interoperable techniques and metrics to promote the","line_no":446}
+{"page":13,"col":1,"y":523,"x":95,"x_end":190,"height":14,"n_words":3,"text":"development of AI.","line_no":447}
+{"page":13,"col":1,"y":555,"x":72,"x_end":287,"height":20,"n_words":5,"text":"Accelerate AI Adoption in Government","line_no":448}
+{"page":13,"col":1,"y":581,"x":72,"x_end":539,"height":14,"n_words":16,"text":"With AI tools in use, the Federal government can serve the public with far greater efficiency","line_no":449}
+{"page":13,"col":1,"y":595,"x":72,"x_end":539,"height":14,"n_words":12,"text":"and effectiveness. Use cases include accelerating slow and often manual internal processes,","line_no":450}
+{"page":13,"col":1,"y":608,"x":72,"x_end":539,"height":14,"n_words":12,"text":"streamlining public interactions, and many others. Taken together, transformative use of AI","line_no":451}
+{"page":13,"col":1,"y":622,"x":72,"x_end":539,"height":14,"n_words":13,"text":"can help deliver the highly responsive government the American people expect and deserve.","line_no":452}
+{"page":13,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"10","line_no":453}
+{"page":14,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":454}
+{"page":14,"col":1,"y":71,"x":71,"x_end":539,"height":14,"n_words":14,"text":"OMB has already advanced AI adoption in government by reducing onerous rules imposed by","line_no":455}
+{"page":14,"col":1,"y":85,"x":71,"x_end":417,"height":14,"n_words":14,"text":"the Biden Administration. 17, 18 Now is the time to build on this success.","line_no":456}
+{"page":14,"col":1,"y":104,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":457}
+{"page":14,"col":1,"y":124,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Formalize the Chief Artificial Intelligence Officer Council (CAIOC) as the primary venue","line_no":458}
+{"page":14,"col":1,"y":137,"x":95,"x_end":530,"height":14,"n_words":11,"text":"for interagency coordination and collaboration on AI adoption. Through the CAIOC,","line_no":459}
+{"page":14,"col":1,"y":151,"x":95,"x_end":530,"height":14,"n_words":9,"text":"initiate strategic coordination and collaboration with relevant Federal executive","line_no":460}
+{"page":14,"col":1,"y":164,"x":95,"x_end":530,"height":14,"n_words":11,"text":"councils, to include: the President’s Management Council, Chief Data Officer Council,","line_no":461}
+{"page":14,"col":1,"y":178,"x":95,"x_end":529,"height":14,"n_words":10,"text":"Chief Information Officer Council, Interagency Council on Statistical Policy, Chief","line_no":462}
+{"page":14,"col":1,"y":191,"x":95,"x_end":396,"height":14,"n_words":8,"text":"Human Capital Officer Council, and Federal Privacy Council.","line_no":463}
+{"page":14,"col":1,"y":211,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Create a talent-exchange program designed to allow rapid details of Federal staff to","line_no":464}
+{"page":14,"col":1,"y":224,"x":95,"x_end":530,"height":14,"n_words":13,"text":"other agencies in need of specialized AI talent (e.g., data scientists and software","line_no":465}
+{"page":14,"col":1,"y":238,"x":95,"x_end":423,"height":14,"n_words":9,"text":"engineers), with input from the Office of Personnel Management.","line_no":466}
+{"page":14,"col":1,"y":257,"x":81,"x_end":529,"height":14,"n_words":12,"text":"• Create an AI procurement toolbox managed by the General Services Administration","line_no":467}
+{"page":14,"col":1,"y":271,"x":95,"x_end":530,"height":14,"n_words":11,"text":"(GSA), in coordination with OMB, that facilitates uniformity across the Federal","line_no":468}
+{"page":14,"col":1,"y":284,"x":95,"x_end":530,"height":14,"n_words":12,"text":"enterprise to the greatest extent practicable. This system would allow any Federal","line_no":469}
+{"page":14,"col":1,"y":298,"x":95,"x_end":530,"height":14,"n_words":13,"text":"agency to easily choose among multiple models in a manner compliant with relevant","line_no":470}
+{"page":14,"col":1,"y":311,"x":95,"x_end":530,"height":14,"n_words":11,"text":"privacy, data governance, and transparency laws. Agencies should also have ample","line_no":471}
+{"page":14,"col":1,"y":325,"x":95,"x_end":530,"height":14,"n_words":17,"text":"flexibility to customize models to their own ends, as well as to see a catalog of other","line_no":472}
+{"page":14,"col":1,"y":338,"x":95,"x_end":442,"height":14,"n_words":11,"text":"agency AI uses (based on OMB’s pre-existing AI Use Case Inventory).","line_no":473}
+{"page":14,"col":1,"y":358,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Implement an Advanced Technology Transfer and Capability Sharing Program with","line_no":474}
+{"page":14,"col":1,"y":371,"x":95,"x_end":504,"height":14,"n_words":12,"text":"GSA to quickly transfer advanced AI capabilities and use cases between agencies.","line_no":475}
+{"page":14,"col":1,"y":391,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Mandate that all Federal agencies ensure—to the maximum extent practicable—that all","line_no":476}
+{"page":14,"col":1,"y":404,"x":95,"x_end":530,"height":14,"n_words":12,"text":"employees whose work could benefit from access to frontier language models have","line_no":477}
+{"page":14,"col":1,"y":418,"x":95,"x_end":344,"height":14,"n_words":8,"text":"access to, and appropriate training for, such tools.","line_no":478}
+{"page":14,"col":1,"y":437,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Convene, under the auspices of OMB, a cohort of agencies with High Impact Service","line_no":479}
+{"page":14,"col":1,"y":451,"x":95,"x_end":529,"height":14,"n_words":17,"text":"Providers to pilot and increase the use of AI to improve the delivery of services to the","line_no":480}
+{"page":14,"col":1,"y":464,"x":95,"x_end":128,"height":14,"n_words":1,"text":"public.","line_no":481}
+{"page":14,"col":1,"y":496,"x":72,"x_end":379,"height":20,"n_words":9,"text":"Drive Adoption of AI within the Department of Defense","line_no":482}
+{"page":14,"col":1,"y":523,"x":72,"x_end":540,"height":14,"n_words":15,"text":"AI has the potential to transform both the warfighting and back-office operations of the DOD.","line_no":483}
+{"page":14,"col":1,"y":536,"x":72,"x_end":539,"height":14,"n_words":17,"text":"The United States must aggressively adopt AI within its Armed Forces if it is to maintain its","line_no":484}
+{"page":14,"col":1,"y":550,"x":72,"x_end":539,"height":14,"n_words":13,"text":"global military preeminence while also ensuring, as outlined throughout this Action Plan, that","line_no":485}
+{"page":14,"col":1,"y":563,"x":72,"x_end":539,"height":14,"n_words":17,"text":"its use of AI is secure and reliable. Because the DOD has unique operational needs within the","line_no":486}
+{"page":14,"col":1,"y":576,"x":72,"x_end":437,"height":14,"n_words":11,"text":"Federal government, it merits specific policy actions to drive AI adoption.","line_no":487}
+{"page":14,"col":1,"y":655,"x":72,"x_end":538,"height":10,"n_words":18,"text":"17 Office of Management and Budget, “Accelerating Federal Use of AI through Innovation, Governance, and Public Trust (M-25-","line_no":488}
+{"page":14,"col":1,"y":665,"x":81,"x_end":539,"height":10,"n_words":10,"text":"21),” (Washington, DC: Executive Office of the President, 2025), www.whitehouse.gov/wp-content/uploads/2025/02/M-25-","line_no":489}
+{"page":14,"col":1,"y":674,"x":80,"x_end":423,"height":10,"n_words":1,"text":"21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf.","line_no":490}
+{"page":14,"col":1,"y":684,"x":72,"x_end":539,"height":10,"n_words":16,"text":"18 Office of Management and Budget, “Driving Efficient Acquisition of Artificial Intelligence in Government (M-25 22),”","line_no":491}
+{"page":14,"col":1,"y":694,"x":81,"x_end":539,"height":10,"n_words":9,"text":"(Washington, DC: Executive Office of the President, 2025), www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-","line_no":492}
+{"page":14,"col":1,"y":704,"x":81,"x_end":360,"height":10,"n_words":1,"text":"Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf.","line_no":493}
+{"page":14,"col":1,"y":735,"x":303,"x_end":308,"height":14,"n_words":1,"text":"11","line_no":494}
+{"page":15,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":495}
+{"page":15,"col":1,"y":71,"x":71,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":496}
+{"page":15,"col":1,"y":91,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Identify the talent and skills DOD’s workforce requires to leverage AI at scale. Based on","line_no":497}
+{"page":15,"col":1,"y":105,"x":95,"x_end":530,"height":14,"n_words":10,"text":"this identification, implement talent development programs to meet AI workforce","line_no":498}
+{"page":15,"col":1,"y":118,"x":95,"x_end":479,"height":14,"n_words":9,"text":"requirements and drive the effective employment of AI-enabled capabilities.","line_no":499}
+{"page":15,"col":1,"y":138,"x":81,"x_end":529,"height":14,"n_words":14,"text":"• Establish an AI & Autonomous Systems Virtual Proving Ground at DOD, beginning with","line_no":500}
+{"page":15,"col":1,"y":151,"x":95,"x_end":530,"height":14,"n_words":10,"text":"scoping the technical, geographic, security, and resourcing requirements necessary for","line_no":501}
+{"page":15,"col":1,"y":165,"x":95,"x_end":165,"height":14,"n_words":3,"text":"such a facility.","line_no":502}
+{"page":15,"col":1,"y":184,"x":81,"x_end":529,"height":14,"n_words":12,"text":"• Develop a streamlined process within DOD for classifying, evaluating, and optimizing","line_no":503}
+{"page":15,"col":1,"y":198,"x":95,"x_end":529,"height":14,"n_words":13,"text":"workflows involved in its major operational and enabling functions, aiming to develop a","line_no":504}
+{"page":15,"col":1,"y":211,"x":95,"x_end":530,"height":14,"n_words":13,"text":"list of priority workflows for automation with AI. When a workflow is successfully","line_no":505}
+{"page":15,"col":1,"y":225,"x":95,"x_end":529,"height":14,"n_words":12,"text":"automated, DOD should strive to permanently transition that workflow to the AI-based","line_no":506}
+{"page":15,"col":1,"y":238,"x":95,"x_end":302,"height":14,"n_words":5,"text":"implementation as quickly as practicable.","line_no":507}
+{"page":15,"col":1,"y":258,"x":81,"x_end":530,"height":14,"n_words":11,"text":"• Prioritize DOD-led agreements with cloud service providers, operators of computing","line_no":508}
+{"page":15,"col":1,"y":271,"x":95,"x_end":530,"height":14,"n_words":12,"text":"infrastructure, and other relevant private sector entities to codify priority access to","line_no":509}
+{"page":15,"col":1,"y":285,"x":95,"x_end":530,"height":14,"n_words":15,"text":"computing resources in the event of a national emergency so that DOD is prepared to","line_no":510}
+{"page":15,"col":1,"y":298,"x":95,"x_end":401,"height":14,"n_words":8,"text":"fully leverage these technologies during a significant conflict.","line_no":511}
+{"page":15,"col":1,"y":318,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Grow our Senior Military Colleges into hubs of AI research, development, and talent","line_no":512}
+{"page":15,"col":1,"y":331,"x":95,"x_end":530,"height":14,"n_words":12,"text":"building, teaching core AI skills and literacy to future generations. Foster AI-specific","line_no":513}
+{"page":15,"col":1,"y":345,"x":95,"x_end":529,"height":14,"n_words":11,"text":"curriculum, including in AI use, development, and infrastructure management, in the","line_no":514}
+{"page":15,"col":1,"y":358,"x":95,"x_end":313,"height":14,"n_words":5,"text":"Senior Military Colleges throughout majors.","line_no":515}
+{"page":15,"col":1,"y":390,"x":72,"x_end":372,"height":20,"n_words":6,"text":"Protect Commercial and Government AI Innovations","line_no":516}
+{"page":15,"col":1,"y":416,"x":72,"x_end":539,"height":14,"n_words":13,"text":"Maintaining American leadership in AI necessitates that the U.S. government work closely with","line_no":517}
+{"page":15,"col":1,"y":430,"x":72,"x_end":539,"height":14,"n_words":11,"text":"industry to appropriately balance the dissemination of cutting-edge AI technologies with","line_no":518}
+{"page":15,"col":1,"y":443,"x":72,"x_end":539,"height":14,"n_words":14,"text":"national security concerns. It is also essential for the U.S. government to effectively address","line_no":519}
+{"page":15,"col":1,"y":457,"x":71,"x_end":485,"height":14,"n_words":11,"text":"security risks to American AI companies, talent, intellectual property, and systems.","line_no":520}
+{"page":15,"col":1,"y":476,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":521}
+{"page":15,"col":1,"y":496,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by DOD, DHS, CAISI at DOC, and other appropriate members of the IC, collaborate","line_no":522}
+{"page":15,"col":1,"y":509,"x":95,"x_end":529,"height":14,"n_words":14,"text":"with leading American AI developers to enable the private sector to actively protect AI","line_no":523}
+{"page":15,"col":1,"y":523,"x":95,"x_end":530,"height":14,"n_words":11,"text":"innovations from security risks, including malicious cyber actors, insider threats, and","line_no":524}
+{"page":15,"col":1,"y":536,"x":95,"x_end":130,"height":14,"n_words":1,"text":"others.","line_no":525}
+{"page":15,"col":1,"y":568,"x":72,"x_end":323,"height":20,"n_words":7,"text":"Combat Synthetic Media in the Legal System","line_no":526}
+{"page":15,"col":1,"y":594,"x":72,"x_end":539,"height":14,"n_words":15,"text":"One risk of AI that has become apparent to many Americans is malicious deepfakes, whether","line_no":527}
+{"page":15,"col":1,"y":608,"x":72,"x_end":539,"height":14,"n_words":14,"text":"they be audio recordings, videos, or photos. While President Trump has already signed the","line_no":528}
+{"page":15,"col":1,"y":621,"x":72,"x_end":539,"height":14,"n_words":15,"text":"TAKE IT DOWN Act, which was championed by First Lady Melania Trump and intended to","line_no":529}
+{"page":15,"col":1,"y":635,"x":72,"x_end":539,"height":14,"n_words":12,"text":"protect against sexually explicit, non-consensual deepfakes, additional action is needed. 19 In","line_no":530}
+{"page":15,"col":1,"y":648,"x":72,"x_end":539,"height":14,"n_words":12,"text":"particular, AI-generated media may present novel challenges to the legal system. For","line_no":531}
+{"page":15,"col":1,"y":661,"x":72,"x_end":540,"height":14,"n_words":15,"text":"example, fake evidence could be used to attempt to deny justice to both plaintiffs and","line_no":532}
+{"page":15,"col":1,"y":710,"x":72,"x_end":411,"height":10,"n_words":19,"text":"19 TAKE IT DOWN Act, Pub. L. No. 119-12, 139 Stat. 55 (2025) (codified as 47 U.S.C. § 223(h)).","line_no":533}
+{"page":15,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"12","line_no":534}
+{"page":16,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":535}
+{"page":16,"col":1,"y":71,"x":72,"x_end":539,"height":14,"n_words":14,"text":"defendants. The Administration must give the courts and law enforcement the tools they need","line_no":536}
+{"page":16,"col":1,"y":85,"x":72,"x_end":249,"height":14,"n_words":5,"text":"to overcome these new challenges.","line_no":537}
+{"page":16,"col":1,"y":104,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":538}
+{"page":16,"col":1,"y":124,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by NIST at DOC, consider developing NIST’s Guardians of Forensic Evidence","line_no":539}
+{"page":16,"col":1,"y":137,"x":95,"x_end":529,"height":14,"n_words":11,"text":"deepfake evaluation program into a formal guideline and a companion voluntary","line_no":540}
+{"page":16,"col":1,"y":151,"x":95,"x_end":206,"height":14,"n_words":3,"text":"forensic benchmark. 20","line_no":541}
+{"page":16,"col":1,"y":170,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by the Department of Justice (DOJ), issue guidance to agencies that engage in","line_no":542}
+{"page":16,"col":1,"y":184,"x":95,"x_end":530,"height":14,"n_words":12,"text":"adjudications to explore adopting a deepfake standard similar to the proposed Federal","line_no":543}
+{"page":16,"col":1,"y":197,"x":95,"x_end":529,"height":14,"n_words":12,"text":"Rules of Evidence Rule 901(c) under consideration by the Advisory Committee on","line_no":544}
+{"page":16,"col":1,"y":211,"x":95,"x_end":174,"height":14,"n_words":2,"text":"Evidence Rules.","line_no":545}
+{"page":16,"col":1,"y":230,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by DOJ’s Office of Legal Policy, file formal comments on any proposed deepfake-","line_no":546}
+{"page":16,"col":1,"y":244,"x":95,"x_end":346,"height":14,"n_words":8,"text":"related additions to the Federal Rules of Evidence.","line_no":547}
+{"page":16,"col":1,"y":690,"x":72,"x_end":529,"height":10,"n_words":17,"text":"20 Haiying Guan, James Horan, and Andrew Zhang, “Guardians of Forensic Evidence: Evaluating Analytic Systems Against AI-","line_no":548}
+{"page":16,"col":1,"y":700,"x":81,"x_end":483,"height":10,"n_words":13,"text":"Generated Deepfakes,” (Gaithersburg, MD: National Institute of Standards and Technology, January 27, 2025),","line_no":549}
+{"page":16,"col":1,"y":710,"x":81,"x_end":528,"height":10,"n_words":1,"text":"www.nist.gov/publications/guardians-forensic-evidence-evaluating-analytic-systems-against-ai-generated-deepfakes.","line_no":550}
+{"page":16,"col":1,"y":735,"x":302,"x_end":308,"height":14,"n_words":1,"text":"13","line_no":551}
+{"page":17,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":552}
+{"page":17,"col":1,"y":72,"x":123,"x_end":487,"height":33,"n_words":6,"text":"Pillar II: Build American AI Infrastructure","line_no":553}
+{"page":17,"col":1,"y":117,"x":72,"x_end":539,"height":14,"n_words":16,"text":"AI is the first digital service in modern life that challenges America to build vastly greater","line_no":554}
+{"page":17,"col":1,"y":130,"x":72,"x_end":540,"height":14,"n_words":13,"text":"energy generation than we have today. American energy capacity has stagnated since the","line_no":555}
+{"page":17,"col":1,"y":144,"x":72,"x_end":540,"height":14,"n_words":16,"text":"1970s while China has rapidly built out their grid. America’s path to AI dominance depends on","line_no":556}
+{"page":17,"col":1,"y":157,"x":72,"x_end":221,"height":14,"n_words":4,"text":"changing this troubling trend.","line_no":557}
+{"page":17,"col":1,"y":189,"x":72,"x_end":530,"height":20,"n_words":8,"text":"Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing","line_no":558}
+{"page":17,"col":1,"y":210,"x":72,"x_end":449,"height":20,"n_words":7,"text":"Facilities, and Energy Infrastructure while Guaranteeing Security","line_no":559}
+{"page":17,"col":1,"y":236,"x":72,"x_end":539,"height":14,"n_words":12,"text":"Like most general-purpose technologies of the past, AI will require new infrastructure—","line_no":560}
+{"page":17,"col":1,"y":250,"x":72,"x_end":539,"height":14,"n_words":16,"text":"factories to produce chips, data centers to run those chips, and new sources of energy to","line_no":561}
+{"page":17,"col":1,"y":263,"x":72,"x_end":539,"height":14,"n_words":13,"text":"power it all. America’s environmental permitting system and other regulations make it almost","line_no":562}
+{"page":17,"col":1,"y":277,"x":72,"x_end":540,"height":14,"n_words":15,"text":"impossible to build this infrastructure in the United States with the speed that is required.","line_no":563}
+{"page":17,"col":1,"y":290,"x":72,"x_end":539,"height":14,"n_words":13,"text":"Additionally, this infrastructure must also not be built with any adversarial technology that","line_no":564}
+{"page":17,"col":1,"y":303,"x":72,"x_end":254,"height":14,"n_words":5,"text":"could undermine U.S. AI dominance.","line_no":565}
+{"page":17,"col":1,"y":323,"x":72,"x_end":539,"height":14,"n_words":11,"text":"Fortunately, the Trump Administration has made unprecedented progress in reforming this","line_no":566}
+{"page":17,"col":1,"y":336,"x":72,"x_end":539,"height":14,"n_words":11,"text":"system. Since taking office, President Trump has already reformed National Environmental","line_no":567}
+{"page":17,"col":1,"y":350,"x":72,"x_end":539,"height":14,"n_words":12,"text":"Policy Act (NEPA) regulations across almost every relevant Federal agency, jumpstarted a","line_no":568}
+{"page":17,"col":1,"y":363,"x":72,"x_end":539,"height":14,"n_words":9,"text":"permitting technology modernization program, created the National Energy Dominance","line_no":569}
+{"page":17,"col":1,"y":377,"x":72,"x_end":539,"height":14,"n_words":16,"text":"Council (NEDC), and launched the United States Investment Accelerator. 21, 22, 23, 24 Now is the","line_no":570}
+{"page":17,"col":1,"y":390,"x":71,"x_end":238,"height":14,"n_words":6,"text":"time to build on that momentum.","line_no":571}
+{"page":17,"col":1,"y":409,"x":71,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":572}
+{"page":17,"col":1,"y":429,"x":81,"x_end":529,"height":14,"n_words":12,"text":"• Establish new Categorical Exclusions under NEPA to cover data center-related actions","line_no":573}
+{"page":17,"col":1,"y":443,"x":95,"x_end":530,"height":14,"n_words":13,"text":"that normally do not have a significant effect on the environment. Where possible,","line_no":574}
+{"page":17,"col":1,"y":456,"x":95,"x_end":530,"height":14,"n_words":11,"text":"adopt Categorical Exclusions already established by other agencies so that each","line_no":575}
+{"page":17,"col":1,"y":469,"x":95,"x_end":372,"height":14,"n_words":7,"text":"relevant agency can proceed with maximum efficiency.","line_no":576}
+{"page":17,"col":1,"y":489,"x":81,"x_end":530,"height":14,"n_words":17,"text":"• Expand the use of the FAST-41 process to cover all data center and data center energy","line_no":577}
+{"page":17,"col":1,"y":503,"x":95,"x_end":501,"height":14,"n_words":12,"text":"projects eligible under the Fixing America’s Surface Transportation Act of 2015. 25","line_no":578}
+{"page":17,"col":1,"y":522,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Explore the need for a nationwide Clean Water Act Section 404 permit for data centers,","line_no":579}
+{"page":17,"col":1,"y":536,"x":95,"x_end":530,"height":14,"n_words":13,"text":"and, if adopted, ensure that this permit does not require a Pre-Construction Notification","line_no":580}
+{"page":17,"col":1,"y":549,"x":95,"x_end":513,"height":14,"n_words":15,"text":"and covers development sites consistent with the size of a modern AI data center. 26","line_no":581}
+{"page":17,"col":1,"y":569,"x":81,"x_end":529,"height":14,"n_words":9,"text":"• Expedite environmental permitting by streamlining or reducing regulations","line_no":582}
+{"page":17,"col":1,"y":583,"x":95,"x_end":529,"height":14,"n_words":12,"text":"promulgated under the Clean Air Act, the Clean Water Act, the Comprehensive","line_no":583}
+{"page":17,"col":1,"y":622,"x":72,"x_end":505,"height":10,"n_words":18,"text":"21 Executive Order 14156 of January 20, 2025, “Declaring a National Energy Emergency,” Federal Register 90 (18) 8433,","line_no":584}
+{"page":17,"col":1,"y":632,"x":81,"x_end":341,"height":10,"n_words":1,"text":"www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-02003.pdf.","line_no":585}
+{"page":17,"col":1,"y":641,"x":72,"x_end":443,"height":10,"n_words":15,"text":"22 Presidential Memorandum of April 15, 2025, “Updating Permitting Technology for the 21 st Century,”","line_no":586}
+{"page":17,"col":1,"y":651,"x":81,"x_end":486,"height":10,"n_words":1,"text":"www.whitehouse.gov/presidential-actions/2025/04/updating-permitting-technology-for-the-21st-century/.","line_no":587}
+{"page":17,"col":1,"y":661,"x":72,"x_end":534,"height":10,"n_words":18,"text":"23 Executive Order 14213 of February 14, 2025, “Establishing the National Energy Dominance Council,” Federal Register 90 (33)","line_no":588}
+{"page":17,"col":1,"y":671,"x":81,"x_end":364,"height":10,"n_words":2,"text":"9945, www.govinfo.gov/content/pkg/FR-2025-02-20/pdf/2025-02928.pdf.","line_no":589}
+{"page":17,"col":1,"y":680,"x":72,"x_end":531,"height":10,"n_words":18,"text":"24 Executive Order 14255 of March 31, 2025, “Establishing the United States Investment Accelerator,” Federal Register 90 (63)","line_no":590}
+{"page":17,"col":1,"y":690,"x":81,"x_end":367,"height":10,"n_words":2,"text":"14701, www.govinfo.gov/content/pkg/FR-2025-04-03/pdf/2025-05908.pdf.","line_no":591}
+{"page":17,"col":1,"y":700,"x":72,"x_end":361,"height":10,"n_words":10,"text":"25 Fixing America’s Surface Transportation Act, 42 U.S.C. §§ 4370m-4370m-11.","line_no":592}
+{"page":17,"col":1,"y":710,"x":72,"x_end":233,"height":10,"n_words":10,"text":"26 Clean Water Act of 1972, 33 U.S.C. § 1344.","line_no":593}
+{"page":17,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"14","line_no":594}
+{"page":18,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":595}
+{"page":18,"col":1,"y":71,"x":95,"x_end":529,"height":14,"n_words":10,"text":"Environmental Response, Compensation, and Liability Act, and other relevant related","line_no":596}
+{"page":18,"col":1,"y":85,"x":95,"x_end":138,"height":8,"n_words":3,"text":"laws. 27, 28","line_no":597}
+{"page":18,"col":1,"y":104,"x":81,"x_end":529,"height":14,"n_words":14,"text":"• Make Federal lands available for data center construction and the construction of power","line_no":598}
+{"page":18,"col":1,"y":118,"x":95,"x_end":529,"height":14,"n_words":11,"text":"generation infrastructure for those data centers by directing agencies with significant","line_no":599}
+{"page":18,"col":1,"y":131,"x":95,"x_end":424,"height":14,"n_words":9,"text":"land portfolios to identify sites suited to large-scale development.","line_no":600}
+{"page":18,"col":1,"y":151,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Maintain security guardrails to prohibit adversaries from inserting sensitive inputs to","line_no":601}
+{"page":18,"col":1,"y":165,"x":95,"x_end":530,"height":14,"n_words":13,"text":"this infrastructure. Ensure that the domestic AI computing stack is built on American","line_no":602}
+{"page":18,"col":1,"y":178,"x":95,"x_end":530,"height":14,"n_words":13,"text":"products and that the infrastructure that supports AI development such as energy and","line_no":603}
+{"page":18,"col":1,"y":191,"x":95,"x_end":529,"height":14,"n_words":9,"text":"telecommunications are free from foreign adversary information and communications","line_no":604}
+{"page":18,"col":1,"y":205,"x":95,"x_end":473,"height":14,"n_words":8,"text":"technology and services (ICTS)—including software and relevant hardware.","line_no":605}
+{"page":18,"col":1,"y":224,"x":81,"x_end":529,"height":14,"n_words":14,"text":"• Expand efforts to apply AI to accelerate and improve environmental reviews, such as","line_no":606}
+{"page":18,"col":1,"y":238,"x":95,"x_end":522,"height":14,"n_words":12,"text":"through expanding the number of agencies participating in DOE’s PermitAI project. 29","line_no":607}
+{"page":18,"col":1,"y":270,"x":72,"x_end":352,"height":20,"n_words":10,"text":"Develop a Grid to Match the Pace of AI Innovation","line_no":608}
+{"page":18,"col":1,"y":296,"x":72,"x_end":539,"height":14,"n_words":18,"text":"The U.S. electric grid is one of the largest and most complex machines on Earth. It, too, will","line_no":609}
+{"page":18,"col":1,"y":310,"x":72,"x_end":539,"height":14,"n_words":14,"text":"need to be upgraded to support data centers and other energy-intensive industries of the","line_no":610}
+{"page":18,"col":1,"y":323,"x":72,"x_end":539,"height":14,"n_words":16,"text":"future. The power grid is the lifeblood of the modern economy and a cornerstone of national","line_no":611}
+{"page":18,"col":1,"y":336,"x":72,"x_end":539,"height":14,"n_words":14,"text":"security, but it is facing a confluence of challenges that demand strategic foresight and","line_no":612}
+{"page":18,"col":1,"y":350,"x":72,"x_end":539,"height":14,"n_words":10,"text":"decisive action. Escalating demand driven by electrification and the technological","line_no":613}
+{"page":18,"col":1,"y":363,"x":72,"x_end":539,"height":14,"n_words":15,"text":"advancements of AI are increasing pressures on the grid. The United States must develop a","line_no":614}
+{"page":18,"col":1,"y":377,"x":72,"x_end":539,"height":14,"n_words":14,"text":"comprehensive strategy to enhance and expand the power grid designed not just to weather","line_no":615}
+{"page":18,"col":1,"y":390,"x":72,"x_end":535,"height":14,"n_words":14,"text":"these challenges, but to ensure the grid’s continued strength and capacity for future growth.","line_no":616}
+{"page":18,"col":1,"y":410,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":617}
+{"page":18,"col":1,"y":429,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Stabilize the grid of today as much as possible. This initial phase acknowledges the need","line_no":618}
+{"page":18,"col":1,"y":443,"x":95,"x_end":530,"height":14,"n_words":12,"text":"to safeguard existing assets and ensures an uninterrupted and affordable supply of","line_no":619}
+{"page":18,"col":1,"y":456,"x":95,"x_end":529,"height":14,"n_words":11,"text":"power. The United States must prevent the premature decommissioning of critical","line_no":620}
+{"page":18,"col":1,"y":470,"x":95,"x_end":530,"height":14,"n_words":11,"text":"power generation resources and explore innovative ways to harness existing capacity,","line_no":621}
+{"page":18,"col":1,"y":483,"x":95,"x_end":530,"height":14,"n_words":13,"text":"such as leveraging extant backup power sources to bolster grid reliability during peak","line_no":622}
+{"page":18,"col":1,"y":497,"x":95,"x_end":530,"height":14,"n_words":16,"text":"demand. A key element of this stabilization is to ensure every corner of the electric grid","line_no":623}
+{"page":18,"col":1,"y":510,"x":95,"x_end":529,"height":14,"n_words":12,"text":"is in compliance with nationwide standards for resource adequacy and sufficient power","line_no":624}
+{"page":18,"col":1,"y":523,"x":95,"x_end":413,"height":14,"n_words":8,"text":"generation capacity is consistently available across the country.","line_no":625}
+{"page":18,"col":1,"y":543,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Optimize existing grid resources as much as possible. This involves implementing","line_no":626}
+{"page":18,"col":1,"y":557,"x":95,"x_end":529,"height":14,"n_words":12,"text":"strategies to enhance the efficiency and performance of the transmission system. The","line_no":627}
+{"page":18,"col":1,"y":570,"x":95,"x_end":530,"height":14,"n_words":11,"text":"United States must explore solutions like advanced grid management technologies and","line_no":628}
+{"page":18,"col":1,"y":583,"x":95,"x_end":530,"height":14,"n_words":13,"text":"upgrades to power lines that can increase the amount of electricity transmitted along","line_no":629}
+{"page":18,"col":1,"y":597,"x":95,"x_end":530,"height":14,"n_words":12,"text":"existing routes. Furthermore, the United States should investigate new and novel ways","line_no":630}
+{"page":18,"col":1,"y":610,"x":95,"x_end":530,"height":14,"n_words":12,"text":"for large power consumers to manage their power consumption during critical grid","line_no":631}
+{"page":18,"col":1,"y":624,"x":95,"x_end":459,"height":14,"n_words":11,"text":"periods to enhance reliability and unlock additional power on the system.","line_no":632}
+{"page":18,"col":1,"y":680,"x":72,"x_end":251,"height":10,"n_words":10,"text":"27 Clean Air Act of 1963, 42 U.S.C. §§ 7401-7671q.","line_no":633}
+{"page":18,"col":1,"y":690,"x":72,"x_end":473,"height":10,"n_words":14,"text":"28 Comprehensive Environmental Response, Compensation, and Liability Act of 1980. 42 U.S.C. §§ 9601-9675.","line_no":634}
+{"page":18,"col":1,"y":700,"x":72,"x_end":520,"height":10,"n_words":18,"text":"29 Office of Policy, U.S. Department of Energy, “Faster, Better Permitting with PermitAI,” (Washington, D.C., July 10, 2025),","line_no":635}
+{"page":18,"col":1,"y":710,"x":81,"x_end":330,"height":10,"n_words":1,"text":"www.energy.gov/policy/articles/faster-better-permitting-permitai.","line_no":636}
+{"page":18,"col":1,"y":735,"x":302,"x_end":308,"height":14,"n_words":1,"text":"15","line_no":637}
+{"page":19,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":638}
+{"page":19,"col":1,"y":71,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Prioritize the interconnection of reliable, dispatchable power sources as quickly as","line_no":639}
+{"page":19,"col":1,"y":85,"x":95,"x_end":530,"height":14,"n_words":12,"text":"possible and embrace new energy generation sources at the technological frontier (e.g.,","line_no":640}
+{"page":19,"col":1,"y":99,"x":95,"x_end":530,"height":14,"n_words":11,"text":"enhanced geothermal, nuclear fission, and nuclear fusion). Reform power markets to","line_no":641}
+{"page":19,"col":1,"y":112,"x":95,"x_end":530,"height":14,"n_words":13,"text":"align financial incentives with the goal of grid stability, ensuring that investment in","line_no":642}
+{"page":19,"col":1,"y":125,"x":95,"x_end":326,"height":14,"n_words":6,"text":"power generation reflects the system’s needs.","line_no":643}
+{"page":19,"col":1,"y":145,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Create a strategic blueprint for navigating the complex energy landscape of the 21st","line_no":644}
+{"page":19,"col":1,"y":159,"x":95,"x_end":530,"height":14,"n_words":13,"text":"century. By stabilizing the grid of today, optimizing existing grid resources, and growing","line_no":645}
+{"page":19,"col":1,"y":172,"x":95,"x_end":530,"height":14,"n_words":18,"text":"the grid for the future, the United States can rise to the challenge of winning the AI race","line_no":646}
+{"page":19,"col":1,"y":185,"x":95,"x_end":464,"height":14,"n_words":12,"text":"while also delivering a reliable and affordable power grid for all Americans.","line_no":647}
+{"page":19,"col":1,"y":217,"x":72,"x_end":354,"height":20,"n_words":4,"text":"Restore American Semiconductor Manufacturing","line_no":648}
+{"page":19,"col":1,"y":244,"x":72,"x_end":539,"height":14,"n_words":11,"text":"America jump-started modern technology with the invention of the semiconductor. Now","line_no":649}
+{"page":19,"col":1,"y":257,"x":72,"x_end":539,"height":14,"n_words":13,"text":"America must bring semiconductor manufacturing back to U.S. soil. A revitalized U.S. chip","line_no":650}
+{"page":19,"col":1,"y":270,"x":72,"x_end":539,"height":14,"n_words":11,"text":"industry will generate thousands of high-paying jobs, reinforce our technological leadership,","line_no":651}
+{"page":19,"col":1,"y":284,"x":72,"x_end":539,"height":14,"n_words":14,"text":"and protect our supply chains from disruption by foreign rivals. The Trump Administration will","line_no":652}
+{"page":19,"col":1,"y":297,"x":72,"x_end":540,"height":14,"n_words":13,"text":"lead that revitalization without making bad deals for the American taxpayer or saddling","line_no":653}
+{"page":19,"col":1,"y":311,"x":72,"x_end":307,"height":14,"n_words":5,"text":"companies with sweeping ideological agendas.","line_no":654}
+{"page":19,"col":1,"y":330,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":655}
+{"page":19,"col":1,"y":350,"x":80,"x_end":530,"height":14,"n_words":13,"text":"• Led by DOC’s revamped CHIPS Program Office, continue focusing on delivering a","line_no":656}
+{"page":19,"col":1,"y":363,"x":94,"x_end":530,"height":14,"n_words":12,"text":"strong return on investment for the American taxpayer and removing all extraneous","line_no":657}
+{"page":19,"col":1,"y":377,"x":94,"x_end":530,"height":14,"n_words":8,"text":"policy requirements for CHIPS-funded semiconductor manufacturing projects. DOC","line_no":658}
+{"page":19,"col":1,"y":390,"x":94,"x_end":530,"height":14,"n_words":11,"text":"and other relevant Federal agencies should also collaborate to streamline regulations","line_no":659}
+{"page":19,"col":1,"y":404,"x":94,"x_end":335,"height":14,"n_words":5,"text":"that slow semiconductor manufacturing efforts.","line_no":660}
+{"page":19,"col":1,"y":423,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by DOC, review semiconductor grant and research programs to ensure that they","line_no":661}
+{"page":19,"col":1,"y":437,"x":94,"x_end":510,"height":14,"n_words":10,"text":"accelerate the integration of advanced AI tools into semiconductor manufacturing.","line_no":662}
+{"page":19,"col":1,"y":469,"x":72,"x_end":537,"height":20,"n_words":10,"text":"Build High-Security Data Centers for Military and Intelligence Community Usage","line_no":663}
+{"page":19,"col":1,"y":495,"x":72,"x_end":539,"height":14,"n_words":13,"text":"Because AI systems are particularly well-suited to processing raw intelligence data today, and","line_no":664}
+{"page":19,"col":1,"y":508,"x":72,"x_end":539,"height":14,"n_words":17,"text":"because of the vastly expanded capabilities AI systems could have in the future, it is likely that","line_no":665}
+{"page":19,"col":1,"y":522,"x":72,"x_end":539,"height":14,"n_words":17,"text":"AI will be used with some of the U.S. government’s most sensitive data. The data centers where","line_no":666}
+{"page":19,"col":1,"y":535,"x":72,"x_end":539,"height":14,"n_words":15,"text":"these models are deployed must be resistant to attacks by the most determined and capable","line_no":667}
+{"page":19,"col":1,"y":549,"x":72,"x_end":171,"height":14,"n_words":2,"text":"nation-state actors.","line_no":668}
+{"page":19,"col":1,"y":568,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":669}
+{"page":19,"col":1,"y":588,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Create new technical standards for high-security AI data centers, led by DOD, the IC,","line_no":670}
+{"page":19,"col":1,"y":601,"x":95,"x_end":530,"height":14,"n_words":13,"text":"NSC, and NIST at DOC, including CAISI, in collaboration with industry and, as","line_no":671}
+{"page":19,"col":1,"y":615,"x":95,"x_end":478,"height":14,"n_words":8,"text":"appropriate, relevant Federally Funded Research and Development Centers.","line_no":672}
+{"page":19,"col":1,"y":634,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Advance agency adoption of classified compute environments to support scalable and","line_no":673}
+{"page":19,"col":1,"y":648,"x":95,"x_end":198,"height":14,"n_words":3,"text":"secure AI workloads.","line_no":674}
+{"page":19,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"16","line_no":675}
+{"page":20,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":676}
+{"page":20,"col":1,"y":72,"x":72,"x_end":338,"height":20,"n_words":7,"text":"Train a Skilled Workforce for AI Infrastructure","line_no":677}
+{"page":20,"col":1,"y":98,"x":72,"x_end":539,"height":14,"n_words":16,"text":"To build the infrastructure needed to power America’s AI future, we must also invest in the","line_no":678}
+{"page":20,"col":1,"y":111,"x":72,"x_end":539,"height":14,"n_words":12,"text":"workforce that will build, operate, and maintain it—including roles such as electricians,","line_no":679}
+{"page":20,"col":1,"y":125,"x":71,"x_end":539,"height":14,"n_words":13,"text":"advanced HVAC technicians, and a host of other high-paying occupations. To address the","line_no":680}
+{"page":20,"col":1,"y":138,"x":71,"x_end":539,"height":14,"n_words":14,"text":"shortages in many of these critical jobs, the Trump Administration should identify the priority","line_no":681}
+{"page":20,"col":1,"y":152,"x":71,"x_end":540,"height":14,"n_words":11,"text":"roles that underpin AI infrastructure, develop modern skills frameworks, support industry-","line_no":682}
+{"page":20,"col":1,"y":165,"x":71,"x_end":539,"height":14,"n_words":12,"text":"driven training, and expand early pipelines through general education, CTE, and Registered","line_no":683}
+{"page":20,"col":1,"y":179,"x":71,"x_end":311,"height":14,"n_words":6,"text":"Apprenticeships to fuel American AI leadership.","line_no":684}
+{"page":20,"col":1,"y":198,"x":71,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":685}
+{"page":20,"col":1,"y":218,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by DOL and DOC, create a national initiative to identify high-priority occupations","line_no":686}
+{"page":20,"col":1,"y":231,"x":95,"x_end":530,"height":14,"n_words":11,"text":"essential to the buildout of AI-related infrastructure. This effort would convene","line_no":687}
+{"page":20,"col":1,"y":245,"x":95,"x_end":530,"height":14,"n_words":11,"text":"employers, industry groups, and other workforce stakeholders to develop or identify","line_no":688}
+{"page":20,"col":1,"y":258,"x":95,"x_end":530,"height":14,"n_words":11,"text":"national skill frameworks and competency models for these roles. These frameworks","line_no":689}
+{"page":20,"col":1,"y":271,"x":95,"x_end":529,"height":14,"n_words":10,"text":"would provide voluntary guidance that may inform curriculum design, credential","line_no":690}
+{"page":20,"col":1,"y":285,"x":95,"x_end":373,"height":14,"n_words":6,"text":"development, and alignment of workforce investments.","line_no":691}
+{"page":20,"col":1,"y":304,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Through DOL, DOE, ED, NSF, and DOC, partner with state and local governments and","line_no":692}
+{"page":20,"col":1,"y":318,"x":95,"x_end":530,"height":14,"n_words":10,"text":"workforce system stakeholders to support the creation of industry-driven training","line_no":693}
+{"page":20,"col":1,"y":332,"x":95,"x_end":530,"height":14,"n_words":11,"text":"programs that address workforce needs tied to priority AI infrastructure occupations.","line_no":694}
+{"page":20,"col":1,"y":345,"x":95,"x_end":530,"height":14,"n_words":12,"text":"These programs should be co-developed by employers and training partners to ensure","line_no":695}
+{"page":20,"col":1,"y":358,"x":95,"x_end":529,"height":14,"n_words":12,"text":"individuals who complete the program are job-ready and directly connected to the","line_no":696}
+{"page":20,"col":1,"y":372,"x":95,"x_end":530,"height":14,"n_words":12,"text":"hiring process. Models could also be explored that incentivize employer upskilling of","line_no":697}
+{"page":20,"col":1,"y":385,"x":95,"x_end":530,"height":14,"n_words":10,"text":"incumbent workers into priority occupations. DOC should integrate these training","line_no":698}
+{"page":20,"col":1,"y":399,"x":95,"x_end":530,"height":14,"n_words":11,"text":"models as a core workforce component of its infrastructure investment programs.","line_no":699}
+{"page":20,"col":1,"y":412,"x":95,"x_end":529,"height":14,"n_words":14,"text":"Funding for this strategy will be prioritized based on a program’s ability to address","line_no":700}
+{"page":20,"col":1,"y":426,"x":95,"x_end":504,"height":14,"n_words":11,"text":"identified pipeline gaps and deliver talent outcomes aligned to employer demand.","line_no":701}
+{"page":20,"col":1,"y":445,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by DOL, ED, and NSF, partner with education and workforce system stakeholders","line_no":702}
+{"page":20,"col":1,"y":459,"x":95,"x_end":530,"height":14,"n_words":11,"text":"to expand early career exposure programs and pre-apprenticeships that engage middle","line_no":703}
+{"page":20,"col":1,"y":472,"x":95,"x_end":529,"height":14,"n_words":12,"text":"and high school students in priority AI infrastructure occupations. These efforts should","line_no":704}
+{"page":20,"col":1,"y":486,"x":95,"x_end":530,"height":14,"n_words":12,"text":"focus on creating awareness and excitement about these jobs, aligning with local","line_no":705}
+{"page":20,"col":1,"y":499,"x":95,"x_end":530,"height":14,"n_words":10,"text":"employer needs, and providing on-ramps into high-quality training and Registered","line_no":706}
+{"page":20,"col":1,"y":512,"x":95,"x_end":227,"height":14,"n_words":2,"text":"Apprenticeship programs.","line_no":707}
+{"page":20,"col":1,"y":532,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Through the ED Office of Career, Technical, and Adult Education, provide guidance to","line_no":708}
+{"page":20,"col":1,"y":546,"x":95,"x_end":529,"height":14,"n_words":15,"text":"state and local CTE systems about how to update programs of study to align with","line_no":709}
+{"page":20,"col":1,"y":559,"x":95,"x_end":529,"height":14,"n_words":9,"text":"priority AI infrastructure occupations. This includes refreshing curriculum, expanding","line_no":710}
+{"page":20,"col":1,"y":573,"x":95,"x_end":530,"height":14,"n_words":9,"text":"dual enrollment options, and strengthening connections between CTE programs,","line_no":711}
+{"page":20,"col":1,"y":586,"x":95,"x_end":454,"height":14,"n_words":8,"text":"employers, and training providers serving AI infrastructure occupations.","line_no":712}
+{"page":20,"col":1,"y":605,"x":81,"x_end":529,"height":14,"n_words":15,"text":"• Led by DOL, expand the use of Registered Apprenticeships in occupations critical to AI","line_no":713}
+{"page":20,"col":1,"y":619,"x":95,"x_end":530,"height":14,"n_words":12,"text":"infrastructure. Efforts should focus on streamlining the launch of new programs in","line_no":714}
+{"page":20,"col":1,"y":633,"x":95,"x_end":530,"height":14,"n_words":10,"text":"priority industries and occupations and removing barriers to employer adoption,","line_no":715}
+{"page":20,"col":1,"y":646,"x":95,"x_end":529,"height":14,"n_words":8,"text":"including simplifying registration, supporting intermediaries, and aligning program","line_no":716}
+{"page":20,"col":1,"y":659,"x":95,"x_end":238,"height":14,"n_words":4,"text":"design with employer needs.","line_no":717}
+{"page":20,"col":1,"y":679,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Led by DOE, expand the hands-on research training and development opportunities for","line_no":718}
+{"page":20,"col":1,"y":693,"x":95,"x_end":530,"height":14,"n_words":8,"text":"undergraduate, graduate, and postgraduate students and educators, leveraging","line_no":719}
+{"page":20,"col":1,"y":735,"x":302,"x_end":308,"height":14,"n_words":1,"text":"17","line_no":720}
+{"page":21,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":721}
+{"page":21,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":12,"text":"expertise and capabilities in AI across its national laboratories. This should include","line_no":722}
+{"page":21,"col":1,"y":85,"x":95,"x_end":530,"height":14,"n_words":10,"text":"partnering with community colleges and technical/career colleges to prepare new","line_no":723}
+{"page":21,"col":1,"y":98,"x":95,"x_end":451,"height":14,"n_words":12,"text":"workers and help transition the existing workforce to fill critical AI roles.","line_no":724}
+{"page":21,"col":1,"y":130,"x":72,"x_end":323,"height":20,"n_words":4,"text":"Bolster Critical Infrastructure Cybersecurity","line_no":725}
+{"page":21,"col":1,"y":156,"x":72,"x_end":539,"height":14,"n_words":15,"text":"As AI systems advance in coding and software engineering capabilities, their utility as tools of","line_no":726}
+{"page":21,"col":1,"y":170,"x":72,"x_end":539,"height":14,"n_words":14,"text":"both cyber offense and defense will expand. Maintaining a robust defensive posture will be","line_no":727}
+{"page":21,"col":1,"y":183,"x":72,"x_end":539,"height":14,"n_words":13,"text":"especially important for owners of critical infrastructure, many of whom operate with limited","line_no":728}
+{"page":21,"col":1,"y":197,"x":72,"x_end":539,"height":14,"n_words":12,"text":"financial resources. Fortunately, AI systems themselves can be excellent defensive tools. With","line_no":729}
+{"page":21,"col":1,"y":210,"x":72,"x_end":539,"height":14,"n_words":11,"text":"continued adoption of AI-enabled cyberdefensive tools, providers of critical infrastructure can","line_no":730}
+{"page":21,"col":1,"y":223,"x":71,"x_end":231,"height":14,"n_words":5,"text":"stay ahead of emerging threats.","line_no":731}
+{"page":21,"col":1,"y":243,"x":72,"x_end":539,"height":14,"n_words":15,"text":"However, the use of AI in cyber and critical infrastructure exposes those AI systems to","line_no":732}
+{"page":21,"col":1,"y":256,"x":72,"x_end":539,"height":14,"n_words":13,"text":"adversarial threats. All use of AI in safety-critical or homeland security applications should","line_no":733}
+{"page":21,"col":1,"y":270,"x":72,"x_end":539,"height":14,"n_words":14,"text":"entail the use of secure-by-design, robust, and resilient AI systems that are instrumented to","line_no":734}
+{"page":21,"col":1,"y":283,"x":72,"x_end":539,"height":14,"n_words":13,"text":"detect performance shifts, and alert to potential malicious activities like data poisoning or","line_no":735}
+{"page":21,"col":1,"y":297,"x":72,"x_end":214,"height":14,"n_words":3,"text":"adversarial example attacks.","line_no":736}
+{"page":21,"col":1,"y":316,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":737}
+{"page":21,"col":1,"y":336,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Establish an AI Information Sharing and Analysis Center (AI-ISAC), led by DHS, in","line_no":738}
+{"page":21,"col":1,"y":349,"x":95,"x_end":530,"height":14,"n_words":14,"text":"collaboration with CAISI at DOC and the Office of the National Cyber Director, to","line_no":739}
+{"page":21,"col":1,"y":363,"x":95,"x_end":530,"height":14,"n_words":11,"text":"promote the sharing of AI-security threat information and intelligence across U.S.","line_no":740}
+{"page":21,"col":1,"y":376,"x":95,"x_end":243,"height":14,"n_words":3,"text":"critical infrastructure sectors.","line_no":741}
+{"page":21,"col":1,"y":396,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by DHS, issue and maintain guidance to private sector entities on remediating and","line_no":742}
+{"page":21,"col":1,"y":409,"x":95,"x_end":358,"height":14,"n_words":6,"text":"responding to AI-specific vulnerabilities and threats.","line_no":743}
+{"page":21,"col":1,"y":429,"x":81,"x_end":530,"height":14,"n_words":12,"text":"• Ensure collaborative and consolidated sharing of known AI vulnerabilities from within","line_no":744}
+{"page":21,"col":1,"y":442,"x":95,"x_end":530,"height":14,"n_words":12,"text":"Federal agencies to the private sector as appropriate. This process should take","line_no":745}
+{"page":21,"col":1,"y":456,"x":95,"x_end":407,"height":14,"n_words":7,"text":"advantage of existing cyber vulnerability sharing mechanisms.","line_no":746}
+{"page":21,"col":1,"y":488,"x":72,"x_end":417,"height":20,"n_words":6,"text":"Promote Secure-By-Design AI Technologies and Applications","line_no":747}
+{"page":21,"col":1,"y":514,"x":72,"x_end":540,"height":14,"n_words":14,"text":"AI systems are susceptible to some classes of adversarial inputs (e.g., data poisoning and","line_no":748}
+{"page":21,"col":1,"y":528,"x":72,"x_end":539,"height":14,"n_words":13,"text":"privacy attacks), which puts their performance at risk. The U.S. government has a","line_no":749}
+{"page":21,"col":1,"y":541,"x":72,"x_end":539,"height":14,"n_words":12,"text":"responsibility to ensure the AI systems it relies on—particularly for national security","line_no":750}
+{"page":21,"col":1,"y":554,"x":72,"x_end":539,"height":14,"n_words":12,"text":"applications—are protected against spurious or malicious inputs. While much work has been","line_no":751}
+{"page":21,"col":1,"y":568,"x":72,"x_end":540,"height":14,"n_words":15,"text":"done to advance the field of AI Assurance, promoting resilient and secure AI development and","line_no":752}
+{"page":21,"col":1,"y":581,"x":72,"x_end":377,"height":14,"n_words":10,"text":"deployment should be a core activity of the U.S. government.","line_no":753}
+{"page":21,"col":1,"y":601,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":754}
+{"page":21,"col":1,"y":620,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by DOD in collaboration with NIST at DOC and ODNI, continue to refine DOD’s","line_no":755}
+{"page":21,"col":1,"y":634,"x":95,"x_end":456,"height":14,"n_words":9,"text":"Responsible AI and Generative AI Frameworks, Roadmaps, and Toolkits.","line_no":756}
+{"page":21,"col":1,"y":653,"x":81,"x_end":529,"height":14,"n_words":18,"text":"• Led by ODNI in consultation with DOD and CAISI at DOC, publish an IC Standard on AI","line_no":757}
+{"page":21,"col":1,"y":667,"x":95,"x_end":530,"height":14,"n_words":11,"text":"Assurance under the auspices of Intelligence Community Directive 505 on Artificial","line_no":758}
+{"page":21,"col":1,"y":680,"x":95,"x_end":157,"height":14,"n_words":1,"text":"Intelligence.","line_no":759}
+{"page":21,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"18","line_no":760}
+{"page":22,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":761}
+{"page":22,"col":1,"y":72,"x":72,"x_end":403,"height":20,"n_words":8,"text":"Promote Mature Federal Capacity for AI Incident Response","line_no":762}
+{"page":22,"col":1,"y":98,"x":72,"x_end":539,"height":14,"n_words":15,"text":"The proliferation of AI technologies means that prudent planning is required to ensure that, if","line_no":763}
+{"page":22,"col":1,"y":111,"x":72,"x_end":539,"height":14,"n_words":14,"text":"systems fail, the impacts to critical services or infrastructure are minimized and response is","line_no":764}
+{"page":22,"col":1,"y":125,"x":72,"x_end":539,"height":14,"n_words":13,"text":"imminent. To prepare for such an eventuality, the U.S. government should promote the","line_no":765}
+{"page":22,"col":1,"y":138,"x":72,"x_end":539,"height":14,"n_words":11,"text":"development and incorporation of AI Incident Response actions into existing incident","line_no":766}
+{"page":22,"col":1,"y":152,"x":72,"x_end":456,"height":14,"n_words":11,"text":"response doctrine and best-practices for both the public and private sectors.","line_no":767}
+{"page":22,"col":1,"y":171,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":768}
+{"page":22,"col":1,"y":191,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by NIST at DOC, including CAISI, partner with the AI and cybersecurity industries to","line_no":769}
+{"page":22,"col":1,"y":204,"x":95,"x_end":529,"height":14,"n_words":12,"text":"ensure AI is included in the establishment of standards, response frameworks, best-","line_no":770}
+{"page":22,"col":1,"y":218,"x":95,"x_end":513,"height":14,"n_words":11,"text":"practices, and technical capabilities (e.g., fly-away kits) of incident response teams.","line_no":771}
+{"page":22,"col":1,"y":237,"x":81,"x_end":530,"height":14,"n_words":10,"text":"• Modify the Cybersecurity and Infrastructure Security Agency’s Cybersecurity Incident","line_no":772}
+{"page":22,"col":1,"y":251,"x":95,"x_end":530,"height":14,"n_words":12,"text":"& Vulnerability Response Playbooks to incorporate considerations for AI systems and to","line_no":773}
+{"page":22,"col":1,"y":264,"x":95,"x_end":529,"height":14,"n_words":12,"text":"include requirements for Chief Information Security Officers to consult with Chief AI","line_no":774}
+{"page":22,"col":1,"y":278,"x":95,"x_end":529,"height":14,"n_words":14,"text":"Officers, Senior Agency Officials for Privacy, CAISI at DOC, and other agency officials as","line_no":775}
+{"page":22,"col":1,"y":291,"x":95,"x_end":487,"height":14,"n_words":8,"text":"appropriate. Agencies should update their subordinate playbooks accordingly.","line_no":776}
+{"page":22,"col":1,"y":311,"x":81,"x_end":530,"height":14,"n_words":17,"text":"• Led by DOD, DHS, and ODNI, in coordination with OSTP, NSC, OMB, and the Office of","line_no":777}
+{"page":22,"col":1,"y":324,"x":95,"x_end":530,"height":14,"n_words":11,"text":"the National Cyber Director, encourage the responsible sharing of AI vulnerability","line_no":778}
+{"page":22,"col":1,"y":338,"x":95,"x_end":530,"height":14,"n_words":12,"text":"information as part of ongoing efforts to implement Executive Order 14306, “Sustaining","line_no":779}
+{"page":22,"col":1,"y":351,"x":95,"x_end":530,"height":14,"n_words":11,"text":"Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order","line_no":780}
+{"page":22,"col":1,"y":365,"x":95,"x_end":277,"height":14,"n_words":6,"text":"13694 and Executive Order 14144.” 30","line_no":781}
+{"page":22,"col":1,"y":690,"x":72,"x_end":529,"height":10,"n_words":18,"text":"30 Executive Order 14306 of June 6, 2025, “Sustaining Select Efforts To Strengthen the Nation’s Cybersecurity and Amending","line_no":782}
+{"page":22,"col":1,"y":700,"x":81,"x_end":519,"height":10,"n_words":13,"text":"Executive Order 13694 and Executive Order 14144,” Federal Register 90 (111) 24723, www.govinfo.gov/content/pkg/FR-","line_no":783}
+{"page":22,"col":1,"y":710,"x":81,"x_end":206,"height":10,"n_words":1,"text":"2025-06-11/pdf/2025-10804.pdf.","line_no":784}
+{"page":22,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"19","line_no":785}
+{"page":23,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":786}
+{"page":23,"col":1,"y":72,"x":91,"x_end":520,"height":33,"n_words":8,"text":"Pillar III: Lead in International AI Diplomacy and","line_no":787}
+{"page":23,"col":1,"y":105,"x":270,"x_end":341,"height":33,"n_words":1,"text":"Security","line_no":788}
+{"page":23,"col":1,"y":151,"x":72,"x_end":539,"height":14,"n_words":17,"text":"To succeed in the global AI competition, America must do more than promote AI within its own","line_no":789}
+{"page":23,"col":1,"y":164,"x":72,"x_end":539,"height":14,"n_words":13,"text":"borders. The United States must also drive adoption of American AI systems, computing","line_no":790}
+{"page":23,"col":1,"y":178,"x":71,"x_end":539,"height":14,"n_words":14,"text":"hardware, and standards throughout the world. America currently is the global leader on data","line_no":791}
+{"page":23,"col":1,"y":191,"x":71,"x_end":539,"height":14,"n_words":12,"text":"center construction, computing hardware performance, and models. It is imperative that the","line_no":792}
+{"page":23,"col":1,"y":204,"x":71,"x_end":539,"height":14,"n_words":13,"text":"United States leverage this advantage into an enduring global alliance, while preventing our","line_no":793}
+{"page":23,"col":1,"y":218,"x":71,"x_end":388,"height":14,"n_words":8,"text":"adversaries from free-riding on our innovation and investment.","line_no":794}
+{"page":23,"col":1,"y":250,"x":72,"x_end":308,"height":20,"n_words":7,"text":"Export American AI to Allies and Partners","line_no":795}
+{"page":23,"col":1,"y":276,"x":72,"x_end":539,"height":14,"n_words":16,"text":"The United States must meet global demand for AI by exporting its full AI technology stack—","line_no":796}
+{"page":23,"col":1,"y":290,"x":72,"x_end":539,"height":14,"n_words":11,"text":"hardware, models, software, applications, and standards—to all countries willing to join","line_no":797}
+{"page":23,"col":1,"y":303,"x":72,"x_end":539,"height":14,"n_words":16,"text":"America’s AI alliance. A failure to meet this demand would be an unforced error, causing these","line_no":798}
+{"page":23,"col":1,"y":316,"x":72,"x_end":539,"height":14,"n_words":15,"text":"countries to turn to our rivals. The distribution and diffusion of American technology will stop","line_no":799}
+{"page":23,"col":1,"y":330,"x":72,"x_end":504,"height":14,"n_words":12,"text":"our strategic rivals from making our allies dependent on foreign adversary technology.","line_no":800}
+{"page":23,"col":1,"y":349,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":801}
+{"page":23,"col":1,"y":369,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Establish and operationalize a program within DOC aimed at gathering proposals from","line_no":802}
+{"page":23,"col":1,"y":383,"x":95,"x_end":530,"height":14,"n_words":12,"text":"industry consortia for full-stack AI export packages. Once consortia are selected by","line_no":803}
+{"page":23,"col":1,"y":396,"x":95,"x_end":529,"height":14,"n_words":12,"text":"DOC, the Economic Diplomacy Action Group, the U.S. Trade and Development Agency,","line_no":804}
+{"page":23,"col":1,"y":409,"x":95,"x_end":530,"height":14,"n_words":10,"text":"the Export-Import Bank, the U.S. International Development Finance Corporation, and","line_no":805}
+{"page":23,"col":1,"y":423,"x":95,"x_end":530,"height":14,"n_words":14,"text":"the Department of State (DOS) should coordinate with DOC to facilitate deals that meet","line_no":806}
+{"page":23,"col":1,"y":436,"x":95,"x_end":359,"height":14,"n_words":5,"text":"U.S.-approved security requirements and standards.","line_no":807}
+{"page":23,"col":1,"y":468,"x":72,"x_end":429,"height":20,"n_words":7,"text":"Counter Chinese Influence in International Governance Bodies","line_no":808}
+{"page":23,"col":1,"y":494,"x":72,"x_end":539,"height":14,"n_words":13,"text":"A large number of international bodies, including the United Nations, the Organisation for","line_no":809}
+{"page":23,"col":1,"y":508,"x":72,"x_end":539,"height":14,"n_words":9,"text":"Economic Co-operation and Development, G7, G20, International Telecommunication Union,","line_no":810}
+{"page":23,"col":1,"y":521,"x":72,"x_end":539,"height":14,"n_words":12,"text":"Internet Corporation for Assigned Names and Numbers, and others have proposed AI","line_no":811}
+{"page":23,"col":1,"y":535,"x":72,"x_end":539,"height":14,"n_words":11,"text":"governance frameworks and AI development strategies. The United States supports like-","line_no":812}
+{"page":23,"col":1,"y":548,"x":72,"x_end":539,"height":14,"n_words":15,"text":"minded nations working together to encourage the development of AI in line with our shared","line_no":813}
+{"page":23,"col":1,"y":561,"x":72,"x_end":540,"height":14,"n_words":13,"text":"values. But too many of these efforts have advocated for burdensome regulations, vague","line_no":814}
+{"page":23,"col":1,"y":575,"x":72,"x_end":539,"height":14,"n_words":15,"text":"“codes of conduct” that promote cultural agendas that do not align with American values, or","line_no":815}
+{"page":23,"col":1,"y":588,"x":72,"x_end":539,"height":14,"n_words":12,"text":"have been influenced by Chinese companies attempting to shape standards for facial","line_no":816}
+{"page":23,"col":1,"y":602,"x":72,"x_end":216,"height":14,"n_words":3,"text":"recognition and surveillance.","line_no":817}
+{"page":23,"col":1,"y":621,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":818}
+{"page":23,"col":1,"y":641,"x":81,"x_end":531,"height":14,"n_words":14,"text":"• Led by DOS and DOC, leverage the U.S. position in international diplomatic and","line_no":819}
+{"page":23,"col":1,"y":654,"x":94,"x_end":530,"height":14,"n_words":9,"text":"standard-setting bodies to vigorously advocate for international AI governance","line_no":820}
+{"page":23,"col":1,"y":668,"x":94,"x_end":530,"height":14,"n_words":9,"text":"approaches that promote innovation, reflect American values, and counter","line_no":821}
+{"page":23,"col":1,"y":681,"x":94,"x_end":211,"height":14,"n_words":2,"text":"authoritarian influence.","line_no":822}
+{"page":23,"col":1,"y":735,"x":301,"x_end":310,"height":14,"n_words":1,"text":"20","line_no":823}
+{"page":24,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":824}
+{"page":24,"col":1,"y":72,"x":72,"x_end":366,"height":20,"n_words":6,"text":"Strengthen AI Compute Export Control Enforcement","line_no":825}
+{"page":24,"col":1,"y":98,"x":72,"x_end":539,"height":14,"n_words":15,"text":"Advanced AI compute is essential to the AI era, enabling both economic dynamism and novel","line_no":826}
+{"page":24,"col":1,"y":111,"x":72,"x_end":539,"height":14,"n_words":14,"text":"military capabilities. Denying our foreign adversaries access to this resource, then, is a matter","line_no":827}
+{"page":24,"col":1,"y":125,"x":72,"x_end":539,"height":14,"n_words":12,"text":"of both geostrategic competition and national security. Therefore, we should pursue creative","line_no":828}
+{"page":24,"col":1,"y":138,"x":72,"x_end":289,"height":14,"n_words":5,"text":"approaches to export control enforcement.","line_no":829}
+{"page":24,"col":1,"y":158,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":830}
+{"page":24,"col":1,"y":177,"x":81,"x_end":530,"height":14,"n_words":15,"text":"• Led by DOC, OSTP, and NSC in collaboration with industry, explore leveraging new and","line_no":831}
+{"page":24,"col":1,"y":191,"x":95,"x_end":529,"height":14,"n_words":13,"text":"existing location verification features on advanced AI compute to ensure that the chips","line_no":832}
+{"page":24,"col":1,"y":204,"x":95,"x_end":250,"height":14,"n_words":6,"text":"are not in countries of concern.","line_no":833}
+{"page":24,"col":1,"y":224,"x":81,"x_end":530,"height":14,"n_words":17,"text":"• Establish a new effort led by DOC to collaborate with IC officials on global chip export","line_no":834}
+{"page":24,"col":1,"y":238,"x":95,"x_end":530,"height":14,"n_words":8,"text":"control enforcement. This would include monitoring emerging technology","line_no":835}
+{"page":24,"col":1,"y":251,"x":95,"x_end":529,"height":14,"n_words":13,"text":"developments in AI compute to ensure full coverage of possible countries or regions","line_no":836}
+{"page":24,"col":1,"y":264,"x":95,"x_end":530,"height":14,"n_words":13,"text":"where chips are being diverted. This enhanced monitoring could then be used to","line_no":837}
+{"page":24,"col":1,"y":278,"x":95,"x_end":530,"height":14,"n_words":14,"text":"expand and increase end-use monitoring in countries where there is a high risk of","line_no":838}
+{"page":24,"col":1,"y":291,"x":95,"x_end":530,"height":14,"n_words":14,"text":"diversion of advanced, U.S.-origin AI compute, especially where there is not a Bureau of","line_no":839}
+{"page":24,"col":1,"y":305,"x":95,"x_end":416,"height":14,"n_words":8,"text":"Industry and Security Export Control Officer present in-country.","line_no":840}
+{"page":24,"col":1,"y":336,"x":72,"x_end":497,"height":20,"n_words":8,"text":"Plug Loopholes in Existing Semiconductor Manufacturing Export Controls","line_no":841}
+{"page":24,"col":1,"y":363,"x":72,"x_end":539,"height":14,"n_words":12,"text":"Semiconductors are among the most complex inventions ever conceived by man. America","line_no":842}
+{"page":24,"col":1,"y":376,"x":72,"x_end":539,"height":14,"n_words":14,"text":"and its close allies hold near-monopolies on many critical components and processes in the","line_no":843}
+{"page":24,"col":1,"y":390,"x":72,"x_end":539,"height":14,"n_words":11,"text":"semiconductor manufacturing pipeline. We must continue to lead the world with","line_no":844}
+{"page":24,"col":1,"y":403,"x":72,"x_end":540,"height":14,"n_words":11,"text":"pathbreaking research and new inventions in semiconductor manufacturing, but the United","line_no":845}
+{"page":24,"col":1,"y":417,"x":72,"x_end":539,"height":14,"n_words":16,"text":"States must also prevent our adversaries from using our innovations to their own ends in ways","line_no":846}
+{"page":24,"col":1,"y":430,"x":72,"x_end":539,"height":14,"n_words":13,"text":"that undermine our national security. This requires new measures to address gaps in","line_no":847}
+{"page":24,"col":1,"y":444,"x":72,"x_end":499,"height":14,"n_words":8,"text":"semiconductor manufacturing export controls, coupled with enhanced enforcement.","line_no":848}
+{"page":24,"col":1,"y":463,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":849}
+{"page":24,"col":1,"y":482,"x":81,"x_end":529,"height":14,"n_words":12,"text":"• Led by DOC, develop new export controls on semiconductor manufacturing sub-","line_no":850}
+{"page":24,"col":1,"y":496,"x":95,"x_end":530,"height":14,"n_words":13,"text":"systems. Currently, the United States and its allies impose export controls on major","line_no":851}
+{"page":24,"col":1,"y":509,"x":95,"x_end":530,"height":14,"n_words":12,"text":"systems necessary for semiconductor manufacturing, but do not control many of the","line_no":852}
+{"page":24,"col":1,"y":523,"x":95,"x_end":224,"height":14,"n_words":2,"text":"component sub-systems.","line_no":853}
+{"page":24,"col":1,"y":555,"x":72,"x_end":270,"height":20,"n_words":4,"text":"Align Protection Measures Globally","line_no":854}
+{"page":24,"col":1,"y":581,"x":72,"x_end":539,"height":14,"n_words":12,"text":"America must impose strong export controls on sensitive technologies. We should encourage","line_no":855}
+{"page":24,"col":1,"y":595,"x":72,"x_end":539,"height":14,"n_words":17,"text":"partners and allies to follow U.S. controls, and not backfill. If they do, America should use tools","line_no":856}
+{"page":24,"col":1,"y":608,"x":72,"x_end":539,"height":14,"n_words":14,"text":"such as the Foreign Direct Product Rule and secondary tariffs to achieve greater international","line_no":857}
+{"page":24,"col":1,"y":621,"x":72,"x_end":126,"height":14,"n_words":1,"text":"alignment.","line_no":858}
+{"page":24,"col":1,"y":641,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":859}
+{"page":24,"col":1,"y":660,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by DOC and DOS and in coordination with NSC, DOE, and NSF, develop, implement,","line_no":860}
+{"page":24,"col":1,"y":674,"x":95,"x_end":530,"height":14,"n_words":10,"text":"and share information on complementary technology protection measures, including in","line_no":861}
+{"page":24,"col":1,"y":687,"x":95,"x_end":530,"height":14,"n_words":12,"text":"basic research and higher education, to mitigate risks from strategic adversaries and","line_no":862}
+{"page":24,"col":1,"y":735,"x":302,"x_end":309,"height":14,"n_words":1,"text":"21","line_no":863}
+{"page":25,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":864}
+{"page":25,"col":1,"y":71,"x":95,"x_end":530,"height":14,"n_words":13,"text":"concerning entities. This work should build on existing efforts underway at DOS and","line_no":865}
+{"page":25,"col":1,"y":85,"x":95,"x_end":405,"height":14,"n_words":8,"text":"DOC, or, where necessary, involve new diplomatic campaigns.","line_no":866}
+{"page":25,"col":1,"y":104,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Develop a technology diplomacy strategic plan for an AI global alliance to align","line_no":867}
+{"page":25,"col":1,"y":118,"x":95,"x_end":529,"height":14,"n_words":12,"text":"incentives and policy levers across government to induce key allies to adopt","line_no":868}
+{"page":25,"col":1,"y":131,"x":95,"x_end":530,"height":14,"n_words":12,"text":"complementary AI protection systems and export controls across the supply chain, led","line_no":869}
+{"page":25,"col":1,"y":145,"x":95,"x_end":529,"height":14,"n_words":16,"text":"by DOS in coordination with DOC, DOD, and DOE. This plan should aim to ensure that","line_no":870}
+{"page":25,"col":1,"y":158,"x":95,"x_end":530,"height":14,"n_words":14,"text":"American allies do not supply adversaries with technologies on which the U.S. is seeking","line_no":871}
+{"page":25,"col":1,"y":172,"x":95,"x_end":227,"height":14,"n_words":4,"text":"to impose export controls.","line_no":872}
+{"page":25,"col":1,"y":191,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Expand new initiatives for promoting plurilateral controls for the AI tech stack, avoiding","line_no":873}
+{"page":25,"col":1,"y":205,"x":95,"x_end":530,"height":14,"n_words":13,"text":"the sole reliance on multilateral treaty bodies to accomplish this objective, while also","line_no":874}
+{"page":25,"col":1,"y":218,"x":95,"x_end":530,"height":14,"n_words":13,"text":"encompassing existing U.S. controls and all future controls to level the playing field","line_no":875}
+{"page":25,"col":1,"y":232,"x":95,"x_end":258,"height":14,"n_words":5,"text":"between U.S. and allied controls.","line_no":876}
+{"page":25,"col":1,"y":251,"x":81,"x_end":530,"height":14,"n_words":16,"text":"• Led by DOC and DOD, coordinate with allies to ensure that they adopt U.S. export","line_no":877}
+{"page":25,"col":1,"y":265,"x":95,"x_end":530,"height":14,"n_words":13,"text":"controls, work together with the U.S to develop new controls, and prohibit U.S.","line_no":878}
+{"page":25,"col":1,"y":278,"x":95,"x_end":530,"height":14,"n_words":10,"text":"adversaries from supplying their defense-industrial base or acquiring controlling stakes","line_no":879}
+{"page":25,"col":1,"y":292,"x":95,"x_end":197,"height":14,"n_words":3,"text":"in defense suppliers.","line_no":880}
+{"page":25,"col":1,"y":323,"x":72,"x_end":496,"height":20,"n_words":12,"text":"Ensure that the U.S. Government is at the Forefront of Evaluating National","line_no":881}
+{"page":25,"col":1,"y":344,"x":71,"x_end":260,"height":20,"n_words":5,"text":"Security Risks in Frontier Models","line_no":882}
+{"page":25,"col":1,"y":371,"x":72,"x_end":539,"height":14,"n_words":17,"text":"The most powerful AI systems may pose novel national security risks in the near future in areas","line_no":883}
+{"page":25,"col":1,"y":384,"x":72,"x_end":539,"height":14,"n_words":12,"text":"such as cyberattacks and the development of chemical, biological, radiological, nuclear, or","line_no":884}
+{"page":25,"col":1,"y":398,"x":72,"x_end":539,"height":14,"n_words":11,"text":"explosives (CBRNE) weapons, as well as novel security vulnerabilities. Because America","line_no":885}
+{"page":25,"col":1,"y":411,"x":71,"x_end":539,"height":14,"n_words":16,"text":"currently leads on AI capabilities, the risks present in American frontier models are likely to be","line_no":886}
+{"page":25,"col":1,"y":424,"x":72,"x_end":540,"height":14,"n_words":14,"text":"a preview for what foreign adversaries will possess in the near future. Understanding the","line_no":887}
+{"page":25,"col":1,"y":438,"x":72,"x_end":509,"height":14,"n_words":15,"text":"nature of these risks as they emerge is vital for national defense and homeland security.","line_no":888}
+{"page":25,"col":1,"y":457,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":889}
+{"page":25,"col":1,"y":477,"x":81,"x_end":529,"height":14,"n_words":14,"text":"• Evaluate frontier AI systems for national security risks in partnership with frontier AI","line_no":890}
+{"page":25,"col":1,"y":490,"x":95,"x_end":530,"height":14,"n_words":13,"text":"developers, led by CAISI at DOC in collaboration with other agencies with relevant","line_no":891}
+{"page":25,"col":1,"y":504,"x":95,"x_end":272,"height":14,"n_words":6,"text":"expertise in CBRNE and cyber risks.","line_no":892}
+{"page":25,"col":1,"y":523,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by CAISI at DOC in collaboration with national security agencies, evaluate and","line_no":893}
+{"page":25,"col":1,"y":537,"x":95,"x_end":529,"height":14,"n_words":11,"text":"assess potential security vulnerabilities and malign foreign influence arising from the","line_no":894}
+{"page":25,"col":1,"y":551,"x":95,"x_end":530,"height":14,"n_words":13,"text":"use of adversaries’ AI systems in critical infrastructure and elsewhere in the American","line_no":895}
+{"page":25,"col":1,"y":564,"x":95,"x_end":530,"height":14,"n_words":11,"text":"economy, including the possibility of backdoors and other malicious behavior. These","line_no":896}
+{"page":25,"col":1,"y":577,"x":95,"x_end":529,"height":14,"n_words":12,"text":"evaluations should include assessments of the capabilities of U.S. and adversary AI","line_no":897}
+{"page":25,"col":1,"y":591,"x":95,"x_end":530,"height":14,"n_words":13,"text":"systems, the adoption of foreign AI systems, and the state of international AI","line_no":898}
+{"page":25,"col":1,"y":604,"x":95,"x_end":159,"height":14,"n_words":1,"text":"competition.","line_no":899}
+{"page":25,"col":1,"y":624,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Prioritize the recruitment of leading AI researchers at Federal agencies, including NIST","line_no":900}
+{"page":25,"col":1,"y":637,"x":95,"x_end":529,"height":14,"n_words":15,"text":"and CAISI within DOC, DOE, DOD, and the IC, to ensure that the Federal government","line_no":901}
+{"page":25,"col":1,"y":651,"x":95,"x_end":465,"height":14,"n_words":11,"text":"can continue to offer cutting-edge evaluations and analysis of AI systems.","line_no":902}
+{"page":25,"col":1,"y":670,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Build, maintain, and update as necessary national security-related AI evaluations","line_no":903}
+{"page":25,"col":1,"y":684,"x":95,"x_end":530,"height":14,"n_words":11,"text":"through collaboration between CAISI at DOC, national security agencies, and relevant","line_no":904}
+{"page":25,"col":1,"y":698,"x":95,"x_end":200,"height":14,"n_words":2,"text":"research institutions.","line_no":905}
+{"page":25,"col":1,"y":735,"x":301,"x_end":309,"height":14,"n_words":1,"text":"22","line_no":906}
+{"page":26,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":907}
+{"page":26,"col":1,"y":72,"x":72,"x_end":187,"height":20,"n_words":3,"text":"Invest in Biosecurity","line_no":908}
+{"page":26,"col":1,"y":98,"x":72,"x_end":539,"height":14,"n_words":15,"text":"AI will unlock nearly limitless potential in biology: cures for new diseases, novel industrial use","line_no":909}
+{"page":26,"col":1,"y":111,"x":72,"x_end":539,"height":14,"n_words":16,"text":"cases, and more. At the same time, it could create new pathways for malicious actors to","line_no":910}
+{"page":26,"col":1,"y":125,"x":72,"x_end":539,"height":14,"n_words":14,"text":"synthesize harmful pathogens and other biomolecules. The solution to this problem is a multi-","line_no":911}
+{"page":26,"col":1,"y":138,"x":72,"x_end":540,"height":14,"n_words":13,"text":"tiered approach designed to screen for malicious actors, along with new tools and","line_no":912}
+{"page":26,"col":1,"y":152,"x":72,"x_end":539,"height":14,"n_words":11,"text":"infrastructure for more effective screening. As these tools, policies, and enforcement","line_no":913}
+{"page":26,"col":1,"y":165,"x":72,"x_end":539,"height":14,"n_words":15,"text":"mechanisms mature, it will be essential to work with allies and partners to ensure international","line_no":914}
+{"page":26,"col":1,"y":179,"x":72,"x_end":120,"height":14,"n_words":1,"text":"adoption.","line_no":915}
+{"page":26,"col":1,"y":198,"x":72,"x_end":223,"height":14,"n_words":3,"text":"Recommended Policy Actions","line_no":916}
+{"page":26,"col":1,"y":218,"x":81,"x_end":530,"height":14,"n_words":13,"text":"• Require all institutions receiving Federal funding for scientific research to use nucleic","line_no":917}
+{"page":26,"col":1,"y":231,"x":95,"x_end":530,"height":14,"n_words":12,"text":"acid synthesis tools and synthesis providers that have robust nucleic acid sequence","line_no":918}
+{"page":26,"col":1,"y":245,"x":95,"x_end":530,"height":14,"n_words":9,"text":"screening and customer verification procedures. Create enforcement mechanisms for","line_no":919}
+{"page":26,"col":1,"y":258,"x":95,"x_end":400,"height":14,"n_words":8,"text":"this requirement rather than relying on voluntary attestation.","line_no":920}
+{"page":26,"col":1,"y":278,"x":81,"x_end":530,"height":14,"n_words":14,"text":"• Led by OSTP, convene government and industry actors to develop a mechanism to","line_no":921}
+{"page":26,"col":1,"y":291,"x":95,"x_end":530,"height":14,"n_words":12,"text":"facilitate data sharing between nucleic acid synthesis providers to screen for potentially","line_no":922}
+{"page":26,"col":1,"y":305,"x":95,"x_end":269,"height":14,"n_words":4,"text":"fraudulent or malicious customers.","line_no":923}
+{"page":26,"col":1,"y":324,"x":81,"x_end":529,"height":14,"n_words":11,"text":"• Build, maintain, and update as necessary national security-related AI evaluations","line_no":924}
+{"page":26,"col":1,"y":338,"x":95,"x_end":530,"height":14,"n_words":11,"text":"through collaboration between CAISI at DOC, national security agencies, and relevant","line_no":925}
+{"page":26,"col":1,"y":351,"x":95,"x_end":200,"height":14,"n_words":2,"text":"research institutions.","line_no":926}
+{"page":26,"col":1,"y":735,"x":301,"x_end":309,"height":14,"n_words":1,"text":"23","line_no":927}
+{"page":27,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":928}
+{"page":27,"col":1,"y":373,"x":222,"x_end":388,"height":14,"n_words":5,"text":"This page intentionally left blank.","line_no":929}
+{"page":27,"col":1,"y":735,"x":301,"x_end":309,"height":14,"n_words":1,"text":"24","line_no":930}
+{"page":28,"col":1,"y":42,"x":247,"x_end":363,"height":15,"n_words":4,"text":"AMERICA’S AI ACTION PLAN","line_no":931}
+{"page":28,"col":1,"y":735,"x":301,"x_end":309,"height":14,"n_words":1,"text":"25","line_no":932}

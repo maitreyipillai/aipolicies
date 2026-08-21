@@ -1,0 +1,87 @@
+{
+  "type": "object",
+  "properties": {
+    "unit_id": {
+      "type": "string",
+      "description": "Echo the unit_id exactly as supplied. Do not alter it."
+    },
+    "scores_full_breakdown": {
+      "type": "object",
+      "description": "Independent ordinal intensity score for each of the six themes. Themes do not compete; a unit may score 3 on more than one.",
+      "properties": {
+        "T1_surveillance": { "type": "integer", "minimum": 0, "maximum": 3 },
+        "T2_executive": { "type": "integer", "minimum": 0, "maximum": 3 },
+        "T3_infocontrol": { "type": "integer", "minimum": 0, "maximum": 3 },
+        "T4_civilrights": { "type": "integer", "minimum": 0, "maximum": 3 },
+        "T5_economic": { "type": "integer", "minimum": 0, "maximum": 3 },
+        "T6_geopolitical": { "type": "integer", "minimum": 0, "maximum": 3 }
+      },
+      "required": [
+        "T1_surveillance",
+        "T2_executive",
+        "T3_infocontrol",
+        "T4_civilrights",
+        "T5_economic",
+        "T6_geopolitical"
+      ],
+      "additionalProperties": false
+    },
+    "binding_status": {
+      "type": "string",
+      "enum": ["enacted", "directed", "proposed", "aspirational", "n/a"],
+      "description": "Legal force of the highest-scoring theme's mechanism in this unit, independent of its intensity score. 'n/a' only when all six themes score 0."
+    },
+    "score3_evidence": {
+      "type": "object",
+      "description": "Populate whenever any theme scores 3, or when exactly two of the three conditions are met (the near-miss that caps a theme at 2). Otherwise all three fields are null.",
+      "properties": {
+        "instrument": {
+          "type": ["string", "null"],
+          "description": "Quoted operative language identifying the legal, regulatory or executive instrument. Null if absent."
+        },
+        "addressee": {
+          "type": ["string", "null"],
+          "description": "The specified party placed under obligation. Null if absent."
+        },
+        "consequence": {
+          "type": ["string", "null"],
+          "description": "The penalty, sanction, audit, exclusion, or explicit override of an otherwise-applicable legal requirement. Null if absent."
+        }
+      },
+      "required": ["instrument", "addressee", "consequence"],
+      "additionalProperties": false
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["High", "Moderate", "Low"]
+    },
+    "flag_human_review": {
+      "type": "string",
+      "enum": ["YES", "NO"]
+    },
+    "flag_reason": {
+      "type": "string",
+      "enum": [
+        "None",
+        "Polysemic Uncertainty",
+        "Conflicting Statutory Mandates",
+        "Missing Operational Context"
+      ]
+    },
+    "justification": {
+      "type": "string",
+      "description": "2-4 sentences. Cite the operative verbs in the text and name the codebook rule or anchor applied. State which of the three Score-3 conditions were found whenever any theme scores 3 or is capped at 2 by the Evidence Test."
+    }
+  },
+  "required": [
+    "unit_id",
+    "scores_full_breakdown",
+    "binding_status",
+    "score3_evidence",
+    "confidence_level",
+    "flag_human_review",
+    "flag_reason",
+    "justification"
+  ],
+  "additionalProperties": false
+}

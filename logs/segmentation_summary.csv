@@ -1,0 +1,6 @@
+"doc_id","n_units","words_coded","words_dropped","pct_coded","min_words","median_words","max_words","n_under_floor","n_over_ceiling"
+"USA_AIAP_2025",36,8501,1081,88.7,100,249.5,350,0,0
+"DEU_AISTRAT_2018",93,23899,3442,87.4,106,263,423,0,6
+"IND_NAIS_2018",150,39559,1894,95.4,103,281,424,0,6
+"SGP_NAIS_2019",65,11729,3305,78,103,170,319,0,0
+"SGP_NAIS2_2023",45,9000,1186,88.4,101,173,336,0,0

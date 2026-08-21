@@ -1,0 +1,1094 @@
+[
+  {
+    "benchmark_id": 1,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "USA_AIAP_2025_PIL02_P14_15",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Action Plan / Executive Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar II: Build American AI Infrastructure — Create Streamlined Permitting for Data Centers (Pages 14–15)"
+    },
+    "text_excerpt": "America’s environmental permitting system and other regulations make it almost impossible to build this infrastructure in the United States with the speed that is required. Establish new Categorical Exclusions under NEPA to cover data center-related actions that normally do not have a significant effect on the environment. Ensure that the domestic AI computing stack is built on American products and that the infrastructure that supports AI development is free from foreign adversary information and communications technology and services.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 3,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 3
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": "Establish new Categorical Exclusions under NEPA; foreign adversary ICTS exclusion",
+        "addressee": "Federal permitting agencies; suppliers to the domestic AI computing stack",
+        "consequence": "Suspension of NEPA review for covered actions; exclusion of adversary hardware and software"
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "Directs agencies to 'Establish new Categorical Exclusions under NEPA', an explicit override of an otherwise-applicable statutory environmental review (T2=3: instrument, addressee, consequence all present). Separately requires that AI infrastructure 'is free from foreign adversary information and communications technology and services', a mandatory supply-chain exclusion (T6=3). Domestic compute buildout is the funded baseline (T5=2). Flagged because T2 and T6 tie for primary at 3; under codebook v2 the two mechanisms are preserved independently rather than ranked."
+    }
+  },
+  {
+    "benchmark_id": 2,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "USA_AIAP_2025_PIL03_SEMI",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar III: Protect American AI Advantage — Plug Loopholes in Existing Semiconductor Manufacturing Export Controls"
+    },
+    "text_excerpt": "Semiconductors are among the most complex inventions ever conceived by man. America and its close allies hold near-monopolies on many critical components and processes in the semiconductor manufacturing pipeline. We must continue to lead the world with pathbreaking research and new inventions in semiconductor manufacturing, but the United States must also prevent our adversaries from using our innovations to their own ends in ways that undermine our national security. This requires new measures to address gaps in semiconductor manufacturing export controls, coupled with enhanced enforcement. Recommended Policy Actions: Led by DOC, develop new export controls on semiconductor manufacturing sub-systems. Currently, the United States and its allies impose export controls on major systems necessary for semiconductor manufacturing, but do not control many of the component sub-systems.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 1,
+        "T6_geopolitical": 3
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": "New export controls on semiconductor manufacturing sub-systems",
+        "addressee": "Exporters of semiconductor manufacturing sub-systems and their component suppliers",
+        "consequence": "Export prohibition plus enhanced enforcement"
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The operative directive is 'develop new export controls on semiconductor manufacturing sub-systems', led by DOC, 'coupled with enhanced enforcement' (T6=3: a licensing instrument, exporters as addressee, prohibition and enforcement as consequence). Research leadership in semiconductor manufacturing appears as framing with no funded programme in this unit (T5=1). Document genre does not cap the score: under codebook v2 §2.1 an executive action plan is eligible for 3, with legal force recorded as binding_status 'directed'."
+    }
+  },
+  {
+    "benchmark_id": 3,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "USA_AIAP_2025_PIL01_P08_09",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar I: Accelerate AI Innovation — Build World-Class Scientific Datasets; Advance the Science of AI; Invest in AI Interpretability, Control, and Robustness Breakthroughs"
+    },
+    "text_excerpt": "The United States must lead the creation of the world’s largest and highest quality AI-ready scientific datasets, while maintaining respect for individual rights and ensuring civil liberties, privacy, and confidentiality protections... Direct the National Science and Technology Council (NSTC) Machine Learning and AI Subcommittee to make recommendations on minimum data quality standards for the use of biological, materials science, chemical, physical, and other scientific data modalities in AI model training... Promulgate the OMB regulations required in the Confidential Information Protection and Statistical Efficiency Act of 2018 on presumption of accessibility and expanding secure access... Establish secure compute environments within NSF and DOE... Explore the creation of a whole-genome sequencing program for life on Federal lands... to train future biological foundation models. Advance the Science of AI... Prioritize investment in theoretical, computational, and experimental research... Invest in AI Interpretability, Control, and Robustness Breakthroughs... Launch a technology development program led by DARPA in collaboration with CAISI at DOC and NSF, to advance AI interpretability, AI control systems, and adversarial robustness... Prioritize fundamental advancements in AI interpretability... coordinate an AI hackathon initiative... to test AI systems for transparency, effectiveness, use control, and security vulnerabilities.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The operative mechanisms are funded: secure compute environments within NSF and DOE, a DARPA-led interpretability programme, and data-quality standards (T5=2). 'Maintaining respect for individual rights and ensuring civil liberties, privacy, and confidentiality protections' is preamble framing with no enforcement body or cause of action (T4=1 -- rhetoric is 1, not 0, per §4.1 rule 2). Framing about national leadership carries no export or exclusion mechanism (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 4,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "USA_AIAP_2025_PIL01_EVALS",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar I: Accelerate AI Innovation — Build an AI Evaluations Ecosystem"
+    },
+    "text_excerpt": "Evaluations are how the AI industry assesses the performance and reliability of AI systems. Rigorous evaluations can be a critical tool in defining and measuring AI reliability and performance in regulated industries. Over time, regulators should explore the use of evaluations in their application of existing law to AI systems. Recommended Policy Actions: Publish guidelines and resources through NIST at DOC, including CAISI, for Federal agencies to conduct their own evaluations of AI systems for their distinct missions and operations and for compliance with existing law... Support the development of the science of measuring and evaluating AI models, led by NIST at DOC, DOE, NSF, and other Federal science agencies... Convene meetings at least twice per year under the auspices of CAISI at DOC for Federal agencies and the research community to share learnings and best practices on building AI evaluations... Invest, via DOE and NSF, in the development of AI testbeds for piloting AI systems in secure, real-world settings, allowing researchers to prototype new AI systems and translate them to the market. Such testbeds would encourage participation by broad multistakeholder teams and span a wide variety of economic verticals touched by AI, including agriculture, transportation, and healthcare delivery... Led by DOC, convene the NIST AI Consortium to empower the collaborative establishment of new measurement science that will enable the identification of proven, scalable, and interoperable techniques and metrics to promote the development of AI.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "NIST guidelines, DOE/NSF testbed investment, and the NIST AI Consortium are funded institutional programmes (T5=2). Evaluation 'for compliance with existing law' is voluntary guidance for agencies, not an enforceable audit obligation on developers (T4=1). No cross-border, content, or surveillance dimension in this unit."
+    }
+  },
+  {
+    "benchmark_id": 5,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "USA_AIAP_2025_PIL01_P11",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Action Plan / Executive Policy Directive",
+      "year": 2025,
+      "issuing_authority": "Executive Office of the President",
+      "structural_location": "Pillar I: Accelerate AI Innovation — Drive Adoption of AI within the Department of Defense"
+    },
+    "text_excerpt": "AI has the potential to transform both the warfighting and back-office operations of the DOD. The United States must aggressively adopt AI within its Armed Forces if it is to maintain its global military preeminence while also ensuring, as outlined throughout this Action Plan, that its use of AI is secure and reliable. Because the DOD has unique operational needs within the Federal government, it merits specific policy actions to drive AI adoption. Recommended Policy Actions: Identify the talent and skills DOD’s workforce requires to leverage AI at scale... Establish an AI & Autonomous Systems Virtual Proving Ground at DOD... Develop a streamlined process within DOD for classifying, evaluating, and optimizing workflows... aiming to develop a list of priority workflows for automation with AI... Prioritize DOD-led agreements with cloud service providers, operators of computing infrastructure, and other relevant private sector entities to codify priority access to computing resources in the event of a national emergency so that DOD is prepared to fully leverage these technologies during a significant conflict. Grow our Senior Military Colleges into hubs of AI research, development, and talent building...",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 2,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": "DOD-led agreements codifying priority access to computing resources during a national emergency",
+        "addressee": "Cloud service providers and operators of computing infrastructure",
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Conflicting Statutory Mandates",
+      "justification": "Agreements with cloud providers 'to codify priority access to computing resources in the event of a national emergency' supply an instrument and an addressee, but the obligation arises by agreement rather than by penalty or override -- two of the three Score-3 conditions, so T2 is capped at 2 and flagged (§2.2). The AI & Autonomous Systems Virtual Proving Ground and Senior Military College hubs are funded institutional capacity (T5=2). CORRECTION TO v1: v1 scored T6=3 on 'maintain its global military preeminence'. That clause names no instrument, addressee, or consequence and is rhetoric under the Evidence Test, so T6 is 1. This removes one of the four unearned US score-3 observations identified in CODING_READINESS.md Part 4."
+    }
+  },
+  {
+    "benchmark_id": 6,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS_2019_PROJ_LOGISTICS",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "National AI Projects — Logistics: Optimise Freight Movement"
+    },
+    "text_excerpt": "How can we optimise the movement of freight to improve productivity for businesses, and traffic efficiency?... We aim to create a freight movement ecosystem where key parties leverage AI to share information and collaborate in an integrated manner, to enable more efficient freight and truck movement across Singapore. Intelligent routing and scheduling of trucks... Pooling and dynamic assignment of trucking jobs... We will explore building a common and trusted data exchange platform to facilitate planning and optimisation of truck trips. We will focus our initial efforts on piloting and deploying AI applications that facilitate planning and optimisation of truck trips to and from the sea gateway... AI-enabled planning and modelling for better urban planning. Data collected from the ecosystem will also enable Government to conduct data-driven policy reviews and do better urban planning to improve the overall efficiency of Singapore’s logistics ecosystem.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Piloting and deploying AI for truck routing, job pooling, and a common data exchange platform is funded sectoral deployment (T5=2). The objects of observation are freight vehicles and cargo flows, not persons: the Human Target Constraint (§3, Theme 1 boundary) routes this to T5 and leaves T1 at 0. Business competitiveness framing carries no cross-border mechanism (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 7,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS_2019_PROJ05_BORDER",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "National AI Projects — Project 5: Border Clearance Operations"
+    },
+    "text_excerpt": "We aim to deploy AI to achieve 100% automated immigration clearance for all travellers, including first-time social visitors. Singaporeans and departing visitors will experience 'Breeze-Through' immigration clearance, without the need to present their passports... Even though our border security will be enhanced, for most travellers, these security measures will work quietly in the background... Singapore will explore using AI to assist immigration officers in evaluating the risk profile of travellers before they arrive at our checkpoints, and to tier the level of security screening accordingly. To enable this, we will collect and analyse data from various sources, including the Singapore Arrival Cards submitted by travellers and advance passenger information from airlines.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 2,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 1,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "The operative mechanism is automated immigration clearance plus AI-assisted evaluation of 'the risk profile of travellers before they arrive', built on aggregated arrival-card and advance passenger data -- automated risk-scoring of individuals at a named national programme scale (T1=2). Traveller throughput and manpower framing is the supporting baseline (T5=1). Flagged under the mandatory trigger: every T1 score >= 2 is human-confirmed (§8.2)."
+    }
+  },
+  {
+    "benchmark_id": 8,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS_2019_ENAB02_P54_55",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "Ecosystem Enabler 2: AI Talent and Education — Key Thrust 2.1: Train More Singaporeans for High-Quality AI Jobs (Pages 54–55)"
+    },
+    "text_excerpt": "Talent is both the foundation of, and critical bottleneck for, realising Singapore’s AI vision. We need a range of multidisciplinary talent... to develop and deploy AI solutions to the key sectors: Research and Development... Data Engineering... Product Development... and Implementation... Singapore will track the supply and demand of AI talent and manpower to identify shortfalls... We will establish more local talent pipelines to increase the quantity and quality of our AI workforce in the longer-term. We will do so by creating AI conversion programmes and corporate-backed AI academies to upskill the latent pool of STEM and digital workers into higher-value AI-related job roles. Post-graduate Scholarships... with companies such as Alibaba, Nvidia, Sensetime, and Grab... AI Apprenticeship Programme (AIAP)... TechSkills Accelerator (TeSA)... to support ICT and non-ICT professionals to upgrade and acquire new skills for the digital economy.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Funded talent pipelines -- conversion programmes, corporate AI academies, AIAP, TeSA -- are institutional capacity building (T5=2). 'Track the supply and demand of AI talent and manpower' is labour-market statistics about an aggregate, not monitoring of identified individuals, so T1 stays 0 (§3 Theme 1 scope). Attracting global talent is competitiveness framing (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 9,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS_2019_ENAB03_DATA",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2019,
+      "issuing_authority": "Smart Nation and Digital Government Office (SNDGO)",
+      "structural_location": "Ecosystem Enabler 3: Data Architecture — Key Thrust 3.1: Establish Frameworks for Public-Private Data Collaboration"
+    },
+    "text_excerpt": "Data is the foundation that anchors AI collaboration between Government, industry, and research. Despite Singapore’s small size, we have natural comparative advantages in data. We can leverage our unique common identifiers to curate rich, cross-sectoral datasets... Singapore’s key value proposition to global companies and talent lies in our ability to provide timely and secure access to rich, high quality datasets. We must manage our data as strategic national assets and establish an ecosystem to acquire, clean, fuse, and distribute data across the public and private sectors. At the same time, we must proactively build institutional capabilities to manage and govern data, to protect against cyberattacks, safeguard our citizens’ data privacy, and ensure that data is used for the public good... We will begin by consolidating the data assets required for each of the National AI Projects, and put in place the necessary data sharing frameworks and legislation to enable companies to share and exploit data securely. Key Thrust 3.1 Establish frameworks for public-private data collaboration... Private Sector Data Sharing Framework. IMDA has published the Trusted Data Sharing Framework to guide companies in establishing data sharing partnerships with each other.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Consolidating data assets, the Trusted Data Sharing Framework, and public-private data pipelines are funded institutional infrastructure (T5=2). 'Safeguard our citizens' data privacy' is stated as a governance aspiration with no independent enforcement body or penalty in this unit (T4=1). Note the near boundary: 'put in place the necessary data sharing frameworks and legislation' names legislation but does not describe its obligations, so it does not lift T4."
+    }
+  },
+  {
+    "benchmark_id": 10,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS2_2023_ENAB09_P55",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2023,
+      "issuing_authority": "Smart Nation Group / Ministry of Communications and Information (MCI)",
+      "structural_location": "System 3: Infrastructure & Environment — Enabler 9: Trusted Environment (Page 55)"
+    },
+    "text_excerpt": "Trust and safety underwrite confidence in Singapore’s AI landscape. They lie at the heart of our interventions to deliver AI for the Public Good. We will endeavour for AI to be developed and deployed in a safe, trustworthy, and responsible manner. The Government will institutionalise appropriate governance and security frameworks for AI systems... We must retain agility in our regulatory approaches... The Government must therefore take a pragmatic approach – supporting experimentation and innovation, while still ensuring that AI is developed and used responsibly, in line with the rule of law and the safeguards we have put in place... There is a range of potential risks around AI, spanning from concerns around model quality and fair use, to fears around the loss of control and existential risks... We must ensure that AI systems are well-developed, reliable, and resilient... ensure that the output of models is not biased, inaccurate, or erroneous. AI models should also be aligned with the appropriate set of human and cultural values... We must prevent AI models from being used in malicious or harmful ways... If AI is used carelessly, it can potentially amplify negative outcomes like discrimination, anti-competitive behaviours, or intellectual property infringement... The Government will take differentiated approaches to managing risks to and from AI, ranging from regulatory moves to voluntary guidelines...",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 1,
+        "T4_civilrights": 1,
+        "T5_economic": 1,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "aspirational",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "Moderate",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Governance and security frameworks are promised but explicitly 'differentiated... ranging from regulatory moves to voluntary guidelines', with no instrument named (T4=1). CORRECTION TO v1: v1 scored T3=0. The unit states that model output must not be 'biased, inaccurate, or erroneous' and should be 'aligned with the appropriate set of human and cultural values' -- a statement of concern about the informational character of AI output with no mechanism attached, which is the T3=1 anchor under the v2 expanded anchors. Innovation framing supplies the economic baseline (T5=1). Confidence is Moderate because the unit describes a posture rather than a mechanism."
+    }
+  },
+  {
+    "benchmark_id": 11,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS2_2023_ACT13_P57",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2023,
+      "issuing_authority": "Smart Nation Group / Infocomm Media Development Authority (IMDA)",
+      "structural_location": "System 3: Infrastructure & Environment — Action 13: Ensure Fit-for-Purpose Regulatory Environment for AI (Page 57)"
+    },
+    "text_excerpt": "The Government will continue to maintain a regulatory environment for AI that is pro-innovation while ensuring appropriate guardrails... Update AI governance frameworks to address novel risks... like the Model AI Governance Framework and AI Verify... AI Verify is an AI governance testing framework and software toolkit developed by IMDA. The testing framework consists of 11 AI ethics principles... AI Verify helps organisations validate the performance of their AI systems against these principles through standardised tests... Continue working with partners on R&D, particularly around alignment and evaluations... supported by policy measures including regulatory sandboxes, pilots for solutions such as watermarking and model cards, and capability development to nurture a domestic Testing, Inspection, and Certification (TIC) sector. Design interventions that are risk-based, tiered, and adapted for specific vertical sectors and horizontal applications... Consider updates to broader standards and laws to support effective AI use. Contribute actively to international discourse on AI governance, to raise capacity, share best practices, and shape rules around AI...",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 2,
+        "T3_infocontrol": 2,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "Moderate",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "CORRECTION TO v1: v1 scored T3=0 despite 'pilots for solutions such as watermarking and model cards', which is almost verbatim the T3=2 anchor ('State-funded watermarking, provenance, or synthetic-media detection pilots'). T3=2. 'Regulatory sandboxes' suspend specified requirements for enrolled participants, which is the T2=2 anchor. AI Verify and the domestic TIC sector are funded institutional capacity (T5=2); the 11 ethics principles are a voluntary toolkit, not an enforceable audit (T4=1). Flagged on two triggers: T3 >= 2, and T2/T3/T5 tie for primary at 2."
+    }
+  },
+  {
+    "benchmark_id": 12,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "SGP_NAIS2_2023_ACT15_P62",
+    "document_metadata": {
+      "jurisdiction": "Singapore",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2023,
+      "issuing_authority": "Smart Nation Group / Ministry of Communications and Information (MCI)",
+      "structural_location": "System 3: Infrastructure & Environment — Action 15: Establish Singapore as an Ambitious and Pragmatic International Partner on AI Innovation and Governance (Page 62)"
+    },
+    "text_excerpt": "Action 15: Establish Singapore as an ambitious and pragmatic international partner on AI innovation and governance. Singapore is committed to being a serious and reliable international partner on AI. This is important for sustaining our international position as a trusted hub. We will: Continue to grow Singapore’s international networks with key partner countries and leading AI companies. Increase international mindshare in practical and risk-based approaches to AI... We have developed governance frameworks and open-source testing toolkits such as AI Verify. These demonstrate Singapore’s commitment to developing and deploying AI well, and we will leverage these gains to be a global pace-setter at the forefront of AI. We will contribute to international AI developments by: Anchoring key bilateral relationships with selected partners from government and industry... Demonstrating alignment with key international fora and supporting worthwhile platforms... Sharing Singapore’s experience and curating meaningful partnerships for capacity building... We are the convenor of the Forum of Small States (FOSS), which now has a digital pillar of engagement. Together with government and industry partners, we will develop AI-related capacity building initiatives to benefit the 108 members of FOSS.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 1,
+        "T6_geopolitical": 2
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Anchoring bilateral relationships, participating in multilateral fora, and building FOSS capacity initiatives are formalised international engagement programmes (T6=2), not export controls or exclusions, so the Evidence Test is not reached. AI Verify is referenced as an existing asset rather than funded here (T5=1); governance framing is rhetorical (T4=1)."
+    }
+  },
+  {
+    "benchmark_id": 13,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "IND_NAIS_2018_SEC_AGRI_P30_33",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap / Discussion Paper",
+      "year": 2018,
+      "issuing_authority": "NITI Aayog",
+      "structural_location": "Focus Sectors: Agriculture — Soil Health, Crop Monitoring, Farm Mechanisation & Price Realisation (Pages 30–33)"
+    },
+    "text_excerpt": "Agriculture and allied sector is critical to India’s growth story... The Government of India has recently prioritised Doubling Farmers’ Income as a National Agenda; putting considerable focus on supply chain perspectives in agriculture and market development in addition to productivity augmentation... AI will have significant global impact on agricultural productivity at all levels of the value chain... digital farming and connected farm services can impact 70 million Indian farmers in 2020, adding USD9 billion to farmer incomes... Use of AI and related technologies have the potential to impact productivity and efficiency: Soil health monitoring and restoration... Crop health monitoring and providing real time action advisories to farmers... Increasing efficiency of farm mechanisation... Increasing the share of price realisation to producers... Predictive analytics using AI tools can bring more accurate supply and demand information to farmers, thus reducing information asymmetry between farmers and intermediaries. Data from e-NAM, Agricultural Census, AGMARKET and over 110 million Soil Health Samples provide the volumes required for any predictive modelling... NITI Aayog and IBM have partnered to develop a crop yield prediction model using AI to provide real time advisory to farmers... implemented in 10 Aspirational Districts across the States of Assam, Bihar, Jharkhand, Madhya Pradesh, Maharashtra, Rajasthan and Uttar Pradesh.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The NITI Aayog-IBM crop yield model is 'implemented in 10 Aspirational Districts', an operating programme, so T5=2 with binding_status 'enacted'. Soil, crop, and market telemetry observes land, produce, and prices -- things, not persons -- so T1 remains 0 under the Human Target Constraint. Global productivity comparisons are framing (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 14,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "IND_NAIS_2018_SEC_EDU_P35_37",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap / Discussion Paper",
+      "year": 2018,
+      "issuing_authority": "NITI Aayog",
+      "structural_location": "Focus Sectors: Education — Adaptive Learning Tools, Dropout Prediction & Teacher Rationalisation (Pages 35–37)"
+    },
+    "text_excerpt": "An effective education sector has the ability to transform a country through development of human resources and increased productivity... School education in India has seen substantial progress... However, low retention rates and poor learning outcomes mar the impact of gains in enrolment... AI has the potential to bring about changes in the sector by supplementing pedagogy and establishing systems to inform and support decision making across stakeholders and administrative levels... Adaptive learning tools for customised learning... Intelligent and interactive tutoring systems... Predictive tools to inform pre-emptive action for students predicted to drop out of school: Analysis of test results and attendance records using AI can be used to predict probable student activities and inform pre-emptive action. For instance, in a recent preliminary experiment conducted in Andhra Pradesh, AI applications processed data on all students based on parameters such as gender, socio-economic factors, academic performance, school infrastructure, teacher skills, etc., with the objective of helping the government identify students likely to drop out... Automated rationalisation of teachers... Customised professional development courses.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Adaptive learning tools, intelligent tutoring, dropout prediction and automated teacher rationalisation are funded sectoral deployment in education (T5=2), evidenced as operating by 'a recent preliminary experiment conducted in Andhra Pradesh'. The dropout model does score identified individuals -- 'AI applications processed data on all students based on parameters such as gender, socio-economic factors, academic performance' -- but its stated purpose is 'helping the government identify students likely to drop out' so that pre-emptive support can reach them. Under the Theme 1 purpose test (codebook v2.0.1 §3), individual-level prediction whose purpose is delivering a benefit to the person scored is Theme 5, not Theme 1. This unit is the reason that test was written down: without it, every personalised public service scores as surveillance."
+    }
+  },
+  {
+    "benchmark_id": 15,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "IND_NAIS_2018_CH_ETHICS_P85_88",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap / Discussion Paper",
+      "year": 2018,
+      "issuing_authority": "NITI Aayog",
+      "structural_location": "Chapter: Ethics, Privacy, Security and Artificial Intelligence — Towards a 'Responsible AI' (Pages 85–88)"
+    },
+    "text_excerpt": "Any strategy document on promoting AI, necessarily needs to be conscious of the probable factors of the AI ecosystem that may undermine ethical conduct, impinge on one’s privacy and undermine the security protocol... Presently, most AI solutions suffer from what is commonly known as the 'Black Box Phenomenon'... Opening the Black Box... should rather aim at 'explainability'... Dealing with privacy issues: Establish a data protection framework with legal backing: The work being done by Justice Srikrishna Committee on data protection law is very opportune and timely. The 7-core principles of data protection and privacy – informed consent, technology agnosticism, data controller accountability, data minimisation, holistic application, deterrent penalties and structured enforcement – are quite comprehensive and should provide a strong privacy protection regime in the country once enacted. Establish sectoral regulatory frameworks... Benchmark national data protection and privacy laws with international standards: European Union’s General Data Protection Regulation (GDPR) guidelines... Encourage self-regulation: Data Privacy Impact Assessment Tools... Invest and collaborate in privacy preserving AI research... Differential Privacy, Privacy by Design... Spread awareness: Privacy has been termed as a fundamental right by the Supreme Court of India... Security in AI: Negligence test for damages caused by AI software, as opposed to strict liability... safe harbours need to be formulated to insulate or limit liability so long as appropriate steps to design, test, monitor, and improve the AI product have been taken... establish a new Centre for Data Ethics and Innovation...",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 3,
+        "T5_economic": 1,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "proposed",
+      "score3_evidence": {
+        "instrument": "Srikrishna Committee data protection framework: seven core principles",
+        "addressee": "Data controllers",
+        "consequence": "Deterrent penalties and structured enforcement"
+      },
+      "confidence_level": "Moderate",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "The Srikrishna framework's seven enumerated principles include 'deterrent penalties and structured enforcement' and are addressed to data controllers -- instrument, addressee, and consequence are all identifiable, so T4=3 under the permissive reading of Evidence Test condition 1 (§2.2). The v1 cap at 2 rested on the document-class ceiling, which codebook v2 removes; the fact that the regime is not yet law is now carried by binding_status 'proposed' rather than by suppressing the score. Confidence is Moderate because the strict-versus-permissive reading of condition 1 is an open PI item (CHANGELOG Open items 2); under the strict reading this unit scores 2."
+    }
+  },
+  {
+    "benchmark_id": 16,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "DEU_AI_STRAT_2018_SEC_GOALS_P08",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2018,
+      "issuing_authority": "Federal Government of Germany (BMWi, BMBF, BMAS)",
+      "structural_location": "Section: Goals — Pillar I: Leading Centre for AI & Competitiveness; Pillar II: Responsible Development Serving the Good of Society; Pillar III: Ethical, Legal, Cultural and Institutional Integration (Page 8)"
+    },
+    "text_excerpt": "We want to make Germany and Europe a leading centre for AI and thus help safeguard Germany’s competitiveness in the future... Germany is to become a leading centre for AI, especially through the pursuit of a speedy and comprehensive transfer of research findings to applications and the modernisation of administration in the context of the needs of a state based on the rule of law. ‘Artificial Intelligence (AI) made in Germany’ is to become a globally recognised quality mark... We want to broaden the strong scientific basis for AI that we have in Germany and link it up with other promising technological developments and applications in order to develop new applications in a range of industries, in public administration and in different areas of society. We want Germany to build on its strong position in Industrie 4.0 and to become a world leader in AI applications in this field... whilst strictly observing data security and people’s right to control their personal data... We want a responsible development and use of AI which serves the good of society... adhering to ethical and legal principles consistent with our liberal democratic constitutional system... raise awareness... regarding ethical and legal limits of the use of artificial intelligence and to examine whether the regulatory framework needs to be further developed in order for it to guarantee a high level of legal certainty..",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "aspirational",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Goals of becoming a leading AI centre and building on Industrie 4.0 are backed by a stated intention to broaden the scientific base, which is programmatic but not itemised or funded in this unit (T5=2). 'Strictly observing data security and people's right to control their personal data' and 'examine whether the regulatory framework needs to be further developed' are non-binding commitments to study (T4=1). 'Globally recognised quality mark' is competitiveness rhetoric (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 17,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "DEU_AI_STRAT_2018_SEC03_CLUSTER",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2018,
+      "issuing_authority": "Federal Government of Germany (BMWi, BMBF, BMAS)",
+      "structural_location": "Section 3: European and International Cooperation — European Innovation Cluster & Franco-German Partnerships"
+    },
+    "text_excerpt": "We will form a European innovation cluster providing funding for cooperative research projects over the next five years. Many of the systemic developments described in the above will depend on cross-border innovation partnerships for their success. For this reason, we will work with other European partners from science and the business community on specific research and development projects, for instance as part of a EUREKA cluster. The representatives from SMEs and the industrial sector that take part in the Franco-German cooperation (cf. 3.1) should act as a nucleus for this kind of European cooperation, which is needed to highlight Europe’s role in research and also to make us more competitive. This can be achieved by pooling financing and sharing infrastructure and data (including data infrastructure or high-performance computing. This is the only way for us to reach the scale that is competitive at an international level (cf. also 3.11). Our goal for the medium term is to set up an integrated pan-European network of scientists and businesses, rooted in shared values and a joint regulatory framework (“European AI”).",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 2
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "Forming 'a European innovation cluster providing funding for cooperative research projects over the next five years' as part of a EUREKA cluster is a formalised cross-border R&D funding programme (T6=2). The same commitment funds domestic research capacity and shared high-performance computing (T5=2). 'Shared values and a joint regulatory framework' is rhetorical (T4=1). Flagged because T5 and T6 tie for primary at 2."
+    }
+  },
+  {
+    "benchmark_id": 18,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_v1_excerpt",
+    "fills_cell": "carried over from v1",
+    "unit_id": "DEU_AI_STRAT_2018_SEC_WORK_CODET",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "document_hierarchy": "National Strategy Roadmap",
+      "year": 2018,
+      "issuing_authority": "Federal Government of Germany (BMWi, BMBF, BMAS)",
+      "structural_location": "Section 3: AI in the World of Work — Safeguarding Co-Determination and Employee Data Protection"
+    },
+    "text_excerpt": "The Federal Government will safeguard the right to co-determination, including where the introduction of AI application is concerned; the Federal Government will look into the question of whether a dedicated Workforce Data Protection Act could improve the level of legal certainty where this type of application is introduced in companies.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 2,
+        "T5_economic": 1,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "proposed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "Moderate",
+      "flag_human_review": "YES",
+      "flag_reason": "Missing Operational Context",
+      "justification": "Safeguarding the right to co-determination where AI is introduced engages an existing statutory works-council regime, and a 'dedicated Workforce Data Protection Act' is named as a specific instrument under consideration (T4=2: a published framework under study, short of the enumerated obligations the Evidence Test requires for 3). Introduction of AI applications in companies is the incidental economic context (T5=1). Flagged on the mandatory word-count trigger: the unit is 50 words, far below the 100-word floor, and 'look into the question of whether' leaves the obligation undescribed."
+    }
+  },
+  {
+    "benchmark_id": 19,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_corpus_unit",
+    "fills_cell": "T3=3 (first exemplar at any level), T2=3, T5=0",
+    "unit_id": "USA_AIAP_2025_PILLARIA_ENSURE_P03_04",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "doc_id": "USA_AIAP_2025",
+      "year": 2025,
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "structural_location": "Pillar I: Accelerate AI Innovation > Ensure that Frontier AI Protects Free Speech and American Values",
+      "page_start": 6,
+      "page_end": 7,
+      "word_count": 274
+    },
+    "text_excerpt": "• Led by the Federal Communications Commission (FCC), evaluate whether state AI regulations interfere with the agency’s ability to carry out its obligations and authorities\n• Review all Federal Trade Commission (FTC) investigations commenced under the previous administration to ensure that they do not advance theories of liability that unduly burden AI innovation. Furthermore, review all FTC final orders, consent decrees, and injunctions, and, where appropriate, seek to modify or set-aside any that unduly burden AI innovation.\nEnsure that Frontier AI Protects Free Speech and American Values\nAI systems will play a profound role in how we educate our children, do our jobs, and consume media. It is essential that these systems be built from the ground up with freedom of speech and expression in mind, and that U.S. government policy does not interfere with that objective. We must ensure that free speech flourishes in the era of AI and that AI procured by the Federal government objectively reflects truth rather than social engineering agendas. Recommended Policy Actions\n• Led by the Department of Commerce (DOC) through the National Institute of Standards and Technology (NIST), revise the NIST AI Risk Management Framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate\n• Update Federal procurement guidelines to ensure that the government only contracts with frontier large language model (LLM) developers who ensure that their systems are objective and free from top-down ideological bias.\n• Led by DOC through NIST’s Center for AI Standards and Innovation (CAISI), conduct research and, as appropriate, publish evaluations of frontier models from the People’s Republic of China for alignment with Chinese Communist Party talking points and censorship.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 3,
+        "T3_infocontrol": 3,
+        "T4_civilrights": 1,
+        "T5_economic": 0,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": "Updated Federal procurement guidelines; revision of the NIST AI Risk Management Framework; set-aside of FTC final orders",
+        "addressee": "Frontier large language model developers contracting with the Federal government; FTC; FCC",
+        "consequence": "Disqualification from Federal contracts; set-aside of existing final orders, consent decrees and injunctions"
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "'Update Federal procurement guidelines to ensure that the government only contracts with frontier large language model (LLM) developers who ensure that their systems are objective and free from top-down ideological bias' satisfies all three Score-3 conditions for Theme 3: a procurement instrument, frontier model developers as addressee, and loss of federal contracts as consequence. Conditioning state purchasing on the viewpoint character of a model is state curation of the information environment (§3 Theme 3 expanded indicators). 'Revise the NIST AI Risk Management Framework to eliminate references to misinformation, Diversity, Equity, and Inclusion, and climate' is official revision of a state risk framework's content categories, reinforcing T3. Directing FCC to evaluate whether state AI regulations 'interfere' and directing review to 'modify or set-aside' FTC final orders that 'unduly burden AI innovation' is an override of otherwise-applicable regulatory decisions (T2=3). No funding, compute, or workforce mechanism appears, so T5=0. Evaluating PRC models 'for alignment with Chinese Communist Party talking points' is framing without an export or exclusion instrument (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 20,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_corpus_unit",
+    "fills_cell": "T3=2",
+    "unit_id": "USA_AIAP_2025_PILLARIA_COMBAT_P12_13",
+    "document_metadata": {
+      "jurisdiction": "United States",
+      "doc_id": "USA_AIAP_2025",
+      "year": 2025,
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "structural_location": "Pillar I: Accelerate AI Innovation > Combat Synthetic Media in the Legal System",
+      "page_start": 15,
+      "page_end": 16,
+      "word_count": 199
+    },
+    "text_excerpt": "Combat Synthetic Media in the Legal System\nOne risk of AI that has become apparent to many Americans is malicious deepfakes, whether they be audio recordings, videos, or photos. While President Trump has already signed the TAKE IT DOWN Act, which was championed by First Lady Melania Trump and intended to protect against sexually explicit, non-consensual deepfakes, additional action is needed. 19 In particular, AI-generated media may present novel challenges to the legal system. For example, fake evidence could be used to attempt to deny justice to both plaintiffs and defendants. The Administration must give the courts and law enforcement the tools they need to overcome these new challenges. Recommended Policy Actions\n• Led by NIST at DOC, consider developing NIST’s Guardians of Forensic Evidence deepfake evaluation program into a formal guideline and a companion voluntary\n• Led by the Department of Justice (DOJ), issue guidance to agencies that engage in adjudications to explore adopting a deepfake standard similar to the proposed Federal Rules of Evidence Rule 901(c) under consideration by the Advisory Committee on Evidence Rules.\n• Led by DOJ’s Office of Legal Policy, file formal comments on any proposed deepfakerelated additions to the Federal Rules of Evidence.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 2,
+        "T4_civilrights": 1,
+        "T5_economic": 0,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "Developing NIST's 'Guardians of Forensic Evidence deepfake evaluation program into a formal guideline and a companion voluntary' standard, and DOJ guidance to 'explore adopting a deepfake standard', are state-funded synthetic-media detection and provenance work with no enforcement consequence attached -- the T3=2 anchor exactly. The enacted TAKE IT DOWN Act is cited but its obligations are not described in the unit, so it cannot lift the score; it is why binding_status is 'directed' rather than 'proposed' for the actions that are directed here. Giving courts and law enforcement evidentiary tools engages judicial process safeguards rhetorically (T4=1). Flagged on the mandatory T3 >= 2 trigger."
+    }
+  },
+  {
+    "benchmark_id": 21,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_corpus_unit",
+    "fills_cell": "T1=2 from corpus (the cell CODING_READINESS.md identified as a coding blind spot)",
+    "unit_id": "IND_NAIS_2018_SMARTCIT_P40_40_2",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "doc_id": "IND_NAIS_2018",
+      "year": 2018,
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "structural_location": "Smart Cities and Infrastructure",
+      "page_start": 40,
+      "page_end": 40,
+      "word_count": 124
+    },
+    "text_excerpt": "e) Intelligent safety systems: AI technology could provide safety through smart command centres with sophisticated surveillance systems that could keep checks on people’s movement, potential crime incidents, and general security of the residents. Social media intelligence platforms can provide aid to public safety by gathering information from social media and predicting potential activities that could disrupt public peace. In the city of Surat, the crime rate has declined by 27% after the implementation of AI powered safety systems.\nf) Cyber-attacks: Cyber-attacks seem to pose a great threat to our institutions and public systems, today. AI technologies possess the capability to detect vulnerabilities and take remedial measures to minimise exposure of secure online platforms containing highly sensitive data from being targeted by unscrupulous social elements.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 2,
+        "T2_executive": 0,
+        "T3_infocontrol": 1,
+        "T4_civilrights": 0,
+        "T5_economic": 1,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "'Smart command centres with sophisticated surveillance systems that could keep checks on people's movement, potential crime incidents' places individuals and populations under observation, and 'in the city of Surat, the crime rate has declined by 27% after the implementation of AI powered safety systems' establishes that the programme is operating, not proposed (T1=2, binding_status 'enacted'). This is the passage the Theme 1 boundary clarification exists to catch: the programme is framed as smart-city infrastructure, but the object of observation is people, so it is Theme 1 and not Theme 5. 'Social media intelligence platforms... gathering information from social media and predicting potential activities that could disrupt public peace' is state monitoring of the public information space without a removal or labelling obligation (T3=1). Cyber-attack detection protects infrastructure integrity and is Theme 5 baseline, not Theme 3 (T5=1)."
+    }
+  },
+  {
+    "benchmark_id": 22,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_corpus_unit",
+    "fills_cell": "T1=2 / T5=2 dual-code, demonstrating the Human Target Constraint splitting one passage",
+    "unit_id": "IND_NAIS_2018_SMARTCIT_P39_39_2",
+    "document_metadata": {
+      "jurisdiction": "India",
+      "doc_id": "IND_NAIS_2018",
+      "year": 2018,
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "structural_location": "Smart Cities and Infrastructure",
+      "page_start": 39,
+      "page_end": 40,
+      "word_count": 300
+    },
+    "text_excerpt": "b) Inefficient utility distribution: Through large scale deployment of smart meters in both electricity and water, smart cities being developed are trying to solve challenges such as low visibility on usage of utilities such as electricity, water, and waste management. This is also targeted to help address issues of leakages in electricity and water distribution, and improper disposal of waste, and have the potential to significantly reduce cost associate with administration and management.\nc) Improved delivery of citizen services: In the domain of service delivery, smart cities aim to harness data to solve issues in low accountability and transparency. By using digital channels, they can help address challenges in administration of offices, and long wait times. Today, poor standards of grievance redressal form another pressing issue that may be addressed by increasing adoption of technology based solutions.\nd) Improving public safety: Cities in India today are hotbeds for a range of crimes. Smart cities aim to address the issues of increase in crime and increased risk of urban emergencies through improved city design and surveillance analytics. Some Smart Cities have already begun implementing these features through specific projects. Pune, for example, has launched The Pune Street Light Project to setup energy efficient street lights that can be remote controlled through a Supervisory Control and Data Acquisition (SCADA) systems. Surat has built a network of more than 600 surveillance cameras which will be expanded to all major locations in the city, as well as collaborated with Microsoft to develop solutions for water management and urban planning. Due to the large amount of data they can create, smart cities are especially amenable to application of AI, which can make sense of the data being generated, and transform it into predictive intelligence – thus transitioning from a smart city to an ‘intelligent city’.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 2,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "Moderate",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "The unit contains both kinds of monitoring and is dual-coded accordingly. Smart electricity and water meters, leakage detection, and waste management observe utilities and physical distribution networks -- things (T5=2, and 'smart cities being developed are trying to solve' marks operating programmes). 'Surat has built a network of more than 600 surveillance cameras which will be expanded to all major locations in the city' and 'surveillance analytics' observe people, so the same unit scores T1=2 independently. Under codebook v1 the 'smart municipal grids belong to Theme 5' boundary would have routed the camera network to Theme 5 and scored T1=0; §3's boundary clarification reverses that. Flagged on the mandatory T1 >= 2 trigger."
+    }
+  },
+  {
+    "benchmark_id": 23,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_corpus_unit",
+    "fills_cell": "T1=1, T3=1",
+    "unit_id": "DEU_AISTRAT_2018_3FIELDSO_37USIN_P31_31_3",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "doc_id": "DEU_AISTRAT_2018",
+      "year": 2018,
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "structural_location": "3. Fields of action > 3.7 Using AI for tasks reserved for the state and administrative tasks",
+      "page_start": 31,
+      "page_end": 32,
+      "word_count": 242
+    },
+    "text_excerpt": "The Federal Government seeks to identify suitable areas for the security authorities and further the use of AI in a way that promotes an agile and practice-oriented development. In the field of security, the use of AI-based systems plays an important part in ensuring Germany’s digital sovereignty, and by extension in ensuring public security and the security of German business. AI-based analysis methods can be considerably more efficient than conventional analysis methods, even though these methods are currently no more than an additional method for big data analysis that can be used in accordance with the Basic Law by combining it with other (including conventional) technologies. In this context, AI is used to provide information for decision-making that cannot be gathered without the use of AI within an adequate time period. This includes the recognition of persons through big data analysis, even though the appraisal of this information by police, intelligence and military authorities and the decisions made based on this information will continue to be conducted by the staff of the authorities. In addition to this, AI can be used in law enforcement/emergency response for protecting citizens and for coordinating the deployment of police forces. Other areas where AI may be used include predictive policing (under certain conditions and safeguarding personal rights), the protection of children and young people against sexualised violence on the internet and combatting and prosecuting the dissemination of footage depicting abuse, and social media forensics for profiling.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 1,
+        "T2_executive": 0,
+        "T3_infocontrol": 1,
+        "T4_civilrights": 1,
+        "T5_economic": 0,
+        "T6_geopolitical": 1
+      },
+      "binding_status": "aspirational",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "AI is named for 'the recognition of persons through big data analysis', 'coordinating the deployment of police forces', 'predictive policing', and 'social media forensics for profiling', but the Federal Government only 'seeks to identify suitable areas' -- no programme, budget, procurement, or named implementing body, which is precisely the T1=1 anchor. 'Combatting and prosecuting the dissemination of footage depicting abuse' engages the public information space without a platform obligation or penalty (T3=1). 'In accordance with the Basic Law', 'safeguarding personal rights', and retention of human decision-making by authority staff are stated safeguards without an enforcement mechanism in this unit (T4=1). Digital sovereignty framing is rhetorical (T6=1)."
+    }
+  },
+  {
+    "benchmark_id": 24,
+    "codebook_version": "2.0.1",
+    "source_type": "verbatim_corpus_unit",
+    "fills_cell": "T2=1 (no exemplar existed at this level)",
+    "unit_id": "DEU_AISTRAT_2018_3FIELDSO_WEWILL_P19_19_2",
+    "document_metadata": {
+      "jurisdiction": "Germany",
+      "doc_id": "DEU_AISTRAT_2018",
+      "year": 2018,
+      "regime_type": "PENDING (see codebook/CHANGELOG.md Open items 4)",
+      "structural_location": "3. Fields of action > 3.1 Strengthening research in Germany and Europe in order to be drivers of innovation > We will promote research and development for applications that protect consumers’ interests and",
+      "page_start": 19,
+      "page_end": 19,
+      "word_count": 250
+    },
+    "text_excerpt": "From an early stage on, the Federal Government will feed regulatory expertise into those research and development activities that must meet particularly high regulatory requirements in order to complete the trajectory into real-life applications. The objective must be to consider not only the established R&D partnerships formed by stakeholders in research and business – particularly those catering to fields of applications in specific industries or niches – but to also factor in the regulatory framework for later use, thus enabling a broad range of applications. This is to be achieved by involving experts from licensing authorities and from organisations that have an influence on market access early on in the process. The healthcare sector would be one example, as would be other markets that have stringent safety, security and reliability standards, such as private and public-sector transport systems.\nThe Federal Government will review its existing funding mechanisms to tailor them to AI research and initiate the development of more agile and of novel funding schemes. We will streamline the framework for research funding as much as possible. The Federal Government will fully use the margin of discretion available under funding and state-aid rules to render research funding schemes more efficient and attractive – particularly for start-ups and innovative SMEs– and to make research findings more easily accessible. We will also factor in lessons learned e.g. from the Prototype Fund and from the treatment of intellectual property rights in spin-out companies and from other ways of transferring research findings to industry.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 1,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 1,
+        "T5_economic": 2,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "directed",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "'We will streamline the framework for research funding as much as possible' and 'fully use the margin of discretion available under funding and state-aid rules to render research funding schemes more efficient' is administrative streamlining rhetoric: no exemption is created, no statutory review is suspended, no addressee is placed under obligation. That is the T2=1 anchor, and it is the level v1 had no exemplar for. Reviewing and tailoring funding mechanisms and developing novel funding schemes for start-ups and SMEs is funded institutional capacity (T5=2). Involving licensing authorities early to protect consumers' interests is a process commitment without enforceable rights (T4=1)."
+    }
+  },
+  {
+    "benchmark_id": 25,
+    "codebook_version": "2.0.1",
+    "source_type": "synthetic_exemplar",
+    "fills_cell": "T1=3",
+    "unit_id": "EXT_T1_3_BIOMETRIC_MANDATE",
+    "document_metadata": {
+      "jurisdiction": "Synthetic exemplar (register of an enacted national digital identity and lawful-intercept decree)",
+      "doc_id": "EXTERNAL",
+      "year": null,
+      "regime_type": "n/a",
+      "structural_location": "Calibration anchor -- not drawn from the analysis corpus",
+      "warning": "Synthetic exemplar written in the register of the instrument class it represents. NOT a quotation from any real document. Use for few-shot calibration only; never cite as corpus evidence."
+    },
+    "text_excerpt": "The competent authority shall establish and operate a unified national biometric identification register. All residents above the age of five shall be enrolled, providing facial images, all ten fingerprints, and iris scans; enrolment shall be a precondition for the issue or renewal of identity documents and for access to subsidised public services. Providers of public telecommunications networks and services shall, within one hundred and eighty days of the entry into force of this instrument, install and maintain interfaces enabling the competent security authorities to obtain subscriber, traffic and content data in real time, and shall retain such data for a period of twenty-four months. Automated facial recognition matching against the register shall be deployed at all designated public transport hubs and border crossings. Failure by a provider to install or maintain the required interface, or to comply with a data production order within the prescribed period, shall attract an administrative fine of up to two per cent of annual turnover and may result in suspension of the operating licence.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 3,
+        "T2_executive": 1,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 0,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "All three Score-3 conditions are present for Theme 1: an operative instrument (a unified national biometric register plus a lawful-intercept mandate), specified addressees (residents; providers of public telecommunications networks), and a consequence (administrative fines up to two per cent of turnover and licence suspension; denial of identity documents and subsidised services for non-enrolment). Compulsory registration of individuals in a state-operated identification system and mandatory data forwarding to security authorities are both named in the T1=3 anchor. SYNTHETIC EXEMPLAR: written in the register of such instruments to anchor the top of Theme 1, which no document in the pilot corpus reaches. Not a quotation and not corpus evidence."
+    }
+  },
+  {
+    "benchmark_id": 26,
+    "codebook_version": "2.0.1",
+    "source_type": "synthetic_exemplar",
+    "fills_cell": "T3=3 (external, non-US)",
+    "unit_id": "EXT_T3_3_TAKEDOWN_MANDATE",
+    "document_metadata": {
+      "jurisdiction": "Synthetic exemplar (register of an enacted deep-synthesis / online safety provision)",
+      "doc_id": "EXTERNAL",
+      "year": null,
+      "regime_type": "n/a",
+      "structural_location": "Calibration anchor -- not drawn from the analysis corpus",
+      "warning": "Synthetic exemplar written in the register of the instrument class it represents. NOT a quotation from any real document. Use for few-shot calibration only; never cite as corpus evidence."
+    },
+    "text_excerpt": "Providers of information services that generate or disseminate synthetic audio, image, video or text content shall apply a conspicuous label and an embedded, machine-readable provenance marker to all such content. Providers shall establish a reporting channel and, on receipt of a notice from the regulator or a substantiated user complaint, shall remove or restrict access to non-compliant content within twenty-four hours. Providers shall verify the real identity of users of generative services, retain logs for six months, and submit quarterly transparency reports to the regulator. The regulator may order rectification within a specified period; failure to comply attracts a fine of up to five per cent of domestic turnover, suspension of new user registration, or removal of the service from application distribution platforms.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 2,
+        "T2_executive": 0,
+        "T3_infocontrol": 3,
+        "T4_civilrights": 0,
+        "T5_economic": 0,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "Theme 3 reaches 3 on all three conditions: the instrument is a labelling, provenance and takedown obligation; the addressees are providers of information services; the consequence is fines up to five per cent of turnover, suspension of registration, and removal from distribution platforms. Mandatory real-identity verification of users and six-month log retention places identified individuals under state-mandated observation, so Theme 1 is dual-coded at 2 (an operating obligation short of a state-run identification or monitoring system). SYNTHETIC EXEMPLAR. Not a quotation and not corpus evidence."
+    }
+  },
+  {
+    "benchmark_id": 27,
+    "codebook_version": "2.0.1",
+    "source_type": "synthetic_exemplar",
+    "fills_cell": "T4=3 enacted (v1 had no T4=3 at all)",
+    "unit_id": "EXT_T4_3_DATA_PROTECTION_ACT",
+    "document_metadata": {
+      "jurisdiction": "Synthetic exemplar (register of an enacted comprehensive data protection statute)",
+      "doc_id": "EXTERNAL",
+      "year": null,
+      "regime_type": "n/a",
+      "structural_location": "Calibration anchor -- not drawn from the analysis corpus",
+      "warning": "Synthetic exemplar written in the register of the instrument class it represents. NOT a quotation from any real document. Use for few-shot calibration only; never cite as corpus evidence."
+    },
+    "text_excerpt": "A data fiduciary shall process personal data only for a lawful purpose for which the data principal has given consent, and shall implement appropriate technical and organisational measures to give effect to the obligations under this Act. A data principal shall have the right to obtain confirmation of processing, a summary of the personal data processed, the correction and erasure of personal data, and the nomination of a representative; and shall have the right to an effective remedy before the Board. Where a data fiduciary deploys an automated decision-making system that produces legal effects concerning a data principal, it shall conduct and retain a data protection impact assessment and shall provide, on request, meaningful information about the logic involved. The Board may, after an inquiry, impose a monetary penalty not exceeding two hundred and fifty crore rupees for failure to observe these obligations, and orders of the Board shall be enforceable as a decree of a civil court.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 3,
+        "T5_economic": 0,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Theme 4 reaches 3: the instrument is an enacted statute imposing processing, impact-assessment and explanation obligations; the addressees are data fiduciaries; the consequence is a monetary penalty enforceable as a decree of a civil court, alongside an effective remedy for the data principal. This is the anchor that distinguishes an enforceable rights regime from the voluntary toolkits and ethics councils that score 2, and from 'responsible AI' pledges that score 1. SYNTHETIC EXEMPLAR. Not a quotation and not corpus evidence."
+    }
+  },
+  {
+    "benchmark_id": 28,
+    "codebook_version": "2.0.1",
+    "source_type": "synthetic_exemplar",
+    "fills_cell": "T5=3 (v1 had no T5=3)",
+    "unit_id": "EXT_T5_3_LOCALISATION_QUOTA",
+    "document_metadata": {
+      "jurisdiction": "Synthetic exemplar (register of a statutory industrial localisation mandate)",
+      "doc_id": "EXTERNAL",
+      "year": null,
+      "regime_type": "n/a",
+      "structural_location": "Calibration anchor -- not drawn from the analysis corpus",
+      "warning": "Synthetic exemplar written in the register of the instrument class it represents. NOT a quotation from any real document. Use for few-shot calibration only; never cite as corpus evidence."
+    },
+    "text_excerpt": "Operators of public cloud and artificial intelligence computing facilities serving critical sectors shall ensure that not less than sixty per cent of installed accelerator capacity is procured from domestically manufactured sources by the end of the third year following commencement, rising to eighty per cent by the end of the fifth year. Designated undertakings shall submit annual production and procurement returns to the Ministry, which shall publish compliance tables. The sovereign investment fund shall allocate capital to designated undertakings against binding annual output targets set by the Ministry; an undertaking that fails to meet its output target in two consecutive years shall repay disbursed capital with interest and shall be removed from the designated list, and a facility operator that fails to meet the localisation threshold shall be ineligible for public procurement and for connection to the national compute grid.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 3,
+        "T6_geopolitical": 2
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Theme 5 reaches 3: the instrument is a statutory localisation threshold coupled with sovereign capital tied to binding output targets; the addressees are facility operators and designated undertakings; the consequence is repayment with interest, delisting, and ineligibility for public procurement and grid connection. This is state-directed industrial policy enforced by penalty, not a grant programme. Requiring domestically manufactured accelerators excludes foreign supply from critical-sector infrastructure, which is a supply-chain mechanism but is framed as a capacity threshold rather than an adversary exclusion or export prohibition (T6=2). SYNTHETIC EXEMPLAR. Not a quotation and not corpus evidence."
+    }
+  },
+  {
+    "benchmark_id": 29,
+    "codebook_version": "2.0.1",
+    "source_type": "synthetic_exemplar",
+    "fills_cell": "T6=3 from a non-US jurisdiction (every v1 score-3 was American)",
+    "unit_id": "EXT_T6_3_EXPORT_LICENCE_NONUS",
+    "document_metadata": {
+      "jurisdiction": "Synthetic exemplar (register of a non-US dual-use export control and investment screening instrument)",
+      "doc_id": "EXTERNAL",
+      "year": null,
+      "regime_type": "n/a",
+      "structural_location": "Calibration anchor -- not drawn from the analysis corpus",
+      "warning": "Synthetic exemplar written in the register of the instrument class it represents. NOT a quotation from any real document. Use for few-shot calibration only; never cite as corpus evidence."
+    },
+    "text_excerpt": "The items listed in Annex I, including advanced computing integrated circuits above the specified performance density, lithography and metrology equipment, and the associated technology and software, shall not be exported, transferred, brokered or made available to any person in a destination listed in Annex II without a licence issued by the competent national authority. Licences shall be refused where there is a risk that the items would contribute to military modernisation or to internal repression. Operators of critical infrastructure shall not procure or continue to operate network equipment supplied by an undertaking designated as high-risk under Article 12, and shall complete removal of such equipment within thirty-six months. Acquisitions by foreign undertakings of holdings exceeding ten per cent in domestic entities active in the Annex I technologies shall be notified and may be prohibited. Contravention shall be punishable by fine or imprisonment and by forfeiture of the items concerned.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 0,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 0,
+        "T6_geopolitical": 3
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "NO",
+      "flag_reason": "None",
+      "justification": "Theme 6 reaches 3 on all three conditions: an export licence regime plus a mandatory rip-and-replace obligation and investment screening; addressees are exporters, critical infrastructure operators, and foreign acquirers; consequences are licence refusal, criminal penalty, forfeiture, and prohibition of transactions. This benchmark exists to break the v1 pattern in which every score-3 observation came from a single jurisdiction, which CODING_READINESS.md identified as the gold standard's single biggest calibration weakness. SYNTHETIC EXEMPLAR. Not a quotation and not corpus evidence."
+    }
+  },
+  {
+    "benchmark_id": 30,
+    "codebook_version": "2.0.1",
+    "source_type": "synthetic_exemplar",
+    "fills_cell": "T2=3 from a non-US jurisdiction",
+    "unit_id": "EXT_T2_3_EMERGENCY_POWERS_NONUS",
+    "document_metadata": {
+      "jurisdiction": "Synthetic exemplar (register of an emergency powers / accelerated authorisation decree)",
+      "doc_id": "EXTERNAL",
+      "year": null,
+      "regime_type": "n/a",
+      "structural_location": "Calibration anchor -- not drawn from the analysis corpus",
+      "warning": "Synthetic exemplar written in the register of the instrument class it represents. NOT a quotation from any real document. Use for few-shot calibration only; never cite as corpus evidence."
+    },
+    "text_excerpt": "For the period of validity of this Decree, projects designated as of overriding national interest for artificial intelligence computing capacity shall be authorised under the accelerated procedure. In respect of such projects the requirement to carry out a strategic environmental assessment is suspended, the public consultation period is reduced to fifteen days, and the competent authority shall decide within sixty days; on the expiry of that period the authorisation shall be deemed granted. Appeals against an authorisation granted under this Decree shall not have suspensive effect. The Minister may requisition electricity network capacity and, where necessary, direct grid operators to give priority of connection to designated projects, notwithstanding the ordinary queue. Non-compliance by an operator with a direction issued under this Article shall attract a daily penalty payment.",
+    "evaluation_output": {
+      "scores_full_breakdown": {
+        "T1_surveillance": 0,
+        "T2_executive": 3,
+        "T3_infocontrol": 0,
+        "T4_civilrights": 0,
+        "T5_economic": 2,
+        "T6_geopolitical": 0
+      },
+      "binding_status": "enacted",
+      "score3_evidence": {
+        "instrument": null,
+        "addressee": null,
+        "consequence": null
+      },
+      "confidence_level": "High",
+      "flag_human_review": "YES",
+      "flag_reason": "Polysemic Uncertainty",
+      "justification": "Theme 2 reaches 3: the instrument is a decree creating an accelerated authorisation procedure; the addressees are competent authorities, grid operators, and objectors; the consequences are the explicit suspension of strategic environmental assessment, deemed authorisation on expiry, removal of suspensive effect from appeals, and daily penalty payments for non-compliance with a direction. This is an override of otherwise-applicable legal requirements, which is the definition of the T2=3 anchor. Requisitioning network capacity and directing priority grid connection builds compute infrastructure through coercion (T5=2). SYNTHETIC EXEMPLAR. Not a quotation and not corpus evidence."
+    }
+  }
+]
