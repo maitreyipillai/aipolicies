@@ -1,6 +1,6 @@
 # Reliability Report
 
-Codebook 2.0.0 | generated 2026-08-21 18:43 UTC
+Codebook 2.0.0 | generated 2026-08-21 18:45 UTC
 
 Units in the main run: **389**  
 Scoring routes present: interactive_session  

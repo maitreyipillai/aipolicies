@@ -204,7 +204,15 @@ classify_headings <- function(L) {
   # Which font sizes act as top-level section heads in this document. Needed
   # because SGP_NAIS_2019 sets "EXECUTIVE SUMMARY" larger than every real
   # section head, so height-ranking alone made it the ancestor of the whole book.
-  lv <- sort(unique(L$head_level[!is.na(L$head_level)]), decreasing = TRUE)
+  # Count only headings that survive stage A, and only font sizes used more than
+  # once: SGP_NAIS_2019 carries one-off display type at sizes 267, 88, 63 and 60
+  # on cover and divider pages, which otherwise monopolise the top two slots and
+  # stop any real section head from resetting the stack.
+  keep <- !is.na(L$head_level) & is.na(L$drop_reason)
+  tab <- table(L$head_level[keep])
+  lv <- as.numeric(names(tab)[tab >= 2])
+  lv <- sort(lv, decreasing = TRUE)
+  if (!length(lv)) lv <- sort(unique(L$head_level[keep]), decreasing = TRUE)
   L$toplevel_sizes <- if (length(lv) >= 3) list(lv[1:2]) else list(lv[1])
   L
 }
